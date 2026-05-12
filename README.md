@@ -4,7 +4,7 @@
 The flowchart of TSSF is displayed as follows:
 
 <p align="center"> 
-<img src=https://github.com/turningpoint1988/TSSF/blob/main/picture/flowchart.jpg>
+<img src=https://github.com/turningpoint1988/TSSF/blob/main/figure/flowchart.jpg>
 </p>
 
 <h4 align="center"> 
@@ -34,10 +34,10 @@ conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 -c pytorch
 
 ## Competing Methods
 
-- [Seq2Exp](https://github.com/divelab/AIRS/tree/main/OpenBio/Seq2Exp)
-- [CREaTor](https://github.com/DLS5-Omics/CREaTor)
-- [EPInformer](https://github.com/pinellolab/EPInformer)
-- [ScPGE](https://github.com/turningpoint1988/ScPGE)
+- [Seq2Exp](https://github.com/divelab/AIRS/tree/main/OpenBio/Seq2Exp): A sequence-to-expression network designed to explicitly discover and extract regulatory elements that drive target gene expression, thereby enhancing the accuracy of the gene expression prediction.
+- [CREaTor](https://github.com/DLS5-Omics/CREaTor): A deep neural network based on hierarchical attention that utilizes cCREs within open chromatin regions, combined with ChIP-seq data of TFs and histone modifications, to predict gene expression levels.
+- [EPInformer](https://github.com/pinellolab/EPInformer):A Transformer-based framework that predicts gene expression by integrating promoter-enhancer interactions and their sequences, epigenomic signals, and chromatin contacts.
+- [ScPGE](https://github.com/turningpoint1988/ScPGE): A scalable computational framework that predicts gene expression by assembling DNA sequences, TF binding scores, and epigenomic tracks of discrete cCREs into 3-dimensional tensors.
 
 ## Data Preparation
 
@@ -84,7 +84,7 @@ The process consists of three stages, (1) ‘warm-up’: select the best-perform
 We quantified the performance of all models across multiple cell types and tissues using Pearson correlation coefficients (Pearsonr) and mean absolute error (MAE) metrics.
 
 <p align="center"> 
-<img src=https://github.com/turningpoint1988/TSSF/blob/main/picture/performance.jpg>
+<img src=https://github.com/turningpoint1988/TSSF/blob/main/figure/performance.jpg>
 </p>
 
 <h4 align="center"> 
@@ -109,7 +109,7 @@ python cCRE_priorization.py -r <> -t <>
 The classification performance (PRAUC) of various methods across different distance groups in cCRE-gene interactions is as follows:
 
 <p align="center"> 
-<img src=https://github.com/turningpoint1988/TSSF/blob/main/picture/cCRE_priorization.jpg>
+<img src=https://github.com/turningpoint1988/TSSF/blob/main/figure/cCRE_priorization.jpg>
 </p>
 
 <h4 align="center"> 
