@@ -97,7 +97,7 @@ We can excute the task of active cCRE Prioritization using the following script:
 
 ```
 cd /path/TSSF
-python cCRE_priorization.py -r <> -m <>
+python cCRE_priorization.py -r <> -t <>
 ```
 
 | Arguments  | Description                                               |
