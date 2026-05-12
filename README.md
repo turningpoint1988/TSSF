@@ -36,7 +36,7 @@ conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 -c pytorch
 
 - [Seq2Exp](https://github.com/divelab/AIRS/tree/main/OpenBio/Seq2Exp): A sequence-to-expression network designed to explicitly discover and extract regulatory elements that drive target gene expression, thereby enhancing the accuracy of the gene expression prediction.
 - [CREaTor](https://github.com/DLS5-Omics/CREaTor): A deep neural network based on hierarchical attention that utilizes cCREs within open chromatin regions, combined with ChIP-seq data of TFs and histone modifications, to predict gene expression levels.
-- [EPInformer](https://github.com/pinellolab/EPInformer):A Transformer-based framework that predicts gene expression by integrating promoter-enhancer interactions and their sequences, epigenomic signals, and chromatin contacts.
+- [EPInformer](https://github.com/pinellolab/EPInformer): A Transformer-based framework that predicts gene expression by integrating promoter-enhancer interactions and their sequences, epigenomic signals, and chromatin contacts.
 - [ScPGE](https://github.com/turningpoint1988/ScPGE): A scalable computational framework that predicts gene expression by assembling DNA sequences, TF binding scores, and epigenomic tracks of discrete cCREs into 3-dimensional tensors.
 
 ## Data Preparation
