@@ -1,7 +1,7 @@
 #!/bin/bash
 # conda install bioconda::ucsc-bigwigmerge
 # conda install bioconda::ucsc-bedgraphtobigwig
-ROOT=/your/path
+ROOT=/your/path/TSSF
 
 # CELLs=('transverse colon' 'sigmoid colon' 'CD14-positive monocyte' \
 #       'HepG2' 'H9' 'colonic mucosa' 'kidney' 'stomach' 'testis' 'heart right ventricle' \

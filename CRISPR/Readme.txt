@@ -1,0 +1,1 @@
+Obtain the cCRE-gene interaction dataset from Supplementary Tables and then put it into the directory, naming the file 'Integration.hg38.bed' .

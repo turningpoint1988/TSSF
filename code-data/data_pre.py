@@ -80,7 +80,7 @@ def get_args():
     """
     parser = argparse.ArgumentParser(description="Data preparation.")
 
-    parser.add_argument("-r", dest="root", type=str, default="/your/path/",
+    parser.add_argument("-r", dest="root", type=str, default="/your/path/TSSF",
                         help="A directory containing the training data.")
     parser.add_argument("-t", dest="target", type=str, default="K562",
                         help="A directory containing the training data.")

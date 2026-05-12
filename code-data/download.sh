@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-ROOT=/your/path
+ROOT=/your/path/TSSF
 
 threadnum=2
 tmp="/tmp/$$.fifo"

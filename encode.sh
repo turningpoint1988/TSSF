@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ROOT=/your/path
+ROOT=/your/path/TSSF
 NUM=10
 
 threadnum=2

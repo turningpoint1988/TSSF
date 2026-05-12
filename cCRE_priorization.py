@@ -386,9 +386,9 @@ def get_args():
         Returns:
           A list of parsed arguments.
     """
-    parser = argparse.ArgumentParser(description="FCN for motif location")
+    parser = argparse.ArgumentParser(description="A two-stage framework for cCREs priorization.")
 
-    parser.add_argument("-r", dest="root", type=str, default="/your/path",
+    parser.add_argument("-r", dest="root", type=str, default="/your/path/TSSF",
                         help="A directory containing the training data.")
     parser.add_argument("-t", dest="target", type=str, default="K562",
                         help="The name of a specified data.")
@@ -403,7 +403,7 @@ WINDOW = 600
 INDEX = ['chr' + str(i + 1) for i in range(22)] + ['chrX']
 args = get_args()
 ROOT = args.root
-mRNA_df = pd.read_csv('/ROOT/mRNA_halflife_features.csv', index_col='Gene name')
+mRNA_df = pd.read_csv('/ROOT/mRNA_halflife/mRNA_halflife_features.csv', index_col='Gene name')
 
 
 def main():
@@ -433,10 +433,10 @@ def main():
             target_gene[gene_name] += [(chrom, mid, label)]
     
     target_gene_dict, index_label_dict = determine_index(gene_set, target_gene)
-    out_f = ROOT + '/CRISPR/TSSF/{}.json'.format(source)
+    out_f = ROOT + '/CRISPR/{}.json'.format(source)
     with open(out_f, 'w') as f:
         json.dump(index_label_dict, f)
-    out_f = ROOT + '/CRISPR/TSSF/{}.hdf5'.format(source)
+    out_f = ROOT + '/CRISPR/{}.hdf5'.format(source)
     sequence_dict = SeqIO.to_dict(SeqIO.parse(open(genome + '/hg38.fa'), 'fasta'))
     tracks = ['DNase', 'H3K4me3', 'H3K27ac', 'CTCF']
     encode_data(target_gene_dict, sequence_dict, tracks, data_dir, out_f)

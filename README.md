@@ -41,8 +41,9 @@ conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 -c pytorch
 
 ## Data Preparation
 
-- Download [hg38.fa](https://hgdownload.soe.ucsc.edu/downloads.html#human) and [mm10.fa](https://hgdownload.soe.ucsc.edu/downloads.html#mouse), and then put them into the `Genome` directory.
+- Download [Human Genome hg38.fa](https://hgdownload.soe.ucsc.edu/downloads.html#human) and [mm10.fa](https://hgdownload.soe.ucsc.edu/downloads.html#mouse), and then put them into the `Genome` directory.
 - Download [Human V29 annotation file](https://www.gencodegenes.org/human/release_29.html) and [Mouse M21 annotation file](https://www.gencodegenes.org/mouse/release_M21.html), and then put them into the `GENCODE` directory.
+- Download all [Human cCREs (hg38) and Mouse cCREs (mm10)](https://screen.encodeproject.org/), and then put them into the `cCREs` directory. 
 - Download [Experimental datasets](https://www.encodeproject.org) by using the following script:
 
 ```

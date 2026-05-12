@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 
-ROOT=/your/path
+ROOT=/your/path/TSSF
 NUM=10
 
 for target in $(ls ${ROOT}/Human-Data${NUM}/)

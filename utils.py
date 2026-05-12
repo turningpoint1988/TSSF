@@ -219,9 +219,9 @@ class Trainer(object):
                     # zero the parameter gradients
                     self.optimizer.zero_grad()
                     preds = self.model(seqs, signals, position, loop_in, loop_w)
-                    loss = self.criterion.fusion(preds[0], expr, preds[1])
-                    # loss = self.criterion.l1_loss(preds[0], expr)
-                    # loss = self.criterion.l1_loss_kl(preds[0], expr, preds[-1], position)
+                    loss = self.criterion.fusion(preds[0], expr, preds[1]) # the loss for RefineT5
+                    # loss = self.criterion.l1_loss(preds[0], expr) # the loss for TransformerT5
+                    # loss = self.criterion.l1_loss_kl(preds[0], expr, preds[-1], position) # the loss for TransformerT5+KL
                     if np.isnan(loss.item()):
                         raise ValueError('loss is nan while training')
                     loss.backward()

@@ -1,0 +1,1 @@
+Obtain the significant chromatin loops from Supplementary Tables and then put it into the specified cell line directory, naming the file 'H3K27ac.5kb.longrange.bed' .

@@ -8,7 +8,7 @@ import pandas as pd
 
 def get_args():
     parser = argparse.ArgumentParser(description="pre-process data.")
-    parser.add_argument("-r", dest="root", type=str, default='/your/path')
+    parser.add_argument("-r", dest="root", type=str, default='/your/path/TSSF')
     parser.add_argument("-t", dest="target", type=str, default='K562')
 
     return parser.parse_args()
@@ -37,7 +37,7 @@ def write_contact_from_hic(root, target, bin=1000):
     elif target == 'GM12878':
         accession = "ENCFF053VBX"
     # source_file = "https://www.encodeproject.org/files/{}/@@download/{}.hic".format(accession, accession)
-    source_file = "/data/zhangqinhu/gene-expression-level/HiC/{}/{}.hic".format(target, target)
+    source_file = root + '/HiC/{}/{}.hic'.format(target, target)
     hic = hicstraw.HiCFile(source_file)
     print(hic.getChromosomes())
     print(hic.getGenomeID())
@@ -46,7 +46,6 @@ def write_contact_from_hic(root, target, bin=1000):
     # mzd = hic.getMatrixZoomData('4', '4', "observed", "KR", "BP", bin)
     # numpy_matrix = mzd.getRecordsAsMatrix(10000000, 12000000, 10000000, 12000000)
     # normalization: NONE, VC, VC_SQRT, KR, SCALE
-    # chromosomes = [str(i + 1) for i in range(22)] + ['X']
     chromosomes = ['chr' + str(i + 1) for i in range(22)] + ['chrX']
     for chrom in chromosomes:
         out_f = open(root+'/HiC/{}/{}.bedpe'.format(target, chrom), 'w')

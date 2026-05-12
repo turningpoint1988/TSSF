@@ -1,0 +1,1 @@
+Download all human cCREs (hg38) from https://screen.encodeproject.org/ and then put it into the directory, naming the file 'hg38-cCREs.bed' .

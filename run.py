@@ -22,9 +22,9 @@ def get_args():
     """
     parser = argparse.ArgumentParser(description="A two-stage framework for predicting GEL")
 
-    parser.add_argument("-d", dest="data_dir", type=str, default="/yourpath/Human-Data50/K562")
+    parser.add_argument("-d", dest="data_dir", type=str, default="/your/path/TSSF/Human-Data50/K562")
     parser.add_argument("-n", dest="name", type=str, default="K562")
-    parser.add_argument("-c", dest="checkpoint", type=str, default='/code/models_human_50/K562')
+    parser.add_argument("-c", dest="checkpoint", type=str, default='/your/path/TSSF/models_human_50/K562')
     parser.add_argument("-g", dest="gpu", type=str, default='0,1')
     parser.add_argument("-f", dest="fea_dim", type=int, default=4)
 

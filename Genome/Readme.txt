@@ -1,0 +1,1 @@
+Download the human genome from https://hgdownload.soe.ucsc.edu/downloads.html#human and then put it into the directory, naming the file 'hg38.fa' .

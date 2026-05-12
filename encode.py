@@ -477,7 +477,7 @@ def get_args():
     """
     parser = argparse.ArgumentParser(description="Encoding data.")
 
-    parser.add_argument("-r", dest="root", type=str, default="/data/zhangqinhu/gene-expression-level")
+    parser.add_argument("-r", dest="root", type=str, default="/your/path/TSSF")
     parser.add_argument("-t", dest="target", type=str, default="K562")
     parser.add_argument("-o", dest="out_dir", type=str, default=None)
     parser.add_argument("-n", dest="number", type=int, default=10)
@@ -491,7 +491,7 @@ INDEX = ['chr' + str(i + 1) for i in range(22)] + ['chrX']
 args = get_args()
 ROOT = args.root
 NUMBER = args.number
-mRNA_df = pd.read_csv('/ROOT/mRNA_halflife_features.csv', index_col='Gene name')
+mRNA_df = pd.read_csv('/ROOT/mRNA_halflife/mRNA_halflife_features.csv', index_col='Gene name')
 
 
 def main():
