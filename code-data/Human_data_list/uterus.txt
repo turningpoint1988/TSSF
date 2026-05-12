@@ -1,0 +1,21 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF467LKW	total RNA-seq	GRCh38	gene quantifications	uterus	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF467LKW/@@download/ENCFF467LKW.tsv	V29
+ENCFF980VIH	total RNA-seq	GRCh38	gene quantifications	uterus	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF980VIH/@@download/ENCFF980VIH.tsv	V29
+ENCFF326EAR	total RNA-seq	GRCh38	gene quantifications	uterus	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF326EAR/@@download/ENCFF326EAR.tsv	V29
+ENCFF283HWB	total RNA-seq	GRCh38	gene quantifications	uterus	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF283HWB/@@download/ENCFF283HWB.tsv	V29
+ENCFF273KTX	total RNA-seq	GRCh38	gene quantifications	uterus	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF273KTX/@@download/ENCFF273KTX.tsv	V29
+ENCFF037DUA	DNase-seq	GRCh38	read-depth normalized signal	uterus	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF037DUA/@@download/ENCFF037DUA.bigWig	nan
+ENCFF609VNS	DNase-seq	GRCh38	read-depth normalized signal	uterus	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF609VNS/@@download/ENCFF609VNS.bigWig	nan
+ENCFF739NWF	DNase-seq	GRCh38	read-depth normalized signal	uterus	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF739NWF/@@download/ENCFF739NWF.bigWig	nan
+ENCFF046WEZ	TF ChIP-seq	GRCh38	fold change over control	uterus	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF046WEZ/@@download/ENCFF046WEZ.bigWig	nan
+ENCFF181HLF	Histone ChIP-seq	GRCh38	fold change over control	uterus	tissue	H3K4me3-human	1, 2	1_1, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF181HLF/@@download/ENCFF181HLF.bigWig	nan
+ENCFF105NAF	Histone ChIP-seq	GRCh38	fold change over control	uterus	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF105NAF/@@download/ENCFF105NAF.bigWig	nan
+ENCFF761IFJ	Histone ChIP-seq	GRCh38	fold change over control	uterus	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF761IFJ/@@download/ENCFF761IFJ.bigWig	nan
+ENCFF477FDT	Histone ChIP-seq	GRCh38	fold change over control	uterus	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF477FDT/@@download/ENCFF477FDT.bigWig	nan
+ENCFF685VPJ	TF ChIP-seq	GRCh38	fold change over control	uterus	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF685VPJ/@@download/ENCFF685VPJ.bigWig	nan
+ENCFF370WIV	Histone ChIP-seq	GRCh38	fold change over control	uterus	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF370WIV/@@download/ENCFF370WIV.bigWig	nan
+ENCFF245FMZ	TF ChIP-seq	GRCh38	fold change over control	uterus	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF245FMZ/@@download/ENCFF245FMZ.bigWig	nan
+ENCFF700PHX	TF ChIP-seq	GRCh38	fold change over control	uterus	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF700PHX/@@download/ENCFF700PHX.bigWig	nan
+ENCFF440DAQ	Histone ChIP-seq	GRCh38	fold change over control	uterus	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF440DAQ/@@download/ENCFF440DAQ.bigWig	nan
+ENCFF935YJI	Histone ChIP-seq	GRCh38	fold change over control	uterus	tissue	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF935YJI/@@download/ENCFF935YJI.bigWig	nan
+ENCFF154QOP	Histone ChIP-seq	GRCh38	fold change over control	uterus	tissue	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF154QOP/@@download/ENCFF154QOP.bigWig	nan

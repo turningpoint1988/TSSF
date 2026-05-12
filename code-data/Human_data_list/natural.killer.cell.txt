@@ -1,0 +1,23 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF263KEK	total RNA-seq	GRCh38	gene quantifications	natural killer cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF263KEK/@@download/ENCFF263KEK.tsv	V29
+ENCFF951NZR	total RNA-seq	GRCh38	gene quantifications	natural killer cell	primary cell	nan	1	1_2	https://www.encodeproject.org/files/ENCFF951NZR/@@download/ENCFF951NZR.tsv	V29
+ENCFF713DBA	total RNA-seq	GRCh38	gene quantifications	natural killer cell	primary cell	nan	1	1_2	https://www.encodeproject.org/files/ENCFF713DBA/@@download/ENCFF713DBA.tsv	V29
+ENCFF580RJM	total RNA-seq	GRCh38	gene quantifications	natural killer cell	primary cell	nan	1	1_3	https://www.encodeproject.org/files/ENCFF580RJM/@@download/ENCFF580RJM.tsv	V29
+ENCFF301EVO	total RNA-seq	GRCh38	gene quantifications	natural killer cell	primary cell	nan	1	1_10	https://www.encodeproject.org/files/ENCFF301EVO/@@download/ENCFF301EVO.tsv	V29
+ENCFF166IZG	total RNA-seq	GRCh38	gene quantifications	natural killer cell	primary cell	nan	1	1_7	https://www.encodeproject.org/files/ENCFF166IZG/@@download/ENCFF166IZG.tsv	V29
+ENCFF473YTS	total RNA-seq	GRCh38	gene quantifications	natural killer cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF473YTS/@@download/ENCFF473YTS.tsv	V29
+ENCFF697ETZ	total RNA-seq	GRCh38	gene quantifications	natural killer cell	primary cell	nan	1	1_4	https://www.encodeproject.org/files/ENCFF697ETZ/@@download/ENCFF697ETZ.tsv	V29
+ENCFF468FCC	total RNA-seq	GRCh38	gene quantifications	natural killer cell	primary cell	nan	1	1_6	https://www.encodeproject.org/files/ENCFF468FCC/@@download/ENCFF468FCC.tsv	V29
+ENCFF619DQG	total RNA-seq	GRCh38	gene quantifications	natural killer cell	primary cell	nan	1	1_8	https://www.encodeproject.org/files/ENCFF619DQG/@@download/ENCFF619DQG.tsv	V29
+ENCFF798POR	total RNA-seq	GRCh38	gene quantifications	natural killer cell	primary cell	nan	1	1_5	https://www.encodeproject.org/files/ENCFF798POR/@@download/ENCFF798POR.tsv	V29
+ENCFF345UPQ	total RNA-seq	GRCh38	gene quantifications	natural killer cell	primary cell	nan	1	1_9	https://www.encodeproject.org/files/ENCFF345UPQ/@@download/ENCFF345UPQ.tsv	V29
+ENCFF909IYD	total RNA-seq	GRCh38	gene quantifications	natural killer cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF909IYD/@@download/ENCFF909IYD.tsv	V29
+ENCFF834TAI	polyA plus RNA-seq	GRCh38	gene quantifications	natural killer cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF834TAI/@@download/ENCFF834TAI.tsv	V29
+ENCFF342GNP	DNase-seq	GRCh38	read-depth normalized signal	natural killer cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF342GNP/@@download/ENCFF342GNP.bigWig	nan
+ENCFF228HDN	DNase-seq	GRCh38	read-depth normalized signal	natural killer cell	primary cell	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF228HDN/@@download/ENCFF228HDN.bigWig	nan
+ENCFF114PBW	DNase-seq	GRCh38	read-depth normalized signal	natural killer cell	primary cell	nan	1	1_2	https://www.encodeproject.org/files/ENCFF114PBW/@@download/ENCFF114PBW.bigWig	nan
+ENCFF444IFX	DNase-seq	GRCh38	read-depth normalized signal	natural killer cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF444IFX/@@download/ENCFF444IFX.bigWig	nan
+ENCFF463QOD	DNase-seq	GRCh38	read-depth normalized signal	natural killer cell	primary cell	nan	1	1_2	https://www.encodeproject.org/files/ENCFF463QOD/@@download/ENCFF463QOD.bigWig	nan
+ENCFF956MZC	TF ChIP-seq	GRCh38	fold change over control	natural killer cell	primary cell	CTCF-human	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF956MZC/@@download/ENCFF956MZC.bigWig	nan
+ENCFF608XPJ	Histone ChIP-seq	GRCh38	fold change over control	natural killer cell	primary cell	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF608XPJ/@@download/ENCFF608XPJ.bigWig	nan
+ENCFF077KMI	Histone ChIP-seq	GRCh38	fold change over control	natural killer cell	primary cell	H3K4me3-human	1	1_2	https://www.encodeproject.org/files/ENCFF077KMI/@@download/ENCFF077KMI.bigWig	nan

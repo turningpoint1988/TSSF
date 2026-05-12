@@ -1,0 +1,15 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF795UTR	total RNA-seq	GRCh38	gene quantifications	thoracic aorta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF795UTR/@@download/ENCFF795UTR.tsv	V29
+ENCFF261ZPX	total RNA-seq	GRCh38	gene quantifications	thoracic aorta	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF261ZPX/@@download/ENCFF261ZPX.tsv	V29
+ENCFF976LMJ	total RNA-seq	GRCh38	gene quantifications	thoracic aorta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF976LMJ/@@download/ENCFF976LMJ.tsv	V29
+ENCFF156LUX	DNase-seq	GRCh38	read-depth normalized signal	thoracic aorta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF156LUX/@@download/ENCFF156LUX.bigWig	nan
+ENCFF696UEY	Histone ChIP-seq	GRCh38	fold change over control	thoracic aorta	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF696UEY/@@download/ENCFF696UEY.bigWig	nan
+ENCFF798COD	TF ChIP-seq	GRCh38	fold change over control	thoracic aorta	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF798COD/@@download/ENCFF798COD.bigWig	nan
+ENCFF265UKI	Histone ChIP-seq	GRCh38	fold change over control	thoracic aorta	tissue	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF265UKI/@@download/ENCFF265UKI.bigWig	nan
+ENCFF392RBS	Histone ChIP-seq	GRCh38	fold change over control	thoracic aorta	tissue	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF392RBS/@@download/ENCFF392RBS.bigWig	nan
+ENCFF762YWL	Histone ChIP-seq	GRCh38	fold change over control	thoracic aorta	tissue	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF762YWL/@@download/ENCFF762YWL.bigWig	nan
+ENCFF906BNE	Histone ChIP-seq	GRCh38	fold change over control	thoracic aorta	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF906BNE/@@download/ENCFF906BNE.bigWig	nan
+ENCFF429ZQN	TF ChIP-seq	GRCh38	fold change over control	thoracic aorta	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF429ZQN/@@download/ENCFF429ZQN.bigWig	nan
+ENCFF959YIL	Histone ChIP-seq	GRCh38	fold change over control	thoracic aorta	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF959YIL/@@download/ENCFF959YIL.bigWig	nan
+ENCFF941PTG	Histone ChIP-seq	GRCh38	fold change over control	thoracic aorta	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF941PTG/@@download/ENCFF941PTG.bigWig	nan
+ENCFF314WYI	Histone ChIP-seq	GRCh38	fold change over control	thoracic aorta	tissue	H3K4me3-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF314WYI/@@download/ENCFF314WYI.bigWig	nan

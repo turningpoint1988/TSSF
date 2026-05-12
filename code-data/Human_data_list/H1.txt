@@ -1,0 +1,50 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF296UGP	polyA plus RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF296UGP/@@download/ENCFF296UGP.tsv	V29
+ENCFF247KYR	polyA plus RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	3	3_1	https://www.encodeproject.org/files/ENCFF247KYR/@@download/ENCFF247KYR.tsv	V29
+ENCFF131NEX	polyA plus RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF131NEX/@@download/ENCFF131NEX.tsv	V29
+ENCFF562ECY	polyA plus RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	4	4_1	https://www.encodeproject.org/files/ENCFF562ECY/@@download/ENCFF562ECY.tsv	V29
+ENCFF006IHP	polyA plus RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF006IHP/@@download/ENCFF006IHP.tsv	V29
+ENCFF190XYJ	polyA plus RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF190XYJ/@@download/ENCFF190XYJ.tsv	V29
+ENCFF819LFK	polyA plus RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF819LFK/@@download/ENCFF819LFK.tsv	V29
+ENCFF806WAH	polyA plus RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF806WAH/@@download/ENCFF806WAH.tsv	V29
+ENCFF582HOU	polyA plus RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF582HOU/@@download/ENCFF582HOU.tsv	V29
+ENCFF497FXX	polyA plus RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF497FXX/@@download/ENCFF497FXX.tsv	V29
+ENCFF951EEA	total RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	1	1_2	https://www.encodeproject.org/files/ENCFF951EEA/@@download/ENCFF951EEA.tsv	V29
+ENCFF395XDK	total RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF395XDK/@@download/ENCFF395XDK.tsv	V29
+ENCFF174OMR	total RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF174OMR/@@download/ENCFF174OMR.tsv	V29
+ENCFF910OBU	total RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF910OBU/@@download/ENCFF910OBU.tsv	V29
+ENCFF243GKW	polyA plus RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF243GKW/@@download/ENCFF243GKW.tsv	V29
+ENCFF432RPO	polyA plus RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF432RPO/@@download/ENCFF432RPO.tsv	V29
+ENCFF321HCT	polyA plus RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF321HCT/@@download/ENCFF321HCT.tsv	V29
+ENCFF736CCO	polyA plus RNA-seq	GRCh38	gene quantifications	H1	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF736CCO/@@download/ENCFF736CCO.tsv	V29
+ENCFF232GUZ	DNase-seq	GRCh38	read-depth normalized signal	H1	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF232GUZ/@@download/ENCFF232GUZ.bigWig	nan
+ENCFF492ENM	DNase-seq	GRCh38	read-depth normalized signal	H1	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF492ENM/@@download/ENCFF492ENM.bigWig	nan
+ENCFF117WXM	DNase-seq	GRCh38	read-depth normalized signal	H1	cell line	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF117WXM/@@download/ENCFF117WXM.bigWig	nan
+ENCFF915WAL	DNase-seq	GRCh38	read-depth normalized signal	H1	cell line	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF915WAL/@@download/ENCFF915WAL.bigWig	nan
+ENCFF573NKX	DNase-seq	GRCh38	read-depth normalized signal	H1	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF573NKX/@@download/ENCFF573NKX.bigWig	nan
+ENCFF675GCD	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF675GCD/@@download/ENCFF675GCD.bigWig	nan
+ENCFF510CNB	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF510CNB/@@download/ENCFF510CNB.bigWig	nan
+ENCFF255CGD	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF255CGD/@@download/ENCFF255CGD.bigWig	nan
+ENCFF332TNJ	TF ChIP-seq	GRCh38	fold change over control	H1	cell line	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF332TNJ/@@download/ENCFF332TNJ.bigWig	nan
+ENCFF648BTZ	TF ChIP-seq	GRCh38	fold change over control	H1	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF648BTZ/@@download/ENCFF648BTZ.bigWig	nan
+ENCFF314KQD	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K27ac-human	1, 2	1_2, 2_1	https://www.encodeproject.org/files/ENCFF314KQD/@@download/ENCFF314KQD.bigWig	nan
+ENCFF038XPO	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF038XPO/@@download/ENCFF038XPO.bigWig	nan
+ENCFF779NOX	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF779NOX/@@download/ENCFF779NOX.bigWig	nan
+ENCFF041PVS	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF041PVS/@@download/ENCFF041PVS.bigWig	nan
+ENCFF493QWY	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF493QWY/@@download/ENCFF493QWY.bigWig	nan
+ENCFF475VJE	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF475VJE/@@download/ENCFF475VJE.bigWig	nan
+ENCFF738XDE	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF738XDE/@@download/ENCFF738XDE.bigWig	nan
+ENCFF779KCX	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K27ac-human	2	2_2	https://www.encodeproject.org/files/ENCFF779KCX/@@download/ENCFF779KCX.bigWig	nan
+ENCFF919FBG	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K27ac-human	1, 2	1_1, 2_2	https://www.encodeproject.org/files/ENCFF919FBG/@@download/ENCFF919FBG.bigWig	nan
+ENCFF008ZEQ	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF008ZEQ/@@download/ENCFF008ZEQ.bigWig	nan
+ENCFF782FXI	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF782FXI/@@download/ENCFF782FXI.bigWig	nan
+ENCFF096KWZ	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF096KWZ/@@download/ENCFF096KWZ.bigWig	nan
+ENCFF602IAY	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF602IAY/@@download/ENCFF602IAY.bigWig	nan
+ENCFF438GVD	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF438GVD/@@download/ENCFF438GVD.bigWig	nan
+ENCFF138BOI	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF138BOI/@@download/ENCFF138BOI.bigWig	nan
+ENCFF583ZDO	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF583ZDO/@@download/ENCFF583ZDO.bigWig	nan
+ENCFF760NUN	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K4me3-human	1, 2	1_1, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF760NUN/@@download/ENCFF760NUN.bigWig	nan
+ENCFF509FFZ	Histone ChIP-seq	GRCh38	fold change over control	H1	cell line	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF509FFZ/@@download/ENCFF509FFZ.bigWig	nan
+ENCFF038RVZ	TF ChIP-seq	GRCh38	fold change over control	H1	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF038RVZ/@@download/ENCFF038RVZ.bigWig	nan
+ENCFF059STN	TF ChIP-seq	GRCh38	fold change over control	H1	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF059STN/@@download/ENCFF059STN.bigWig	nan
+ENCFF930WWO	TF ChIP-seq	GRCh38	fold change over control	H1	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF930WWO/@@download/ENCFF930WWO.bigWig	nan

@@ -1,0 +1,2 @@
+liver	train_loss:0.414
+liver	pr: 0.716	mae: 0.614

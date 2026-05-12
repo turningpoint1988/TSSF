@@ -1,0 +1,56 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF251DYL	polyA plus RNA-seq	GRCh38	gene quantifications	MCF-7	cell line	nan	3	3_1	https://www.encodeproject.org/files/ENCFF251DYL/@@download/ENCFF251DYL.tsv	V29
+ENCFF555RJV	polyA plus RNA-seq	GRCh38	gene quantifications	MCF-7	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF555RJV/@@download/ENCFF555RJV.tsv	V29
+ENCFF270SPQ	polyA plus RNA-seq	GRCh38	gene quantifications	MCF-7	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF270SPQ/@@download/ENCFF270SPQ.tsv	V29
+ENCFF591QCK	polyA plus RNA-seq	GRCh38	gene quantifications	MCF-7	cell line	nan	4	4_1	https://www.encodeproject.org/files/ENCFF591QCK/@@download/ENCFF591QCK.tsv	V29
+ENCFF395RXK	polyA plus RNA-seq	GRCh38	gene quantifications	MCF-7	cell line	nan	3	3_1	https://www.encodeproject.org/files/ENCFF395RXK/@@download/ENCFF395RXK.tsv	V29
+ENCFF579SSX	polyA plus RNA-seq	GRCh38	gene quantifications	MCF-7	cell line	nan	3	3_1	https://www.encodeproject.org/files/ENCFF579SSX/@@download/ENCFF579SSX.tsv	V29
+ENCFF252JIL	polyA plus RNA-seq	GRCh38	gene quantifications	MCF-7	cell line	nan	4	4_1	https://www.encodeproject.org/files/ENCFF252JIL/@@download/ENCFF252JIL.tsv	V29
+ENCFF967AOT	polyA plus RNA-seq	GRCh38	gene quantifications	MCF-7	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF967AOT/@@download/ENCFF967AOT.tsv	V29
+ENCFF921PJP	polyA plus RNA-seq	GRCh38	gene quantifications	MCF-7	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF921PJP/@@download/ENCFF921PJP.tsv	V29
+ENCFF721BRA	total RNA-seq	GRCh38	gene quantifications	MCF-7	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF721BRA/@@download/ENCFF721BRA.tsv	V29
+ENCFF038NFC	DNase-seq	GRCh38	read-depth normalized signal	MCF-7	cell line	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF038NFC/@@download/ENCFF038NFC.bigWig	nan
+ENCFF411ZPI	DNase-seq	GRCh38	read-depth normalized signal	MCF-7	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF411ZPI/@@download/ENCFF411ZPI.bigWig	nan
+ENCFF921ADM	DNase-seq	GRCh38	read-depth normalized signal	MCF-7	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF921ADM/@@download/ENCFF921ADM.bigWig	nan
+ENCFF270ENA	DNase-seq	GRCh38	read-depth normalized signal	MCF-7	cell line	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF270ENA/@@download/ENCFF270ENA.bigWig	nan
+ENCFF631QXL	DNase-seq	GRCh38	read-depth normalized signal	MCF-7	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF631QXL/@@download/ENCFF631QXL.bigWig	nan
+ENCFF134COA	DNase-seq	GRCh38	read-depth normalized signal	MCF-7	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF134COA/@@download/ENCFF134COA.bigWig	nan
+ENCFF934LJL	Histone ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF934LJL/@@download/ENCFF934LJL.bigWig	nan
+ENCFF222ZTN	Histone ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF222ZTN/@@download/ENCFF222ZTN.bigWig	nan
+ENCFF457TAN	Histone ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF457TAN/@@download/ENCFF457TAN.bigWig	nan
+ENCFF887BFN	Histone ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF887BFN/@@download/ENCFF887BFN.bigWig	nan
+ENCFF327VIA	Histone ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF327VIA/@@download/ENCFF327VIA.bigWig	nan
+ENCFF935BFQ	Histone ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF935BFQ/@@download/ENCFF935BFQ.bigWig	nan
+ENCFF826BBU	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF826BBU/@@download/ENCFF826BBU.bigWig	nan
+ENCFF919VVN	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF919VVN/@@download/ENCFF919VVN.bigWig	nan
+ENCFF554QYM	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF554QYM/@@download/ENCFF554QYM.bigWig	nan
+ENCFF686RYR	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF686RYR/@@download/ENCFF686RYR.bigWig	nan
+ENCFF049XZI	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF049XZI/@@download/ENCFF049XZI.bigWig	nan
+ENCFF849IUY	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF849IUY/@@download/ENCFF849IUY.bigWig	nan
+ENCFF953SSV	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF953SSV/@@download/ENCFF953SSV.bigWig	nan
+ENCFF809QZM	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF809QZM/@@download/ENCFF809QZM.bigWig	nan
+ENCFF621UYZ	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF621UYZ/@@download/ENCFF621UYZ.bigWig	nan
+ENCFF062EOA	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF062EOA/@@download/ENCFF062EOA.bigWig	nan
+ENCFF697ZLF	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF697ZLF/@@download/ENCFF697ZLF.bigWig	nan
+ENCFF987PKF	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF987PKF/@@download/ENCFF987PKF.bigWig	nan
+ENCFF330WSX	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF330WSX/@@download/ENCFF330WSX.bigWig	nan
+ENCFF429VKM	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF429VKM/@@download/ENCFF429VKM.bigWig	nan
+ENCFF663NQQ	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF663NQQ/@@download/ENCFF663NQQ.bigWig	nan
+ENCFF378MXW	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF378MXW/@@download/ENCFF378MXW.bigWig	nan
+ENCFF135RDI	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF135RDI/@@download/ENCFF135RDI.bigWig	nan
+ENCFF775RBW	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF775RBW/@@download/ENCFF775RBW.bigWig	nan
+ENCFF091OBJ	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF091OBJ/@@download/ENCFF091OBJ.bigWig	nan
+ENCFF646AVG	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF646AVG/@@download/ENCFF646AVG.bigWig	nan
+ENCFF662LGI	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF662LGI/@@download/ENCFF662LGI.bigWig	nan
+ENCFF157EYO	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF157EYO/@@download/ENCFF157EYO.bigWig	nan
+ENCFF981ABA	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF981ABA/@@download/ENCFF981ABA.bigWig	nan
+ENCFF770ZRW	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF770ZRW/@@download/ENCFF770ZRW.bigWig	nan
+ENCFF559CLH	Histone ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF559CLH/@@download/ENCFF559CLH.bigWig	nan
+ENCFF267OQQ	Histone ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF267OQQ/@@download/ENCFF267OQQ.bigWig	nan
+ENCFF763FZF	Histone ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF763FZF/@@download/ENCFF763FZF.bigWig	nan
+ENCFF395YPR	Histone ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF395YPR/@@download/ENCFF395YPR.bigWig	nan
+ENCFF047PAZ	Histone ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF047PAZ/@@download/ENCFF047PAZ.bigWig	nan
+ENCFF063VLJ	Histone ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	H3K27ac-human	1, 2	1_1, 1_2, 2_1	https://www.encodeproject.org/files/ENCFF063VLJ/@@download/ENCFF063VLJ.bigWig	nan
+ENCFF381GJA	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF381GJA/@@download/ENCFF381GJA.bigWig	nan
+ENCFF607WNV	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF607WNV/@@download/ENCFF607WNV.bigWig	nan
+ENCFF946JSU	TF ChIP-seq	GRCh38	fold change over control	MCF-7	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF946JSU/@@download/ENCFF946JSU.bigWig	nan

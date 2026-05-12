@@ -1,0 +1,52 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF655EPQ	total RNA-seq	GRCh38	gene quantifications	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF655EPQ/@@download/ENCFF655EPQ.tsv	V29
+ENCFF150SPZ	polyA plus RNA-seq	GRCh38	gene quantifications	placenta	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF150SPZ/@@download/ENCFF150SPZ.tsv	V29
+ENCFF320BJB	total RNA-seq	GRCh38	gene quantifications	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF320BJB/@@download/ENCFF320BJB.tsv	V29
+ENCFF149KLH	total RNA-seq	GRCh38	gene quantifications	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF149KLH/@@download/ENCFF149KLH.tsv	V29
+ENCFF459HRW	total RNA-seq	GRCh38	gene quantifications	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF459HRW/@@download/ENCFF459HRW.tsv	V29
+ENCFF062KDX	total RNA-seq	GRCh38	gene quantifications	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF062KDX/@@download/ENCFF062KDX.tsv	V29
+ENCFF859QWL	total RNA-seq	GRCh38	gene quantifications	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF859QWL/@@download/ENCFF859QWL.tsv	V29
+ENCFF221IRL	total RNA-seq	GRCh38	gene quantifications	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF221IRL/@@download/ENCFF221IRL.tsv	V29
+ENCFF002NOM	total RNA-seq	GRCh38	gene quantifications	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF002NOM/@@download/ENCFF002NOM.tsv	V29
+ENCFF694CZM	total RNA-seq	GRCh38	gene quantifications	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF694CZM/@@download/ENCFF694CZM.tsv	V29
+ENCFF982CMC	total RNA-seq	GRCh38	gene quantifications	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF982CMC/@@download/ENCFF982CMC.tsv	V29
+ENCFF854EYM	total RNA-seq	GRCh38	gene quantifications	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF854EYM/@@download/ENCFF854EYM.tsv	V29
+ENCFF741NOM	total RNA-seq	GRCh38	gene quantifications	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF741NOM/@@download/ENCFF741NOM.tsv	V29
+ENCFF948NNO	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF948NNO/@@download/ENCFF948NNO.bigWig	nan
+ENCFF977AML	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF977AML/@@download/ENCFF977AML.bigWig	nan
+ENCFF581YXV	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF581YXV/@@download/ENCFF581YXV.bigWig	nan
+ENCFF297HLF	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_5	https://www.encodeproject.org/files/ENCFF297HLF/@@download/ENCFF297HLF.bigWig	nan
+ENCFF021DHC	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF021DHC/@@download/ENCFF021DHC.bigWig	nan
+ENCFF524BAA	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF524BAA/@@download/ENCFF524BAA.bigWig	nan
+ENCFF470BCI	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF470BCI/@@download/ENCFF470BCI.bigWig	nan
+ENCFF022ZKX	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF022ZKX/@@download/ENCFF022ZKX.bigWig	nan
+ENCFF917LSA	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF917LSA/@@download/ENCFF917LSA.bigWig	nan
+ENCFF831DVG	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF831DVG/@@download/ENCFF831DVG.bigWig	nan
+ENCFF405IWE	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF405IWE/@@download/ENCFF405IWE.bigWig	nan
+ENCFF013LGY	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF013LGY/@@download/ENCFF013LGY.bigWig	nan
+ENCFF575CKN	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF575CKN/@@download/ENCFF575CKN.bigWig	nan
+ENCFF351WIJ	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF351WIJ/@@download/ENCFF351WIJ.bigWig	nan
+ENCFF471IFY	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF471IFY/@@download/ENCFF471IFY.bigWig	nan
+ENCFF556ECX	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF556ECX/@@download/ENCFF556ECX.bigWig	nan
+ENCFF690TSD	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF690TSD/@@download/ENCFF690TSD.bigWig	nan
+ENCFF798JNG	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF798JNG/@@download/ENCFF798JNG.bigWig	nan
+ENCFF146YLN	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF146YLN/@@download/ENCFF146YLN.bigWig	nan
+ENCFF197KYO	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF197KYO/@@download/ENCFF197KYO.bigWig	nan
+ENCFF349HNL	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF349HNL/@@download/ENCFF349HNL.bigWig	nan
+ENCFF146HIT	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF146HIT/@@download/ENCFF146HIT.bigWig	nan
+ENCFF954ZUR	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF954ZUR/@@download/ENCFF954ZUR.bigWig	nan
+ENCFF551FMI	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF551FMI/@@download/ENCFF551FMI.bigWig	nan
+ENCFF456JKS	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF456JKS/@@download/ENCFF456JKS.bigWig	nan
+ENCFF436GJG	DNase-seq	GRCh38	read-depth normalized signal	placenta	tissue	nan	1	1_1, 1_4	https://www.encodeproject.org/files/ENCFF436GJG/@@download/ENCFF436GJG.bigWig	nan
+ENCFF670HSS	Histone ChIP-seq	GRCh38	fold change over control	placenta	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF670HSS/@@download/ENCFF670HSS.bigWig	nan
+ENCFF095XUU	Histone ChIP-seq	GRCh38	fold change over control	placenta	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF095XUU/@@download/ENCFF095XUU.bigWig	nan
+ENCFF516GKI	Histone ChIP-seq	GRCh38	fold change over control	placenta	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF516GKI/@@download/ENCFF516GKI.bigWig	nan
+ENCFF183CPE	Histone ChIP-seq	GRCh38	fold change over control	placenta	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF183CPE/@@download/ENCFF183CPE.bigWig	nan
+ENCFF698TOM	TF ChIP-seq	GRCh38	fold change over control	placenta	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF698TOM/@@download/ENCFF698TOM.bigWig	nan
+ENCFF888PXY	Histone ChIP-seq	GRCh38	fold change over control	placenta	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF888PXY/@@download/ENCFF888PXY.bigWig	nan
+ENCFF120CVA	Histone ChIP-seq	GRCh38	fold change over control	placenta	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF120CVA/@@download/ENCFF120CVA.bigWig	nan
+ENCFF814DEG	TF ChIP-seq	GRCh38	fold change over control	placenta	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF814DEG/@@download/ENCFF814DEG.bigWig	nan
+ENCFF954NRC	Histone ChIP-seq	GRCh38	fold change over control	placenta	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF954NRC/@@download/ENCFF954NRC.bigWig	nan
+ENCFF142AFQ	Histone ChIP-seq	GRCh38	fold change over control	placenta	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF142AFQ/@@download/ENCFF142AFQ.bigWig	nan
+ENCFF217EWG	Histone ChIP-seq	GRCh38	fold change over control	placenta	tissue	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF217EWG/@@download/ENCFF217EWG.bigWig	nan
+ENCFF111SZU	Histone ChIP-seq	GRCh38	fold change over control	placenta	tissue	H3K4me3-human	1	1_2	https://www.encodeproject.org/files/ENCFF111SZU/@@download/ENCFF111SZU.bigWig	nan

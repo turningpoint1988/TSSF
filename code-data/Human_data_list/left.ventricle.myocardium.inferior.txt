@@ -1,0 +1,12 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF394BIS	total RNA-seq	GRCh38	gene quantifications	left ventricle myocardium inferior	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF394BIS/@@download/ENCFF394BIS.tsv	V29
+ENCFF644JWK	DNase-seq	GRCh38	read-depth normalized signal	left ventricle myocardium inferior	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF644JWK/@@download/ENCFF644JWK.bigWig	nan
+ENCFF213MBW	TF ChIP-seq	GRCh38	fold change over control	left ventricle myocardium inferior	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF213MBW/@@download/ENCFF213MBW.bigWig	nan
+ENCFF930OSL	TF ChIP-seq	GRCh38	fold change over control	left ventricle myocardium inferior	tissue	CTCF-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF930OSL/@@download/ENCFF930OSL.bigWig	nan
+ENCFF829QZW	TF ChIP-seq	GRCh38	fold change over control	left ventricle myocardium inferior	tissue	CTCF-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF829QZW/@@download/ENCFF829QZW.bigWig	nan
+ENCFF056BKL	Histone ChIP-seq	GRCh38	fold change over control	left ventricle myocardium inferior	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF056BKL/@@download/ENCFF056BKL.bigWig	nan
+ENCFF237QAL	Histone ChIP-seq	GRCh38	fold change over control	left ventricle myocardium inferior	tissue	H3K4me3-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF237QAL/@@download/ENCFF237QAL.bigWig	nan
+ENCFF391CHK	Histone ChIP-seq	GRCh38	fold change over control	left ventricle myocardium inferior	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF391CHK/@@download/ENCFF391CHK.bigWig	nan
+ENCFF960KLD	Histone ChIP-seq	GRCh38	fold change over control	left ventricle myocardium inferior	tissue	H3K27ac-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF960KLD/@@download/ENCFF960KLD.bigWig	nan
+ENCFF992CTU	Histone ChIP-seq	GRCh38	fold change over control	left ventricle myocardium inferior	tissue	H3K27ac-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF992CTU/@@download/ENCFF992CTU.bigWig	nan
+ENCFF210BVO	Histone ChIP-seq	GRCh38	fold change over control	left ventricle myocardium inferior	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF210BVO/@@download/ENCFF210BVO.bigWig	nan

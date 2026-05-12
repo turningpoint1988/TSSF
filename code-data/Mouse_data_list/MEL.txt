@@ -1,0 +1,25 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF443ZUL	polyA plus RNA-seq	mm10	gene quantifications	MEL	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF443ZUL/@@download/ENCFF443ZUL.tsv	M21
+ENCFF838AMX	polyA plus RNA-seq	mm10	gene quantifications	MEL	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF838AMX/@@download/ENCFF838AMX.tsv	M21
+ENCFF444ZHV	total RNA-seq	mm10	gene quantifications	MEL	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF444ZHV/@@download/ENCFF444ZHV.tsv	M21
+ENCFF199TJO	total RNA-seq	mm10	gene quantifications	MEL	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF199TJO/@@download/ENCFF199TJO.tsv	M21
+ENCFF298KDC	polyA plus RNA-seq	mm10	gene quantifications	MEL	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF298KDC/@@download/ENCFF298KDC.tsv	M21
+ENCFF952RYM	polyA plus RNA-seq	mm10	gene quantifications	MEL	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF952RYM/@@download/ENCFF952RYM.tsv	M21
+ENCFF990ATO	DNase-seq	mm10	read-depth normalized signal	MEL	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF990ATO/@@download/ENCFF990ATO.bigWig	nan
+ENCFF384WSZ	DNase-seq	mm10	read-depth normalized signal	MEL	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF384WSZ/@@download/ENCFF384WSZ.bigWig	nan
+ENCFF056RRE	DNase-seq	mm10	read-depth normalized signal	MEL	cell line	nan	3	3_1	https://www.encodeproject.org/files/ENCFF056RRE/@@download/ENCFF056RRE.bigWig	nan
+ENCFF145VWQ	DNase-seq	mm10	read-depth normalized signal	MEL	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF145VWQ/@@download/ENCFF145VWQ.bigWig	nan
+ENCFF630ILP	DNase-seq	mm10	read-depth normalized signal	MEL	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF630ILP/@@download/ENCFF630ILP.bigWig	nan
+ENCFF359CLY	DNase-seq	mm10	read-depth normalized signal	MEL	cell line	nan	3	3_1	https://www.encodeproject.org/files/ENCFF359CLY/@@download/ENCFF359CLY.bigWig	nan
+ENCFF498RZJ	TF ChIP-seq	mm10	fold change over control	MEL	cell line	CTCF-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF498RZJ/@@download/ENCFF498RZJ.bigWig	nan
+ENCFF798PJA	TF ChIP-seq	mm10	fold change over control	MEL	cell line	CTCF-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF798PJA/@@download/ENCFF798PJA.bigWig	nan
+ENCFF583MBD	Histone ChIP-seq	mm10	fold change over control	MEL	cell line	H3K4me3-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF583MBD/@@download/ENCFF583MBD.bigWig	nan
+ENCFF903ZON	Histone ChIP-seq	mm10	fold change over control	MEL	cell line	H3K4me3-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF903ZON/@@download/ENCFF903ZON.bigWig	nan
+ENCFF496UKK	Histone ChIP-seq	mm10	fold change over control	MEL	cell line	H3K4me3-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF496UKK/@@download/ENCFF496UKK.bigWig	nan
+ENCFF430CHA	Histone ChIP-seq	mm10	fold change over control	MEL	cell line	H3K4me3-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF430CHA/@@download/ENCFF430CHA.bigWig	nan
+ENCFF515BPN	TF ChIP-seq	mm10	fold change over control	MEL	cell line	CTCF-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF515BPN/@@download/ENCFF515BPN.bigWig	nan
+ENCFF771JRH	TF ChIP-seq	mm10	fold change over control	MEL	cell line	CTCF-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF771JRH/@@download/ENCFF771JRH.bigWig	nan
+ENCFF244ZJY	TF ChIP-seq	mm10	fold change over control	MEL	cell line	CTCF-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF244ZJY/@@download/ENCFF244ZJY.bigWig	nan
+ENCFF771PZS	TF ChIP-seq	mm10	fold change over control	MEL	cell line	CTCF-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF771PZS/@@download/ENCFF771PZS.bigWig	nan
+ENCFF414TDD	Histone ChIP-seq	mm10	fold change over control	MEL	cell line	H3K27ac-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF414TDD/@@download/ENCFF414TDD.bigWig	nan
+ENCFF770LBL	Histone ChIP-seq	mm10	fold change over control	MEL	cell line	H3K27ac-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF770LBL/@@download/ENCFF770LBL.bigWig	nan

@@ -1,0 +1,34 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF089YYE	polyA plus RNA-seq	GRCh38	gene quantifications	kidney	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF089YYE/@@download/ENCFF089YYE.tsv	V29
+ENCFF726QMC	polyA plus RNA-seq	GRCh38	gene quantifications	kidney	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF726QMC/@@download/ENCFF726QMC.tsv	V29
+ENCFF012IBV	polyA plus RNA-seq	GRCh38	gene quantifications	kidney	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF012IBV/@@download/ENCFF012IBV.tsv	V29
+ENCFF564JYO	polyA plus RNA-seq	GRCh38	gene quantifications	kidney	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF564JYO/@@download/ENCFF564JYO.tsv	V29
+ENCFF598STD	polyA plus RNA-seq	GRCh38	gene quantifications	kidney	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF598STD/@@download/ENCFF598STD.tsv	V29
+ENCFF193UXG	polyA plus RNA-seq	GRCh38	gene quantifications	kidney	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF193UXG/@@download/ENCFF193UXG.tsv	V29
+ENCFF653OLW	total RNA-seq	GRCh38	gene quantifications	kidney	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF653OLW/@@download/ENCFF653OLW.tsv	V29
+ENCFF603OJF	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	1	1_3	https://www.encodeproject.org/files/ENCFF603OJF/@@download/ENCFF603OJF.bigWig	nan
+ENCFF932VQG	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF932VQG/@@download/ENCFF932VQG.bigWig	nan
+ENCFF582XBN	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF582XBN/@@download/ENCFF582XBN.bigWig	nan
+ENCFF996ZCU	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	1	1_3	https://www.encodeproject.org/files/ENCFF996ZCU/@@download/ENCFF996ZCU.bigWig	nan
+ENCFF184QPT	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	1	1_3	https://www.encodeproject.org/files/ENCFF184QPT/@@download/ENCFF184QPT.bigWig	nan
+ENCFF270KWP	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	1	1_3	https://www.encodeproject.org/files/ENCFF270KWP/@@download/ENCFF270KWP.bigWig	nan
+ENCFF485CJZ	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF485CJZ/@@download/ENCFF485CJZ.bigWig	nan
+ENCFF782MNA	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	1	1_3	https://www.encodeproject.org/files/ENCFF782MNA/@@download/ENCFF782MNA.bigWig	nan
+ENCFF941XGU	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF941XGU/@@download/ENCFF941XGU.bigWig	nan
+ENCFF475UUM	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF475UUM/@@download/ENCFF475UUM.bigWig	nan
+ENCFF490IDX	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF490IDX/@@download/ENCFF490IDX.bigWig	nan
+ENCFF954YGS	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF954YGS/@@download/ENCFF954YGS.bigWig	nan
+ENCFF694ESB	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF694ESB/@@download/ENCFF694ESB.bigWig	nan
+ENCFF793ZSS	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF793ZSS/@@download/ENCFF793ZSS.bigWig	nan
+ENCFF871RSM	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF871RSM/@@download/ENCFF871RSM.bigWig	nan
+ENCFF828QRO	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF828QRO/@@download/ENCFF828QRO.bigWig	nan
+ENCFF024LJV	DNase-seq	GRCh38	read-depth normalized signal	kidney	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF024LJV/@@download/ENCFF024LJV.bigWig	nan
+ENCFF631PKY	TF ChIP-seq	GRCh38	fold change over control	kidney	tissue	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF631PKY/@@download/ENCFF631PKY.bigWig	nan
+ENCFF446TPO	TF ChIP-seq	GRCh38	fold change over control	kidney	tissue	CTCF-human	1, 2, 3	1_1, 2_1, 3_1	https://www.encodeproject.org/files/ENCFF446TPO/@@download/ENCFF446TPO.bigWig	nan
+ENCFF533BOQ	TF ChIP-seq	GRCh38	fold change over control	kidney	tissue	CTCF-human	3	3_1	https://www.encodeproject.org/files/ENCFF533BOQ/@@download/ENCFF533BOQ.bigWig	nan
+ENCFF469KQR	TF ChIP-seq	GRCh38	fold change over control	kidney	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF469KQR/@@download/ENCFF469KQR.bigWig	nan
+ENCFF729ZPF	Histone ChIP-seq	GRCh38	fold change over control	kidney	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF729ZPF/@@download/ENCFF729ZPF.bigWig	nan
+ENCFF499ZEJ	Histone ChIP-seq	GRCh38	fold change over control	kidney	tissue	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF499ZEJ/@@download/ENCFF499ZEJ.bigWig	nan
+ENCFF354FYC	Histone ChIP-seq	GRCh38	fold change over control	kidney	tissue	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF354FYC/@@download/ENCFF354FYC.bigWig	nan
+ENCFF929KNV	Histone ChIP-seq	GRCh38	fold change over control	kidney	tissue	H3K4me3-human	1	1_4	https://www.encodeproject.org/files/ENCFF929KNV/@@download/ENCFF929KNV.bigWig	nan
+ENCFF266SCK	Histone ChIP-seq	GRCh38	fold change over control	kidney	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF266SCK/@@download/ENCFF266SCK.bigWig	nan

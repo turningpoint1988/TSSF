@@ -1,0 +1,26 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF249NNL	total RNA-seq	GRCh38	gene quantifications	esophagus muscularis mucosa	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF249NNL/@@download/ENCFF249NNL.tsv	V29
+ENCFF993HSV	total RNA-seq	GRCh38	gene quantifications	esophagus muscularis mucosa	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF993HSV/@@download/ENCFF993HSV.tsv	V29
+ENCFF082QRB	total RNA-seq	GRCh38	gene quantifications	esophagus muscularis mucosa	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF082QRB/@@download/ENCFF082QRB.tsv	V29
+ENCFF090GQE	total RNA-seq	GRCh38	gene quantifications	esophagus muscularis mucosa	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF090GQE/@@download/ENCFF090GQE.tsv	V29
+ENCFF886QYD	DNase-seq	GRCh38	read-depth normalized signal	esophagus muscularis mucosa	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF886QYD/@@download/ENCFF886QYD.bigWig	nan
+ENCFF901MOB	DNase-seq	GRCh38	read-depth normalized signal	esophagus muscularis mucosa	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF901MOB/@@download/ENCFF901MOB.bigWig	nan
+ENCFF693HQZ	Histone ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF693HQZ/@@download/ENCFF693HQZ.bigWig	nan
+ENCFF184VIO	Histone ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF184VIO/@@download/ENCFF184VIO.bigWig	nan
+ENCFF061HFF	Histone ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF061HFF/@@download/ENCFF061HFF.bigWig	nan
+ENCFF344ITP	Histone ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF344ITP/@@download/ENCFF344ITP.bigWig	nan
+ENCFF291UTT	Histone ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF291UTT/@@download/ENCFF291UTT.bigWig	nan
+ENCFF952EAT	Histone ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF952EAT/@@download/ENCFF952EAT.bigWig	nan
+ENCFF524ZGX	Histone ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF524ZGX/@@download/ENCFF524ZGX.bigWig	nan
+ENCFF385AXR	TF ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF385AXR/@@download/ENCFF385AXR.bigWig	nan
+ENCFF773DOI	Histone ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF773DOI/@@download/ENCFF773DOI.bigWig	nan
+ENCFF586WBH	Histone ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	H3K4me3-human	1, 2	1_1, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF586WBH/@@download/ENCFF586WBH.bigWig	nan
+ENCFF496SXY	Histone ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF496SXY/@@download/ENCFF496SXY.bigWig	nan
+ENCFF526HRV	TF ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF526HRV/@@download/ENCFF526HRV.bigWig	nan
+ENCFF322ZPK	Histone ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF322ZPK/@@download/ENCFF322ZPK.bigWig	nan
+ENCFF398DDY	TF ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF398DDY/@@download/ENCFF398DDY.bigWig	nan
+ENCFF645DEG	Histone ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF645DEG/@@download/ENCFF645DEG.bigWig	nan
+ENCFF395YPE	Histone ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF395YPE/@@download/ENCFF395YPE.bigWig	nan
+ENCFF304TYW	Histone ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF304TYW/@@download/ENCFF304TYW.bigWig	nan
+ENCFF534LXF	TF ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF534LXF/@@download/ENCFF534LXF.bigWig	nan
+ENCFF648LZP	TF ChIP-seq	GRCh38	fold change over control	esophagus muscularis mucosa	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF648LZP/@@download/ENCFF648LZP.bigWig	nan

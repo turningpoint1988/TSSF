@@ -1,0 +1,30 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF169YTW	total RNA-seq	GRCh38	gene quantifications	upper lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF169YTW/@@download/ENCFF169YTW.tsv	V29
+ENCFF889NCM	total RNA-seq	GRCh38	gene quantifications	upper lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF889NCM/@@download/ENCFF889NCM.tsv	V29
+ENCFF588XFP	total RNA-seq	GRCh38	gene quantifications	upper lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF588XFP/@@download/ENCFF588XFP.tsv	V29
+ENCFF735XYK	total RNA-seq	GRCh38	gene quantifications	upper lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF735XYK/@@download/ENCFF735XYK.tsv	V29
+ENCFF939MHB	total RNA-seq	GRCh38	gene quantifications	upper lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF939MHB/@@download/ENCFF939MHB.tsv	V29
+ENCFF076NNR	total RNA-seq	GRCh38	gene quantifications	upper lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF076NNR/@@download/ENCFF076NNR.tsv	V29
+ENCFF387FUO	DNase-seq	GRCh38	read-depth normalized signal	upper lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF387FUO/@@download/ENCFF387FUO.bigWig	nan
+ENCFF300WUQ	DNase-seq	GRCh38	read-depth normalized signal	upper lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF300WUQ/@@download/ENCFF300WUQ.bigWig	nan
+ENCFF831NQC	DNase-seq	GRCh38	read-depth normalized signal	upper lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF831NQC/@@download/ENCFF831NQC.bigWig	nan
+ENCFF918MVE	DNase-seq	GRCh38	read-depth normalized signal	upper lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF918MVE/@@download/ENCFF918MVE.bigWig	nan
+ENCFF674RXU	DNase-seq	GRCh38	read-depth normalized signal	upper lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF674RXU/@@download/ENCFF674RXU.bigWig	nan
+ENCFF505TAB	DNase-seq	GRCh38	read-depth normalized signal	upper lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF505TAB/@@download/ENCFF505TAB.bigWig	nan
+ENCFF960WAV	DNase-seq	GRCh38	read-depth normalized signal	upper lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF960WAV/@@download/ENCFF960WAV.bigWig	nan
+ENCFF279ZNA	DNase-seq	GRCh38	read-depth normalized signal	upper lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF279ZNA/@@download/ENCFF279ZNA.bigWig	nan
+ENCFF750ENA	TF ChIP-seq	GRCh38	fold change over control	upper lobe of left lung	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF750ENA/@@download/ENCFF750ENA.bigWig	nan
+ENCFF906JMX	TF ChIP-seq	GRCh38	fold change over control	upper lobe of left lung	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF906JMX/@@download/ENCFF906JMX.bigWig	nan
+ENCFF483PKD	TF ChIP-seq	GRCh38	fold change over control	upper lobe of left lung	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF483PKD/@@download/ENCFF483PKD.bigWig	nan
+ENCFF468WUY	TF ChIP-seq	GRCh38	fold change over control	upper lobe of left lung	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF468WUY/@@download/ENCFF468WUY.bigWig	nan
+ENCFF607SXR	Histone ChIP-seq	GRCh38	fold change over control	upper lobe of left lung	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF607SXR/@@download/ENCFF607SXR.bigWig	nan
+ENCFF054VRQ	Histone ChIP-seq	GRCh38	fold change over control	upper lobe of left lung	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF054VRQ/@@download/ENCFF054VRQ.bigWig	nan
+ENCFF996QZC	Histone ChIP-seq	GRCh38	fold change over control	upper lobe of left lung	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF996QZC/@@download/ENCFF996QZC.bigWig	nan
+ENCFF862ZOO	TF ChIP-seq	GRCh38	fold change over control	upper lobe of left lung	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF862ZOO/@@download/ENCFF862ZOO.bigWig	nan
+ENCFF174WAB	Histone ChIP-seq	GRCh38	fold change over control	upper lobe of left lung	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF174WAB/@@download/ENCFF174WAB.bigWig	nan
+ENCFF372LSW	Histone ChIP-seq	GRCh38	fold change over control	upper lobe of left lung	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF372LSW/@@download/ENCFF372LSW.bigWig	nan
+ENCFF117DUU	Histone ChIP-seq	GRCh38	fold change over control	upper lobe of left lung	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF117DUU/@@download/ENCFF117DUU.bigWig	nan
+ENCFF282VQS	Histone ChIP-seq	GRCh38	fold change over control	upper lobe of left lung	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF282VQS/@@download/ENCFF282VQS.bigWig	nan
+ENCFF079MDX	TF ChIP-seq	GRCh38	fold change over control	upper lobe of left lung	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF079MDX/@@download/ENCFF079MDX.bigWig	nan
+ENCFF752LEN	Histone ChIP-seq	GRCh38	fold change over control	upper lobe of left lung	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF752LEN/@@download/ENCFF752LEN.bigWig	nan
+ENCFF543MYI	TF ChIP-seq	GRCh38	fold change over control	upper lobe of left lung	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF543MYI/@@download/ENCFF543MYI.bigWig	nan

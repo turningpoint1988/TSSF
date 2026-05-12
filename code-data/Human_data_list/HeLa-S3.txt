@@ -1,0 +1,37 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF623UDU	polyA plus RNA-seq	GRCh38	gene quantifications	HeLa-S3	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF623UDU/@@download/ENCFF623UDU.tsv	V29
+ENCFF297BJF	polyA plus RNA-seq	GRCh38	gene quantifications	HeLa-S3	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF297BJF/@@download/ENCFF297BJF.tsv	V29
+ENCFF151QTZ	polyA plus RNA-seq	GRCh38	gene quantifications	HeLa-S3	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF151QTZ/@@download/ENCFF151QTZ.tsv	V29
+ENCFF750TQI	polyA plus RNA-seq	GRCh38	gene quantifications	HeLa-S3	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF750TQI/@@download/ENCFF750TQI.tsv	V29
+ENCFF496CRF	polyA plus RNA-seq	GRCh38	gene quantifications	HeLa-S3	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF496CRF/@@download/ENCFF496CRF.tsv	V29
+ENCFF294GCU	polyA plus RNA-seq	GRCh38	gene quantifications	HeLa-S3	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF294GCU/@@download/ENCFF294GCU.tsv	V29
+ENCFF300TMZ	polyA plus RNA-seq	GRCh38	gene quantifications	HeLa-S3	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF300TMZ/@@download/ENCFF300TMZ.tsv	V29
+ENCFF835FVO	polyA plus RNA-seq	GRCh38	gene quantifications	HeLa-S3	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF835FVO/@@download/ENCFF835FVO.tsv	V29
+ENCFF068HUH	polyA plus RNA-seq	GRCh38	gene quantifications	HeLa-S3	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF068HUH/@@download/ENCFF068HUH.tsv	V29
+ENCFF217SNF	polyA plus RNA-seq	GRCh38	gene quantifications	HeLa-S3	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF217SNF/@@download/ENCFF217SNF.tsv	V29
+ENCFF172PKC	DNase-seq	GRCh38	read-depth normalized signal	HeLa-S3	cell line	nan	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF172PKC/@@download/ENCFF172PKC.bigWig	nan
+ENCFF194NJI	DNase-seq	GRCh38	read-depth normalized signal	HeLa-S3	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF194NJI/@@download/ENCFF194NJI.bigWig	nan
+ENCFF949GHX	DNase-seq	GRCh38	read-depth normalized signal	HeLa-S3	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF949GHX/@@download/ENCFF949GHX.bigWig	nan
+ENCFF757GHL	DNase-seq	GRCh38	read-depth normalized signal	HeLa-S3	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF757GHL/@@download/ENCFF757GHL.bigWig	nan
+ENCFF660ZUF	DNase-seq	GRCh38	read-depth normalized signal	HeLa-S3	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF660ZUF/@@download/ENCFF660ZUF.bigWig	nan
+ENCFF599XVV	TF ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF599XVV/@@download/ENCFF599XVV.bigWig	nan
+ENCFF932HXB	TF ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF932HXB/@@download/ENCFF932HXB.bigWig	nan
+ENCFF236PSI	TF ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF236PSI/@@download/ENCFF236PSI.bigWig	nan
+ENCFF271ZVX	Histone ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF271ZVX/@@download/ENCFF271ZVX.bigWig	nan
+ENCFF942HHB	Histone ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF942HHB/@@download/ENCFF942HHB.bigWig	nan
+ENCFF432PYK	Histone ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	H3K4me3-human	1, 2	1_1, 1_2, 2_1	https://www.encodeproject.org/files/ENCFF432PYK/@@download/ENCFF432PYK.bigWig	nan
+ENCFF339BBQ	Histone ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF339BBQ/@@download/ENCFF339BBQ.bigWig	nan
+ENCFF728IVS	Histone ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF728IVS/@@download/ENCFF728IVS.bigWig	nan
+ENCFF079DNM	Histone ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF079DNM/@@download/ENCFF079DNM.bigWig	nan
+ENCFF010QGR	Histone ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF010QGR/@@download/ENCFF010QGR.bigWig	nan
+ENCFF855XCJ	Histone ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF855XCJ/@@download/ENCFF855XCJ.bigWig	nan
+ENCFF658XKZ	Histone ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF658XKZ/@@download/ENCFF658XKZ.bigWig	nan
+ENCFF684CXT	TF ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF684CXT/@@download/ENCFF684CXT.bigWig	nan
+ENCFF601ICC	TF ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF601ICC/@@download/ENCFF601ICC.bigWig	nan
+ENCFF618LNI	TF ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF618LNI/@@download/ENCFF618LNI.bigWig	nan
+ENCFF532TVQ	Histone ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF532TVQ/@@download/ENCFF532TVQ.bigWig	nan
+ENCFF933NWW	Histone ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF933NWW/@@download/ENCFF933NWW.bigWig	nan
+ENCFF460QIU	Histone ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF460QIU/@@download/ENCFF460QIU.bigWig	nan
+ENCFF215FZM	TF ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF215FZM/@@download/ENCFF215FZM.bigWig	nan
+ENCFF464OSE	TF ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF464OSE/@@download/ENCFF464OSE.bigWig	nan
+ENCFF179RSE	TF ChIP-seq	GRCh38	fold change over control	HeLa-S3	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF179RSE/@@download/ENCFF179RSE.bigWig	nan

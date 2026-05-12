@@ -1,0 +1,23 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF391DOY	total RNA-seq	GRCh38	gene quantifications	GM23338	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF391DOY/@@download/ENCFF391DOY.tsv	V29
+ENCFF892DWO	total RNA-seq	GRCh38	gene quantifications	GM23338	cell line	nan	1	1_2	https://www.encodeproject.org/files/ENCFF892DWO/@@download/ENCFF892DWO.tsv	V29
+ENCFF451UPN	polyA plus RNA-seq	GRCh38	gene quantifications	GM23338	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF451UPN/@@download/ENCFF451UPN.tsv	V29
+ENCFF204QFN	polyA plus RNA-seq	GRCh38	gene quantifications	GM23338	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF204QFN/@@download/ENCFF204QFN.tsv	V29
+ENCFF106SZG	total RNA-seq	GRCh38	gene quantifications	GM23338	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF106SZG/@@download/ENCFF106SZG.tsv	V29
+ENCFF730OTJ	total RNA-seq	GRCh38	gene quantifications	GM23338	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF730OTJ/@@download/ENCFF730OTJ.tsv	V29
+ENCFF395HEQ	DNase-seq	GRCh38	read-depth normalized signal	GM23338	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF395HEQ/@@download/ENCFF395HEQ.bigWig	nan
+ENCFF766CUM	DNase-seq	GRCh38	read-depth normalized signal	GM23338	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF766CUM/@@download/ENCFF766CUM.bigWig	nan
+ENCFF241UWA	DNase-seq	GRCh38	read-depth normalized signal	GM23338	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF241UWA/@@download/ENCFF241UWA.bigWig	nan
+ENCFF431MSX	TF ChIP-seq	GRCh38	fold change over control	GM23338	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF431MSX/@@download/ENCFF431MSX.bigWig	nan
+ENCFF622JEC	TF ChIP-seq	GRCh38	fold change over control	GM23338	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF622JEC/@@download/ENCFF622JEC.bigWig	nan
+ENCFF308TWX	TF ChIP-seq	GRCh38	fold change over control	GM23338	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF308TWX/@@download/ENCFF308TWX.bigWig	nan
+ENCFF553NAP	TF ChIP-seq	GRCh38	fold change over control	GM23338	cell line	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF553NAP/@@download/ENCFF553NAP.bigWig	nan
+ENCFF193NSG	Histone ChIP-seq	GRCh38	fold change over control	GM23338	cell line	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF193NSG/@@download/ENCFF193NSG.bigWig	nan
+ENCFF336OMS	Histone ChIP-seq	GRCh38	fold change over control	GM23338	cell line	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF336OMS/@@download/ENCFF336OMS.bigWig	nan
+ENCFF641QBD	Histone ChIP-seq	GRCh38	fold change over control	GM23338	cell line	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF641QBD/@@download/ENCFF641QBD.bigWig	nan
+ENCFF101UCD	TF ChIP-seq	GRCh38	fold change over control	GM23338	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF101UCD/@@download/ENCFF101UCD.bigWig	nan
+ENCFF188MNF	TF ChIP-seq	GRCh38	fold change over control	GM23338	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF188MNF/@@download/ENCFF188MNF.bigWig	nan
+ENCFF369MIX	TF ChIP-seq	GRCh38	fold change over control	GM23338	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF369MIX/@@download/ENCFF369MIX.bigWig	nan
+ENCFF242ICY	Histone ChIP-seq	GRCh38	fold change over control	GM23338	cell line	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF242ICY/@@download/ENCFF242ICY.bigWig	nan
+ENCFF860DIY	Histone ChIP-seq	GRCh38	fold change over control	GM23338	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF860DIY/@@download/ENCFF860DIY.bigWig	nan
+ENCFF446OPT	Histone ChIP-seq	GRCh38	fold change over control	GM23338	cell line	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF446OPT/@@download/ENCFF446OPT.bigWig	nan

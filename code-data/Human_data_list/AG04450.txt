@@ -1,0 +1,12 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF569EUR	polyA plus RNA-seq	GRCh38	gene quantifications	AG04450	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF569EUR/@@download/ENCFF569EUR.tsv	V29
+ENCFF326VMM	polyA plus RNA-seq	GRCh38	gene quantifications	AG04450	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF326VMM/@@download/ENCFF326VMM.tsv	V29
+ENCFF224LGD	DNase-seq	GRCh38	read-depth normalized signal	AG04450	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF224LGD/@@download/ENCFF224LGD.bigWig	nan
+ENCFF153DHV	DNase-seq	GRCh38	read-depth normalized signal	AG04450	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF153DHV/@@download/ENCFF153DHV.bigWig	nan
+ENCFF389RGR	Histone ChIP-seq	GRCh38	fold change over control	AG04450	cell line	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF389RGR/@@download/ENCFF389RGR.bigWig	nan
+ENCFF561NIE	TF ChIP-seq	GRCh38	fold change over control	AG04450	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF561NIE/@@download/ENCFF561NIE.bigWig	nan
+ENCFF262RKP	TF ChIP-seq	GRCh38	fold change over control	AG04450	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF262RKP/@@download/ENCFF262RKP.bigWig	nan
+ENCFF766VDL	TF ChIP-seq	GRCh38	fold change over control	AG04450	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF766VDL/@@download/ENCFF766VDL.bigWig	nan
+ENCFF727KIU	Histone ChIP-seq	GRCh38	fold change over control	AG04450	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF727KIU/@@download/ENCFF727KIU.bigWig	nan
+ENCFF573ZFG	Histone ChIP-seq	GRCh38	fold change over control	AG04450	cell line	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF573ZFG/@@download/ENCFF573ZFG.bigWig	nan
+ENCFF954SMW	Histone ChIP-seq	GRCh38	fold change over control	AG04450	cell line	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF954SMW/@@download/ENCFF954SMW.bigWig	nan

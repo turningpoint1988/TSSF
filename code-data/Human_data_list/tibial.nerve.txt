@@ -1,0 +1,23 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF495AYZ	total RNA-seq	GRCh38	gene quantifications	tibial nerve	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF495AYZ/@@download/ENCFF495AYZ.tsv	V29
+ENCFF005RLW	total RNA-seq	GRCh38	gene quantifications	tibial nerve	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF005RLW/@@download/ENCFF005RLW.tsv	V29
+ENCFF398VOV	total RNA-seq	GRCh38	gene quantifications	tibial nerve	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF398VOV/@@download/ENCFF398VOV.tsv	V29
+ENCFF197RQL	total RNA-seq	GRCh38	gene quantifications	tibial nerve	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF197RQL/@@download/ENCFF197RQL.tsv	V29
+ENCFF329MXC	DNase-seq	GRCh38	read-depth normalized signal	tibial nerve	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF329MXC/@@download/ENCFF329MXC.bigWig	nan
+ENCFF639UGW	DNase-seq	GRCh38	read-depth normalized signal	tibial nerve	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF639UGW/@@download/ENCFF639UGW.bigWig	nan
+ENCFF644VHX	DNase-seq	GRCh38	read-depth normalized signal	tibial nerve	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF644VHX/@@download/ENCFF644VHX.bigWig	nan
+ENCFF798CZY	DNase-seq	GRCh38	read-depth normalized signal	tibial nerve	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF798CZY/@@download/ENCFF798CZY.bigWig	nan
+ENCFF836KZK	TF ChIP-seq	GRCh38	fold change over control	tibial nerve	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF836KZK/@@download/ENCFF836KZK.bigWig	nan
+ENCFF201UPO	Histone ChIP-seq	GRCh38	fold change over control	tibial nerve	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF201UPO/@@download/ENCFF201UPO.bigWig	nan
+ENCFF670BZH	TF ChIP-seq	GRCh38	fold change over control	tibial nerve	tissue	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF670BZH/@@download/ENCFF670BZH.bigWig	nan
+ENCFF038BIZ	Histone ChIP-seq	GRCh38	fold change over control	tibial nerve	tissue	H3K27ac-human	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF038BIZ/@@download/ENCFF038BIZ.bigWig	nan
+ENCFF958TLM	Histone ChIP-seq	GRCh38	fold change over control	tibial nerve	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF958TLM/@@download/ENCFF958TLM.bigWig	nan
+ENCFF543LIT	TF ChIP-seq	GRCh38	fold change over control	tibial nerve	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF543LIT/@@download/ENCFF543LIT.bigWig	nan
+ENCFF678PGU	TF ChIP-seq	GRCh38	fold change over control	tibial nerve	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF678PGU/@@download/ENCFF678PGU.bigWig	nan
+ENCFF758AQR	Histone ChIP-seq	GRCh38	fold change over control	tibial nerve	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF758AQR/@@download/ENCFF758AQR.bigWig	nan
+ENCFF400NQI	Histone ChIP-seq	GRCh38	fold change over control	tibial nerve	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF400NQI/@@download/ENCFF400NQI.bigWig	nan
+ENCFF402CVL	Histone ChIP-seq	GRCh38	fold change over control	tibial nerve	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF402CVL/@@download/ENCFF402CVL.bigWig	nan
+ENCFF779PMH	Histone ChIP-seq	GRCh38	fold change over control	tibial nerve	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF779PMH/@@download/ENCFF779PMH.bigWig	nan
+ENCFF670COF	TF ChIP-seq	GRCh38	fold change over control	tibial nerve	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF670COF/@@download/ENCFF670COF.bigWig	nan
+ENCFF960DIA	TF ChIP-seq	GRCh38	fold change over control	tibial nerve	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF960DIA/@@download/ENCFF960DIA.bigWig	nan
+ENCFF549DZD	Histone ChIP-seq	GRCh38	fold change over control	tibial nerve	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF549DZD/@@download/ENCFF549DZD.bigWig	nan

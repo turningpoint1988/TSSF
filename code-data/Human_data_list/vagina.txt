@@ -1,0 +1,15 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF458MLB	total RNA-seq	GRCh38	gene quantifications	vagina	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF458MLB/@@download/ENCFF458MLB.tsv	V29
+ENCFF547JQK	DNase-seq	GRCh38	read-depth normalized signal	vagina	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF547JQK/@@download/ENCFF547JQK.bigWig	nan
+ENCFF525EPU	DNase-seq	GRCh38	read-depth normalized signal	vagina	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF525EPU/@@download/ENCFF525EPU.bigWig	nan
+ENCFF904YBG	Histone ChIP-seq	GRCh38	fold change over control	vagina	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF904YBG/@@download/ENCFF904YBG.bigWig	nan
+ENCFF092VQF	Histone ChIP-seq	GRCh38	fold change over control	vagina	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF092VQF/@@download/ENCFF092VQF.bigWig	nan
+ENCFF704JSE	TF ChIP-seq	GRCh38	fold change over control	vagina	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF704JSE/@@download/ENCFF704JSE.bigWig	nan
+ENCFF820JGD	TF ChIP-seq	GRCh38	fold change over control	vagina	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF820JGD/@@download/ENCFF820JGD.bigWig	nan
+ENCFF258LTU	TF ChIP-seq	GRCh38	fold change over control	vagina	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF258LTU/@@download/ENCFF258LTU.bigWig	nan
+ENCFF379GSJ	Histone ChIP-seq	GRCh38	fold change over control	vagina	tissue	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF379GSJ/@@download/ENCFF379GSJ.bigWig	nan
+ENCFF841IYY	Histone ChIP-seq	GRCh38	fold change over control	vagina	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF841IYY/@@download/ENCFF841IYY.bigWig	nan
+ENCFF342IUX	Histone ChIP-seq	GRCh38	fold change over control	vagina	tissue	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF342IUX/@@download/ENCFF342IUX.bigWig	nan
+ENCFF897RZT	Histone ChIP-seq	GRCh38	fold change over control	vagina	tissue	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF897RZT/@@download/ENCFF897RZT.bigWig	nan
+ENCFF046PIA	Histone ChIP-seq	GRCh38	fold change over control	vagina	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF046PIA/@@download/ENCFF046PIA.bigWig	nan
+ENCFF738HRV	Histone ChIP-seq	GRCh38	fold change over control	vagina	tissue	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF738HRV/@@download/ENCFF738HRV.bigWig	nan

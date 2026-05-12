@@ -1,0 +1,65 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF092YVT	total RNA-seq	GRCh38	gene quantifications	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF092YVT/@@download/ENCFF092YVT.tsv	V29
+ENCFF789UOH	total RNA-seq	GRCh38	gene quantifications	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF789UOH/@@download/ENCFF789UOH.tsv	V29
+ENCFF417VDK	total RNA-seq	GRCh38	gene quantifications	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF417VDK/@@download/ENCFF417VDK.tsv	V29
+ENCFF269SPH	total RNA-seq	GRCh38	gene quantifications	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF269SPH/@@download/ENCFF269SPH.tsv	V29
+ENCFF408FCD	total RNA-seq	GRCh38	gene quantifications	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF408FCD/@@download/ENCFF408FCD.tsv	V29
+ENCFF346ANG	polyA plus RNA-seq	GRCh38	gene quantifications	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF346ANG/@@download/ENCFF346ANG.tsv	V29
+ENCFF646SZM	polyA plus RNA-seq	GRCh38	gene quantifications	heart left ventricle	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF646SZM/@@download/ENCFF646SZM.tsv	V29
+ENCFF311HGE	total RNA-seq	GRCh38	gene quantifications	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF311HGE/@@download/ENCFF311HGE.tsv	V29
+ENCFF440HGB	total RNA-seq	GRCh38	gene quantifications	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF440HGB/@@download/ENCFF440HGB.tsv	V29
+ENCFF370RMR	total RNA-seq	GRCh38	gene quantifications	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF370RMR/@@download/ENCFF370RMR.tsv	V29
+ENCFF610HRQ	total RNA-seq	GRCh38	gene quantifications	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF610HRQ/@@download/ENCFF610HRQ.tsv	V29
+ENCFF122VLP	DNase-seq	GRCh38	read-depth normalized signal	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF122VLP/@@download/ENCFF122VLP.bigWig	nan
+ENCFF417JSF	DNase-seq	GRCh38	read-depth normalized signal	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF417JSF/@@download/ENCFF417JSF.bigWig	nan
+ENCFF867HAD	DNase-seq	GRCh38	read-depth normalized signal	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF867HAD/@@download/ENCFF867HAD.bigWig	nan
+ENCFF321BJG	DNase-seq	GRCh38	read-depth normalized signal	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF321BJG/@@download/ENCFF321BJG.bigWig	nan
+ENCFF099PUP	DNase-seq	GRCh38	read-depth normalized signal	heart left ventricle	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF099PUP/@@download/ENCFF099PUP.bigWig	nan
+ENCFF414ADM	DNase-seq	GRCh38	read-depth normalized signal	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF414ADM/@@download/ENCFF414ADM.bigWig	nan
+ENCFF380ELC	DNase-seq	GRCh38	read-depth normalized signal	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF380ELC/@@download/ENCFF380ELC.bigWig	nan
+ENCFF107UJS	DNase-seq	GRCh38	read-depth normalized signal	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF107UJS/@@download/ENCFF107UJS.bigWig	nan
+ENCFF414OIM	DNase-seq	GRCh38	read-depth normalized signal	heart left ventricle	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF414OIM/@@download/ENCFF414OIM.bigWig	nan
+ENCFF891ETR	DNase-seq	GRCh38	read-depth normalized signal	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF891ETR/@@download/ENCFF891ETR.bigWig	nan
+ENCFF254NBU	DNase-seq	GRCh38	read-depth normalized signal	heart left ventricle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF254NBU/@@download/ENCFF254NBU.bigWig	nan
+ENCFF992WUL	TF ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF992WUL/@@download/ENCFF992WUL.bigWig	nan
+ENCFF960PIT	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF960PIT/@@download/ENCFF960PIT.bigWig	nan
+ENCFF135RBK	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF135RBK/@@download/ENCFF135RBK.bigWig	nan
+ENCFF593RGX	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF593RGX/@@download/ENCFF593RGX.bigWig	nan
+ENCFF163DHS	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF163DHS/@@download/ENCFF163DHS.bigWig	nan
+ENCFF190UNW	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF190UNW/@@download/ENCFF190UNW.bigWig	nan
+ENCFF541CSJ	TF ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF541CSJ/@@download/ENCFF541CSJ.bigWig	nan
+ENCFF030MCS	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF030MCS/@@download/ENCFF030MCS.bigWig	nan
+ENCFF395BUI	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF395BUI/@@download/ENCFF395BUI.bigWig	nan
+ENCFF957OYD	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF957OYD/@@download/ENCFF957OYD.bigWig	nan
+ENCFF955DUI	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF955DUI/@@download/ENCFF955DUI.bigWig	nan
+ENCFF958BQA	TF ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF958BQA/@@download/ENCFF958BQA.bigWig	nan
+ENCFF817RTJ	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF817RTJ/@@download/ENCFF817RTJ.bigWig	nan
+ENCFF843XSG	TF ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF843XSG/@@download/ENCFF843XSG.bigWig	nan
+ENCFF614FJF	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF614FJF/@@download/ENCFF614FJF.bigWig	nan
+ENCFF688GJM	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF688GJM/@@download/ENCFF688GJM.bigWig	nan
+ENCFF797NQV	TF ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF797NQV/@@download/ENCFF797NQV.bigWig	nan
+ENCFF108LHZ	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF108LHZ/@@download/ENCFF108LHZ.bigWig	nan
+ENCFF551YUP	TF ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF551YUP/@@download/ENCFF551YUP.bigWig	nan
+ENCFF155GED	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF155GED/@@download/ENCFF155GED.bigWig	nan
+ENCFF617TKL	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF617TKL/@@download/ENCFF617TKL.bigWig	nan
+ENCFF152PBB	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF152PBB/@@download/ENCFF152PBB.bigWig	nan
+ENCFF252IVK	TF ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF252IVK/@@download/ENCFF252IVK.bigWig	nan
+ENCFF915AST	TF ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF915AST/@@download/ENCFF915AST.bigWig	nan
+ENCFF320IPT	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF320IPT/@@download/ENCFF320IPT.bigWig	nan
+ENCFF352YYH	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF352YYH/@@download/ENCFF352YYH.bigWig	nan
+ENCFF440RUS	TF ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF440RUS/@@download/ENCFF440RUS.bigWig	nan
+ENCFF311FLH	TF ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF311FLH/@@download/ENCFF311FLH.bigWig	nan
+ENCFF522YPN	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF522YPN/@@download/ENCFF522YPN.bigWig	nan
+ENCFF969BAO	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF969BAO/@@download/ENCFF969BAO.bigWig	nan
+ENCFF629GRW	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF629GRW/@@download/ENCFF629GRW.bigWig	nan
+ENCFF430ZYJ	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF430ZYJ/@@download/ENCFF430ZYJ.bigWig	nan
+ENCFF111KQW	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF111KQW/@@download/ENCFF111KQW.bigWig	nan
+ENCFF310JID	TF ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF310JID/@@download/ENCFF310JID.bigWig	nan
+ENCFF251ATC	TF ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF251ATC/@@download/ENCFF251ATC.bigWig	nan
+ENCFF651XRK	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF651XRK/@@download/ENCFF651XRK.bigWig	nan
+ENCFF720HFS	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF720HFS/@@download/ENCFF720HFS.bigWig	nan
+ENCFF700IQJ	TF ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF700IQJ/@@download/ENCFF700IQJ.bigWig	nan
+ENCFF412TOH	TF ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF412TOH/@@download/ENCFF412TOH.bigWig	nan
+ENCFF718XVH	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF718XVH/@@download/ENCFF718XVH.bigWig	nan
+ENCFF869EMQ	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF869EMQ/@@download/ENCFF869EMQ.bigWig	nan
+ENCFF707MHB	Histone ChIP-seq	GRCh38	fold change over control	heart left ventricle	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF707MHB/@@download/ENCFF707MHB.bigWig	nan

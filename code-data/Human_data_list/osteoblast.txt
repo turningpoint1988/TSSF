@@ -1,0 +1,14 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF220VSM	total RNA-seq	GRCh38	gene quantifications	osteoblast	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF220VSM/@@download/ENCFF220VSM.tsv	V29
+ENCFF838KPI	total RNA-seq	GRCh38	gene quantifications	osteoblast	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF838KPI/@@download/ENCFF838KPI.tsv	V29
+ENCFF418OBI	DNase-seq	GRCh38	read-depth normalized signal	osteoblast	primary cell	nan	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF418OBI/@@download/ENCFF418OBI.bigWig	nan
+ENCFF103MXT	Histone ChIP-seq	GRCh38	fold change over control	osteoblast	primary cell	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF103MXT/@@download/ENCFF103MXT.bigWig	nan
+ENCFF916HWF	Histone ChIP-seq	GRCh38	fold change over control	osteoblast	primary cell	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF916HWF/@@download/ENCFF916HWF.bigWig	nan
+ENCFF115KYO	Histone ChIP-seq	GRCh38	fold change over control	osteoblast	primary cell	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF115KYO/@@download/ENCFF115KYO.bigWig	nan
+ENCFF256FXW	Histone ChIP-seq	GRCh38	fold change over control	osteoblast	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF256FXW/@@download/ENCFF256FXW.bigWig	nan
+ENCFF580GUX	Histone ChIP-seq	GRCh38	fold change over control	osteoblast	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF580GUX/@@download/ENCFF580GUX.bigWig	nan
+ENCFF099TQV	Histone ChIP-seq	GRCh38	fold change over control	osteoblast	primary cell	H3K4me3-human	3	3_1, 3_2	https://www.encodeproject.org/files/ENCFF099TQV/@@download/ENCFF099TQV.bigWig	nan
+ENCFF837VDG	Histone ChIP-seq	GRCh38	fold change over control	osteoblast	primary cell	H3K4me3-human	1, 2, 3	1_1, 2_1, 3_1, 3_2	https://www.encodeproject.org/files/ENCFF837VDG/@@download/ENCFF837VDG.bigWig	nan
+ENCFF545ZMJ	TF ChIP-seq	GRCh38	fold change over control	osteoblast	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF545ZMJ/@@download/ENCFF545ZMJ.bigWig	nan
+ENCFF034UGU	TF ChIP-seq	GRCh38	fold change over control	osteoblast	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF034UGU/@@download/ENCFF034UGU.bigWig	nan
+ENCFF185GGC	TF ChIP-seq	GRCh38	fold change over control	osteoblast	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF185GGC/@@download/ENCFF185GGC.bigWig	nan

@@ -1,0 +1,6 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF480KNS	total RNA-seq	GRCh38	gene quantifications	lower lobe of right lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF480KNS/@@download/ENCFF480KNS.tsv	V29
+ENCFF883DDK	DNase-seq	GRCh38	read-depth normalized signal	lower lobe of right lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF883DDK/@@download/ENCFF883DDK.bigWig	nan
+ENCFF781ELK	Histone ChIP-seq	GRCh38	fold change over control	lower lobe of right lung	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF781ELK/@@download/ENCFF781ELK.bigWig	nan
+ENCFF733IXH	Histone ChIP-seq	GRCh38	fold change over control	lower lobe of right lung	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF733IXH/@@download/ENCFF733IXH.bigWig	nan
+ENCFF444IPJ	TF ChIP-seq	GRCh38	fold change over control	lower lobe of right lung	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF444IPJ/@@download/ENCFF444IPJ.bigWig	nan

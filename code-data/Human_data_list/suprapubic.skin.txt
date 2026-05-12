@@ -1,0 +1,13 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF858UNG	total RNA-seq	GRCh38	gene quantifications	suprapubic skin	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF858UNG/@@download/ENCFF858UNG.tsv	V29
+ENCFF673GJW	total RNA-seq	GRCh38	gene quantifications	suprapubic skin	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF673GJW/@@download/ENCFF673GJW.tsv	V29
+ENCFF299RPU	total RNA-seq	GRCh38	gene quantifications	suprapubic skin	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF299RPU/@@download/ENCFF299RPU.tsv	V29
+ENCFF751ODP	total RNA-seq	GRCh38	gene quantifications	suprapubic skin	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF751ODP/@@download/ENCFF751ODP.tsv	V29
+ENCFF642VOM	DNase-seq	GRCh38	read-depth normalized signal	suprapubic skin	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF642VOM/@@download/ENCFF642VOM.bigWig	nan
+ENCFF548VEV	DNase-seq	GRCh38	read-depth normalized signal	suprapubic skin	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF548VEV/@@download/ENCFF548VEV.bigWig	nan
+ENCFF634LYO	Histone ChIP-seq	GRCh38	fold change over control	suprapubic skin	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF634LYO/@@download/ENCFF634LYO.bigWig	nan
+ENCFF015NMW	TF ChIP-seq	GRCh38	fold change over control	suprapubic skin	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF015NMW/@@download/ENCFF015NMW.bigWig	nan
+ENCFF508OUM	Histone ChIP-seq	GRCh38	fold change over control	suprapubic skin	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF508OUM/@@download/ENCFF508OUM.bigWig	nan
+ENCFF081ZME	TF ChIP-seq	GRCh38	fold change over control	suprapubic skin	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF081ZME/@@download/ENCFF081ZME.bigWig	nan
+ENCFF580ZIB	TF ChIP-seq	GRCh38	fold change over control	suprapubic skin	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF580ZIB/@@download/ENCFF580ZIB.bigWig	nan
+ENCFF848HOS	TF ChIP-seq	GRCh38	fold change over control	suprapubic skin	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF848HOS/@@download/ENCFF848HOS.bigWig	nan

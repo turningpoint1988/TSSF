@@ -1,0 +1,16 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF332SNL	total RNA-seq	GRCh38	gene quantifications	right atrium auricular region	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF332SNL/@@download/ENCFF332SNL.tsv	V29
+ENCFF846ZKU	total RNA-seq	GRCh38	gene quantifications	right atrium auricular region	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF846ZKU/@@download/ENCFF846ZKU.tsv	V29
+ENCFF679FKQ	DNase-seq	GRCh38	read-depth normalized signal	right atrium auricular region	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF679FKQ/@@download/ENCFF679FKQ.bigWig	nan
+ENCFF832GZH	DNase-seq	GRCh38	read-depth normalized signal	right atrium auricular region	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF832GZH/@@download/ENCFF832GZH.bigWig	nan
+ENCFF114YQT	Histone ChIP-seq	GRCh38	fold change over control	right atrium auricular region	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF114YQT/@@download/ENCFF114YQT.bigWig	nan
+ENCFF654XUX	Histone ChIP-seq	GRCh38	fold change over control	right atrium auricular region	tissue	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF654XUX/@@download/ENCFF654XUX.bigWig	nan
+ENCFF791CAJ	Histone ChIP-seq	GRCh38	fold change over control	right atrium auricular region	tissue	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF791CAJ/@@download/ENCFF791CAJ.bigWig	nan
+ENCFF618WXG	Histone ChIP-seq	GRCh38	fold change over control	right atrium auricular region	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF618WXG/@@download/ENCFF618WXG.bigWig	nan
+ENCFF657DER	Histone ChIP-seq	GRCh38	fold change over control	right atrium auricular region	tissue	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF657DER/@@download/ENCFF657DER.bigWig	nan
+ENCFF163VOI	Histone ChIP-seq	GRCh38	fold change over control	right atrium auricular region	tissue	H3K4me3-human	1, 2	1_1, 1_2, 2_1	https://www.encodeproject.org/files/ENCFF163VOI/@@download/ENCFF163VOI.bigWig	nan
+ENCFF646DAW	Histone ChIP-seq	GRCh38	fold change over control	right atrium auricular region	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF646DAW/@@download/ENCFF646DAW.bigWig	nan
+ENCFF872ERK	TF ChIP-seq	GRCh38	fold change over control	right atrium auricular region	tissue	CTCF-human	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF872ERK/@@download/ENCFF872ERK.bigWig	nan
+ENCFF886TBW	TF ChIP-seq	GRCh38	fold change over control	right atrium auricular region	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF886TBW/@@download/ENCFF886TBW.bigWig	nan
+ENCFF337EUB	Histone ChIP-seq	GRCh38	fold change over control	right atrium auricular region	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF337EUB/@@download/ENCFF337EUB.bigWig	nan
+ENCFF760IZU	TF ChIP-seq	GRCh38	fold change over control	right atrium auricular region	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF760IZU/@@download/ENCFF760IZU.bigWig	nan

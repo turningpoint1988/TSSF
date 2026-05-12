@@ -1,0 +1,37 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF677IBW	total RNA-seq	GRCh38	gene quantifications	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF677IBW/@@download/ENCFF677IBW.tsv	V29
+ENCFF494PJN	total RNA-seq	GRCh38	gene quantifications	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF494PJN/@@download/ENCFF494PJN.tsv	V29
+ENCFF343HHX	polyA plus RNA-seq	GRCh38	gene quantifications	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF343HHX/@@download/ENCFF343HHX.tsv	V29
+ENCFF039JPL	polyA plus RNA-seq	GRCh38	gene quantifications	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF039JPL/@@download/ENCFF039JPL.tsv	V29
+ENCFF641UWX	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF641UWX/@@download/ENCFF641UWX.bigWig	nan
+ENCFF894UQK	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF894UQK/@@download/ENCFF894UQK.bigWig	nan
+ENCFF371TES	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF371TES/@@download/ENCFF371TES.bigWig	nan
+ENCFF735BXS	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF735BXS/@@download/ENCFF735BXS.bigWig	nan
+ENCFF759BZH	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF759BZH/@@download/ENCFF759BZH.bigWig	nan
+ENCFF333UGD	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF333UGD/@@download/ENCFF333UGD.bigWig	nan
+ENCFF528BNZ	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF528BNZ/@@download/ENCFF528BNZ.bigWig	nan
+ENCFF465USN	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF465USN/@@download/ENCFF465USN.bigWig	nan
+ENCFF694NRJ	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF694NRJ/@@download/ENCFF694NRJ.bigWig	nan
+ENCFF938MFJ	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF938MFJ/@@download/ENCFF938MFJ.bigWig	nan
+ENCFF721YZB	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF721YZB/@@download/ENCFF721YZB.bigWig	nan
+ENCFF492QZP	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF492QZP/@@download/ENCFF492QZP.bigWig	nan
+ENCFF991DNH	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF991DNH/@@download/ENCFF991DNH.bigWig	nan
+ENCFF326EII	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_2	https://www.encodeproject.org/files/ENCFF326EII/@@download/ENCFF326EII.bigWig	nan
+ENCFF686OJZ	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF686OJZ/@@download/ENCFF686OJZ.bigWig	nan
+ENCFF218MVU	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF218MVU/@@download/ENCFF218MVU.bigWig	nan
+ENCFF702RRA	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF702RRA/@@download/ENCFF702RRA.bigWig	nan
+ENCFF259VQH	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_2	https://www.encodeproject.org/files/ENCFF259VQH/@@download/ENCFF259VQH.bigWig	nan
+ENCFF016PFI	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF016PFI/@@download/ENCFF016PFI.bigWig	nan
+ENCFF306KBJ	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF306KBJ/@@download/ENCFF306KBJ.bigWig	nan
+ENCFF800AIM	DNase-seq	GRCh38	read-depth normalized signal	CD8-positive alpha-beta T cell	primary cell	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF800AIM/@@download/ENCFF800AIM.bigWig	nan
+ENCFF610YCP	TF ChIP-seq	GRCh38	fold change over control	CD8-positive alpha-beta T cell	primary cell	CTCF-human	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF610YCP/@@download/ENCFF610YCP.bigWig	nan
+ENCFF703OPO	Histone ChIP-seq	GRCh38	fold change over control	CD8-positive alpha-beta T cell	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF703OPO/@@download/ENCFF703OPO.bigWig	nan
+ENCFF395IFV	Histone ChIP-seq	GRCh38	fold change over control	CD8-positive alpha-beta T cell	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF395IFV/@@download/ENCFF395IFV.bigWig	nan
+ENCFF892ETR	Histone ChIP-seq	GRCh38	fold change over control	CD8-positive alpha-beta T cell	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF892ETR/@@download/ENCFF892ETR.bigWig	nan
+ENCFF727GEM	Histone ChIP-seq	GRCh38	fold change over control	CD8-positive alpha-beta T cell	primary cell	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF727GEM/@@download/ENCFF727GEM.bigWig	nan
+ENCFF649TKW	Histone ChIP-seq	GRCh38	fold change over control	CD8-positive alpha-beta T cell	primary cell	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF649TKW/@@download/ENCFF649TKW.bigWig	nan
+ENCFF495UDL	Histone ChIP-seq	GRCh38	fold change over control	CD8-positive alpha-beta T cell	primary cell	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF495UDL/@@download/ENCFF495UDL.bigWig	nan
+ENCFF966FLQ	Histone ChIP-seq	GRCh38	fold change over control	CD8-positive alpha-beta T cell	primary cell	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF966FLQ/@@download/ENCFF966FLQ.bigWig	nan
+ENCFF690UGP	Histone ChIP-seq	GRCh38	fold change over control	CD8-positive alpha-beta T cell	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF690UGP/@@download/ENCFF690UGP.bigWig	nan
+ENCFF523KXW	Histone ChIP-seq	GRCh38	fold change over control	CD8-positive alpha-beta T cell	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF523KXW/@@download/ENCFF523KXW.bigWig	nan
+ENCFF220LVT	Histone ChIP-seq	GRCh38	fold change over control	CD8-positive alpha-beta T cell	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF220LVT/@@download/ENCFF220LVT.bigWig	nan

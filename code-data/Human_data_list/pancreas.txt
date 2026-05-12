@@ -1,0 +1,40 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF696QDX	polyA plus RNA-seq	GRCh38	gene quantifications	pancreas	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF696QDX/@@download/ENCFF696QDX.tsv	V29
+ENCFF573RZC	polyA plus RNA-seq	GRCh38	gene quantifications	pancreas	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF573RZC/@@download/ENCFF573RZC.tsv	V29
+ENCFF673NSK	total RNA-seq	GRCh38	gene quantifications	pancreas	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF673NSK/@@download/ENCFF673NSK.tsv	V29
+ENCFF488KLW	total RNA-seq	GRCh38	gene quantifications	pancreas	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF488KLW/@@download/ENCFF488KLW.tsv	V29
+ENCFF258PUQ	total RNA-seq	GRCh38	gene quantifications	pancreas	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF258PUQ/@@download/ENCFF258PUQ.tsv	V29
+ENCFF091ALA	polyA plus RNA-seq	GRCh38	gene quantifications	pancreas	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF091ALA/@@download/ENCFF091ALA.tsv	V29
+ENCFF739MYH	polyA plus RNA-seq	GRCh38	gene quantifications	pancreas	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF739MYH/@@download/ENCFF739MYH.tsv	V29
+ENCFF004TUO	total RNA-seq	GRCh38	gene quantifications	pancreas	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF004TUO/@@download/ENCFF004TUO.tsv	V29
+ENCFF288NWG	total RNA-seq	GRCh38	gene quantifications	pancreas	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF288NWG/@@download/ENCFF288NWG.tsv	V29
+ENCFF764ITI	total RNA-seq	GRCh38	gene quantifications	pancreas	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF764ITI/@@download/ENCFF764ITI.tsv	V29
+ENCFF345NSW	DNase-seq	GRCh38	read-depth normalized signal	pancreas	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF345NSW/@@download/ENCFF345NSW.bigWig	nan
+ENCFF876OBV	DNase-seq	GRCh38	read-depth normalized signal	pancreas	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF876OBV/@@download/ENCFF876OBV.bigWig	nan
+ENCFF330ZGD	DNase-seq	GRCh38	read-depth normalized signal	pancreas	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF330ZGD/@@download/ENCFF330ZGD.bigWig	nan
+ENCFF213UEB	DNase-seq	GRCh38	read-depth normalized signal	pancreas	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF213UEB/@@download/ENCFF213UEB.bigWig	nan
+ENCFF707LYV	DNase-seq	GRCh38	read-depth normalized signal	pancreas	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF707LYV/@@download/ENCFF707LYV.bigWig	nan
+ENCFF459FAM	DNase-seq	GRCh38	read-depth normalized signal	pancreas	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF459FAM/@@download/ENCFF459FAM.bigWig	nan
+ENCFF349ZMO	DNase-seq	GRCh38	read-depth normalized signal	pancreas	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF349ZMO/@@download/ENCFF349ZMO.bigWig	nan
+ENCFF771UVC	DNase-seq	GRCh38	read-depth normalized signal	pancreas	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF771UVC/@@download/ENCFF771UVC.bigWig	nan
+ENCFF849YNY	Histone ChIP-seq	GRCh38	fold change over control	pancreas	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF849YNY/@@download/ENCFF849YNY.bigWig	nan
+ENCFF095SMK	TF ChIP-seq	GRCh38	fold change over control	pancreas	tissue	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF095SMK/@@download/ENCFF095SMK.bigWig	nan
+ENCFF876OHV	TF ChIP-seq	GRCh38	fold change over control	pancreas	tissue	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF876OHV/@@download/ENCFF876OHV.bigWig	nan
+ENCFF742QWG	TF ChIP-seq	GRCh38	fold change over control	pancreas	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF742QWG/@@download/ENCFF742QWG.bigWig	nan
+ENCFF808EQQ	Histone ChIP-seq	GRCh38	fold change over control	pancreas	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF808EQQ/@@download/ENCFF808EQQ.bigWig	nan
+ENCFF858QYE	Histone ChIP-seq	GRCh38	fold change over control	pancreas	tissue	H3K27ac-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF858QYE/@@download/ENCFF858QYE.bigWig	nan
+ENCFF827CBM	Histone ChIP-seq	GRCh38	fold change over control	pancreas	tissue	H3K27ac-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF827CBM/@@download/ENCFF827CBM.bigWig	nan
+ENCFF907EJV	Histone ChIP-seq	GRCh38	fold change over control	pancreas	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF907EJV/@@download/ENCFF907EJV.bigWig	nan
+ENCFF036WJV	Histone ChIP-seq	GRCh38	fold change over control	pancreas	tissue	H3K4me3-human	1	1_3	https://www.encodeproject.org/files/ENCFF036WJV/@@download/ENCFF036WJV.bigWig	nan
+ENCFF641QSU	Histone ChIP-seq	GRCh38	fold change over control	pancreas	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF641QSU/@@download/ENCFF641QSU.bigWig	nan
+ENCFF890FKH	TF ChIP-seq	GRCh38	fold change over control	pancreas	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF890FKH/@@download/ENCFF890FKH.bigWig	nan
+ENCFF083ENU	Histone ChIP-seq	GRCh38	fold change over control	pancreas	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF083ENU/@@download/ENCFF083ENU.bigWig	nan
+ENCFF232BMJ	TF ChIP-seq	GRCh38	fold change over control	pancreas	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF232BMJ/@@download/ENCFF232BMJ.bigWig	nan
+ENCFF682UWZ	Histone ChIP-seq	GRCh38	fold change over control	pancreas	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF682UWZ/@@download/ENCFF682UWZ.bigWig	nan
+ENCFF521NYK	TF ChIP-seq	GRCh38	fold change over control	pancreas	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF521NYK/@@download/ENCFF521NYK.bigWig	nan
+ENCFF317PKP	Histone ChIP-seq	GRCh38	fold change over control	pancreas	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF317PKP/@@download/ENCFF317PKP.bigWig	nan
+ENCFF236JWD	Histone ChIP-seq	GRCh38	fold change over control	pancreas	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF236JWD/@@download/ENCFF236JWD.bigWig	nan
+ENCFF306RJQ	Histone ChIP-seq	GRCh38	fold change over control	pancreas	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF306RJQ/@@download/ENCFF306RJQ.bigWig	nan
+ENCFF859IVY	Histone ChIP-seq	GRCh38	fold change over control	pancreas	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF859IVY/@@download/ENCFF859IVY.bigWig	nan
+ENCFF948MEI	Histone ChIP-seq	GRCh38	fold change over control	pancreas	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF948MEI/@@download/ENCFF948MEI.bigWig	nan
+ENCFF297EQI	TF ChIP-seq	GRCh38	fold change over control	pancreas	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF297EQI/@@download/ENCFF297EQI.bigWig	nan

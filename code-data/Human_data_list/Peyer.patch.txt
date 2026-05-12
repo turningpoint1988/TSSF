@@ -1,0 +1,26 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF463WWB	total RNA-seq	GRCh38	gene quantifications	Peyer patch	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF463WWB/@@download/ENCFF463WWB.tsv	V29
+ENCFF596GXF	total RNA-seq	GRCh38	gene quantifications	Peyer patch	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF596GXF/@@download/ENCFF596GXF.tsv	V29
+ENCFF261VFJ	total RNA-seq	GRCh38	gene quantifications	Peyer patch	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF261VFJ/@@download/ENCFF261VFJ.tsv	V29
+ENCFF660ZOT	total RNA-seq	GRCh38	gene quantifications	Peyer patch	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF660ZOT/@@download/ENCFF660ZOT.tsv	V29
+ENCFF137XIB	DNase-seq	GRCh38	read-depth normalized signal	Peyer patch	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF137XIB/@@download/ENCFF137XIB.bigWig	nan
+ENCFF926IJX	DNase-seq	GRCh38	read-depth normalized signal	Peyer patch	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF926IJX/@@download/ENCFF926IJX.bigWig	nan
+ENCFF241BCT	DNase-seq	GRCh38	read-depth normalized signal	Peyer patch	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF241BCT/@@download/ENCFF241BCT.bigWig	nan
+ENCFF717OQE	DNase-seq	GRCh38	read-depth normalized signal	Peyer patch	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF717OQE/@@download/ENCFF717OQE.bigWig	nan
+ENCFF812JCQ	DNase-seq	GRCh38	read-depth normalized signal	Peyer patch	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF812JCQ/@@download/ENCFF812JCQ.bigWig	nan
+ENCFF715AGA	TF ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF715AGA/@@download/ENCFF715AGA.bigWig	nan
+ENCFF485RWJ	Histone ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF485RWJ/@@download/ENCFF485RWJ.bigWig	nan
+ENCFF249ILQ	Histone ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF249ILQ/@@download/ENCFF249ILQ.bigWig	nan
+ENCFF758HAD	TF ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF758HAD/@@download/ENCFF758HAD.bigWig	nan
+ENCFF694HBV	TF ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF694HBV/@@download/ENCFF694HBV.bigWig	nan
+ENCFF788NGV	TF ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF788NGV/@@download/ENCFF788NGV.bigWig	nan
+ENCFF987CTM	TF ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF987CTM/@@download/ENCFF987CTM.bigWig	nan
+ENCFF739NVT	Histone ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF739NVT/@@download/ENCFF739NVT.bigWig	nan
+ENCFF243MMI	Histone ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF243MMI/@@download/ENCFF243MMI.bigWig	nan
+ENCFF675KIN	Histone ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF675KIN/@@download/ENCFF675KIN.bigWig	nan
+ENCFF525KQP	Histone ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF525KQP/@@download/ENCFF525KQP.bigWig	nan
+ENCFF474VCQ	Histone ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF474VCQ/@@download/ENCFF474VCQ.bigWig	nan
+ENCFF305GQX	Histone ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF305GQX/@@download/ENCFF305GQX.bigWig	nan
+ENCFF996ZNX	Histone ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF996ZNX/@@download/ENCFF996ZNX.bigWig	nan
+ENCFF945PHV	TF ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF945PHV/@@download/ENCFF945PHV.bigWig	nan
+ENCFF302XLU	Histone ChIP-seq	GRCh38	fold change over control	Peyer patch	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF302XLU/@@download/ENCFF302XLU.bigWig	nan

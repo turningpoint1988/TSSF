@@ -1,0 +1,15 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF855KIJ	polyA plus RNA-seq	GRCh38	gene quantifications	astrocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF855KIJ/@@download/ENCFF855KIJ.tsv	V29
+ENCFF102TBO	total RNA-seq	GRCh38	gene quantifications	astrocyte	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF102TBO/@@download/ENCFF102TBO.tsv	V29
+ENCFF026WTQ	total RNA-seq	GRCh38	gene quantifications	astrocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF026WTQ/@@download/ENCFF026WTQ.tsv	V29
+ENCFF963PFR	DNase-seq	GRCh38	read-depth normalized signal	astrocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF963PFR/@@download/ENCFF963PFR.bigWig	nan
+ENCFF908ZDO	DNase-seq	GRCh38	read-depth normalized signal	astrocyte	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF908ZDO/@@download/ENCFF908ZDO.bigWig	nan
+ENCFF727VTY	Histone ChIP-seq	GRCh38	fold change over control	astrocyte	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF727VTY/@@download/ENCFF727VTY.bigWig	nan
+ENCFF168IXO	Histone ChIP-seq	GRCh38	fold change over control	astrocyte	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF168IXO/@@download/ENCFF168IXO.bigWig	nan
+ENCFF577BWJ	Histone ChIP-seq	GRCh38	fold change over control	astrocyte	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF577BWJ/@@download/ENCFF577BWJ.bigWig	nan
+ENCFF135TMQ	TF ChIP-seq	GRCh38	fold change over control	astrocyte	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF135TMQ/@@download/ENCFF135TMQ.bigWig	nan
+ENCFF837HAF	TF ChIP-seq	GRCh38	fold change over control	astrocyte	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF837HAF/@@download/ENCFF837HAF.bigWig	nan
+ENCFF714NPP	TF ChIP-seq	GRCh38	fold change over control	astrocyte	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF714NPP/@@download/ENCFF714NPP.bigWig	nan
+ENCFF643ZMC	Histone ChIP-seq	GRCh38	fold change over control	astrocyte	primary cell	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF643ZMC/@@download/ENCFF643ZMC.bigWig	nan
+ENCFF245XQY	Histone ChIP-seq	GRCh38	fold change over control	astrocyte	primary cell	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF245XQY/@@download/ENCFF245XQY.bigWig	nan
+ENCFF627YWW	Histone ChIP-seq	GRCh38	fold change over control	astrocyte	primary cell	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF627YWW/@@download/ENCFF627YWW.bigWig	nan

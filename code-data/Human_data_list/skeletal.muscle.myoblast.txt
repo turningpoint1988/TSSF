@@ -1,0 +1,21 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF247SWB	polyA plus RNA-seq	GRCh38	gene quantifications	skeletal muscle myoblast	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF247SWB/@@download/ENCFF247SWB.tsv	V29
+ENCFF072UAU	polyA plus RNA-seq	GRCh38	gene quantifications	skeletal muscle myoblast	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF072UAU/@@download/ENCFF072UAU.tsv	V29
+ENCFF852OZL	total RNA-seq	GRCh38	gene quantifications	skeletal muscle myoblast	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF852OZL/@@download/ENCFF852OZL.tsv	V29
+ENCFF748QHT	total RNA-seq	GRCh38	gene quantifications	skeletal muscle myoblast	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF748QHT/@@download/ENCFF748QHT.tsv	V29
+ENCFF634XKO	polyA plus RNA-seq	GRCh38	gene quantifications	skeletal muscle myoblast	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF634XKO/@@download/ENCFF634XKO.tsv	V29
+ENCFF785NKG	polyA plus RNA-seq	GRCh38	gene quantifications	skeletal muscle myoblast	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF785NKG/@@download/ENCFF785NKG.tsv	V29
+ENCFF578BZH	DNase-seq	GRCh38	read-depth normalized signal	skeletal muscle myoblast	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF578BZH/@@download/ENCFF578BZH.bigWig	nan
+ENCFF149ERN	DNase-seq	GRCh38	read-depth normalized signal	skeletal muscle myoblast	primary cell	nan	1	1_1, 1_3	https://www.encodeproject.org/files/ENCFF149ERN/@@download/ENCFF149ERN.bigWig	nan
+ENCFF021GQZ	Histone ChIP-seq	GRCh38	fold change over control	skeletal muscle myoblast	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF021GQZ/@@download/ENCFF021GQZ.bigWig	nan
+ENCFF982OBV	Histone ChIP-seq	GRCh38	fold change over control	skeletal muscle myoblast	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF982OBV/@@download/ENCFF982OBV.bigWig	nan
+ENCFF225WWE	Histone ChIP-seq	GRCh38	fold change over control	skeletal muscle myoblast	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF225WWE/@@download/ENCFF225WWE.bigWig	nan
+ENCFF508OBP	TF ChIP-seq	GRCh38	fold change over control	skeletal muscle myoblast	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF508OBP/@@download/ENCFF508OBP.bigWig	nan
+ENCFF801RIZ	TF ChIP-seq	GRCh38	fold change over control	skeletal muscle myoblast	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF801RIZ/@@download/ENCFF801RIZ.bigWig	nan
+ENCFF755CPB	TF ChIP-seq	GRCh38	fold change over control	skeletal muscle myoblast	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF755CPB/@@download/ENCFF755CPB.bigWig	nan
+ENCFF434RCM	Histone ChIP-seq	GRCh38	fold change over control	skeletal muscle myoblast	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF434RCM/@@download/ENCFF434RCM.bigWig	nan
+ENCFF271JNY	Histone ChIP-seq	GRCh38	fold change over control	skeletal muscle myoblast	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF271JNY/@@download/ENCFF271JNY.bigWig	nan
+ENCFF577LEK	Histone ChIP-seq	GRCh38	fold change over control	skeletal muscle myoblast	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF577LEK/@@download/ENCFF577LEK.bigWig	nan
+ENCFF913VIT	Histone ChIP-seq	GRCh38	fold change over control	skeletal muscle myoblast	primary cell	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF913VIT/@@download/ENCFF913VIT.bigWig	nan
+ENCFF275IVP	Histone ChIP-seq	GRCh38	fold change over control	skeletal muscle myoblast	primary cell	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF275IVP/@@download/ENCFF275IVP.bigWig	nan
+ENCFF203CVC	Histone ChIP-seq	GRCh38	fold change over control	skeletal muscle myoblast	primary cell	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF203CVC/@@download/ENCFF203CVC.bigWig	nan

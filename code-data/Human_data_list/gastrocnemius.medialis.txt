@@ -1,0 +1,40 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF467TWZ	total RNA-seq	GRCh38	gene quantifications	gastrocnemius medialis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF467TWZ/@@download/ENCFF467TWZ.tsv	V29
+ENCFF096SPQ	total RNA-seq	GRCh38	gene quantifications	gastrocnemius medialis	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF096SPQ/@@download/ENCFF096SPQ.tsv	V29
+ENCFF653FKA	total RNA-seq	GRCh38	gene quantifications	gastrocnemius medialis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF653FKA/@@download/ENCFF653FKA.tsv	V29
+ENCFF288JWC	total RNA-seq	GRCh38	gene quantifications	gastrocnemius medialis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF288JWC/@@download/ENCFF288JWC.tsv	V29
+ENCFF187XXH	total RNA-seq	GRCh38	gene quantifications	gastrocnemius medialis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF187XXH/@@download/ENCFF187XXH.tsv	V29
+ENCFF082TEM	DNase-seq	GRCh38	read-depth normalized signal	gastrocnemius medialis	tissue	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF082TEM/@@download/ENCFF082TEM.bigWig	nan
+ENCFF393OTD	DNase-seq	GRCh38	read-depth normalized signal	gastrocnemius medialis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF393OTD/@@download/ENCFF393OTD.bigWig	nan
+ENCFF066BOK	DNase-seq	GRCh38	read-depth normalized signal	gastrocnemius medialis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF066BOK/@@download/ENCFF066BOK.bigWig	nan
+ENCFF898XFY	DNase-seq	GRCh38	read-depth normalized signal	gastrocnemius medialis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF898XFY/@@download/ENCFF898XFY.bigWig	nan
+ENCFF712ATQ	DNase-seq	GRCh38	read-depth normalized signal	gastrocnemius medialis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF712ATQ/@@download/ENCFF712ATQ.bigWig	nan
+ENCFF375CCR	DNase-seq	GRCh38	read-depth normalized signal	gastrocnemius medialis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF375CCR/@@download/ENCFF375CCR.bigWig	nan
+ENCFF103WUK	DNase-seq	GRCh38	read-depth normalized signal	gastrocnemius medialis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF103WUK/@@download/ENCFF103WUK.bigWig	nan
+ENCFF051ANG	TF ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF051ANG/@@download/ENCFF051ANG.bigWig	nan
+ENCFF707BCP	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K4me3-human	1, 2	1_1, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF707BCP/@@download/ENCFF707BCP.bigWig	nan
+ENCFF653ZJK	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF653ZJK/@@download/ENCFF653ZJK.bigWig	nan
+ENCFF384MSI	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF384MSI/@@download/ENCFF384MSI.bigWig	nan
+ENCFF070MOG	TF ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF070MOG/@@download/ENCFF070MOG.bigWig	nan
+ENCFF793HOY	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K27ac-human	1, 2	1_1, 1_2, 1_3, 1_4, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF793HOY/@@download/ENCFF793HOY.bigWig	nan
+ENCFF620AOC	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K27ac-human	1	1_1, 1_2, 1_3, 1_4	https://www.encodeproject.org/files/ENCFF620AOC/@@download/ENCFF620AOC.bigWig	nan
+ENCFF717FQQ	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K27ac-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF717FQQ/@@download/ENCFF717FQQ.bigWig	nan
+ENCFF880UEZ	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF880UEZ/@@download/ENCFF880UEZ.bigWig	nan
+ENCFF109ZON	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF109ZON/@@download/ENCFF109ZON.bigWig	nan
+ENCFF149TEN	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF149TEN/@@download/ENCFF149TEN.bigWig	nan
+ENCFF544YOH	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF544YOH/@@download/ENCFF544YOH.bigWig	nan
+ENCFF782JRA	TF ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF782JRA/@@download/ENCFF782JRA.bigWig	nan
+ENCFF055HAN	TF ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF055HAN/@@download/ENCFF055HAN.bigWig	nan
+ENCFF834XSJ	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF834XSJ/@@download/ENCFF834XSJ.bigWig	nan
+ENCFF086YBW	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF086YBW/@@download/ENCFF086YBW.bigWig	nan
+ENCFF825YXF	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF825YXF/@@download/ENCFF825YXF.bigWig	nan
+ENCFF638ZRF	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF638ZRF/@@download/ENCFF638ZRF.bigWig	nan
+ENCFF863PCN	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF863PCN/@@download/ENCFF863PCN.bigWig	nan
+ENCFF846MFS	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF846MFS/@@download/ENCFF846MFS.bigWig	nan
+ENCFF431FFY	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K4me3-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF431FFY/@@download/ENCFF431FFY.bigWig	nan
+ENCFF258MFR	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF258MFR/@@download/ENCFF258MFR.bigWig	nan
+ENCFF772JUK	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF772JUK/@@download/ENCFF772JUK.bigWig	nan
+ENCFF810IVC	Histone ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF810IVC/@@download/ENCFF810IVC.bigWig	nan
+ENCFF477ZUR	TF ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF477ZUR/@@download/ENCFF477ZUR.bigWig	nan
+ENCFF643VTS	TF ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF643VTS/@@download/ENCFF643VTS.bigWig	nan
+ENCFF042NLY	TF ChIP-seq	GRCh38	fold change over control	gastrocnemius medialis	tissue	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF042NLY/@@download/ENCFF042NLY.bigWig	nan

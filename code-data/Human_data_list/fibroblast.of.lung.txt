@@ -1,0 +1,33 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF301CRI	polyA plus RNA-seq	GRCh38	gene quantifications	fibroblast of lung	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF301CRI/@@download/ENCFF301CRI.tsv	V29
+ENCFF057KLS	polyA plus RNA-seq	GRCh38	gene quantifications	fibroblast of lung	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF057KLS/@@download/ENCFF057KLS.tsv	V29
+ENCFF577DEC	polyA plus RNA-seq	GRCh38	gene quantifications	fibroblast of lung	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF577DEC/@@download/ENCFF577DEC.tsv	V29
+ENCFF412KNK	polyA plus RNA-seq	GRCh38	gene quantifications	fibroblast of lung	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF412KNK/@@download/ENCFF412KNK.tsv	V29
+ENCFF952MIY	total RNA-seq	GRCh38	gene quantifications	fibroblast of lung	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF952MIY/@@download/ENCFF952MIY.tsv	V29
+ENCFF532XCI	total RNA-seq	GRCh38	gene quantifications	fibroblast of lung	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF532XCI/@@download/ENCFF532XCI.tsv	V29
+ENCFF182LEK	DNase-seq	GRCh38	read-depth normalized signal	fibroblast of lung	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF182LEK/@@download/ENCFF182LEK.bigWig	nan
+ENCFF813HTP	DNase-seq	GRCh38	read-depth normalized signal	fibroblast of lung	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF813HTP/@@download/ENCFF813HTP.bigWig	nan
+ENCFF640TAP	DNase-seq	GRCh38	read-depth normalized signal	fibroblast of lung	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF640TAP/@@download/ENCFF640TAP.bigWig	nan
+ENCFF190JOD	DNase-seq	GRCh38	read-depth normalized signal	fibroblast of lung	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF190JOD/@@download/ENCFF190JOD.bigWig	nan
+ENCFF879KEV	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF879KEV/@@download/ENCFF879KEV.bigWig	nan
+ENCFF819OYW	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF819OYW/@@download/ENCFF819OYW.bigWig	nan
+ENCFF847AMK	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF847AMK/@@download/ENCFF847AMK.bigWig	nan
+ENCFF823CSQ	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF823CSQ/@@download/ENCFF823CSQ.bigWig	nan
+ENCFF491KXS	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF491KXS/@@download/ENCFF491KXS.bigWig	nan
+ENCFF626WSE	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF626WSE/@@download/ENCFF626WSE.bigWig	nan
+ENCFF141GXC	TF ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF141GXC/@@download/ENCFF141GXC.bigWig	nan
+ENCFF303ENB	TF ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF303ENB/@@download/ENCFF303ENB.bigWig	nan
+ENCFF953CVO	TF ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF953CVO/@@download/ENCFF953CVO.bigWig	nan
+ENCFF616VTY	TF ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF616VTY/@@download/ENCFF616VTY.bigWig	nan
+ENCFF914QTR	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF914QTR/@@download/ENCFF914QTR.bigWig	nan
+ENCFF383ALX	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF383ALX/@@download/ENCFF383ALX.bigWig	nan
+ENCFF734YQE	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF734YQE/@@download/ENCFF734YQE.bigWig	nan
+ENCFF635DDP	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF635DDP/@@download/ENCFF635DDP.bigWig	nan
+ENCFF307OQP	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF307OQP/@@download/ENCFF307OQP.bigWig	nan
+ENCFF883BDY	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF883BDY/@@download/ENCFF883BDY.bigWig	nan
+ENCFF663KEP	TF ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF663KEP/@@download/ENCFF663KEP.bigWig	nan
+ENCFF806XSJ	TF ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF806XSJ/@@download/ENCFF806XSJ.bigWig	nan
+ENCFF004BWD	TF ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF004BWD/@@download/ENCFF004BWD.bigWig	nan
+ENCFF034BXY	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF034BXY/@@download/ENCFF034BXY.bigWig	nan
+ENCFF511JXE	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF511JXE/@@download/ENCFF511JXE.bigWig	nan
+ENCFF654UDL	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of lung	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF654UDL/@@download/ENCFF654UDL.bigWig	nan

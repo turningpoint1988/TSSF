@@ -1,0 +1,14 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF695MAF	total RNA-seq	GRCh38	gene quantifications	fibroblast of dermis	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF695MAF/@@download/ENCFF695MAF.tsv	V29
+ENCFF368UEC	total RNA-seq	GRCh38	gene quantifications	fibroblast of dermis	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF368UEC/@@download/ENCFF368UEC.tsv	V29
+ENCFF466ZZY	DNase-seq	GRCh38	read-depth normalized signal	fibroblast of dermis	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF466ZZY/@@download/ENCFF466ZZY.bigWig	nan
+ENCFF361BTT	DNase-seq	GRCh38	read-depth normalized signal	fibroblast of dermis	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF361BTT/@@download/ENCFF361BTT.bigWig	nan
+ENCFF720GFK	TF ChIP-seq	GRCh38	fold change over control	fibroblast of dermis	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF720GFK/@@download/ENCFF720GFK.bigWig	nan
+ENCFF231WLH	TF ChIP-seq	GRCh38	fold change over control	fibroblast of dermis	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF231WLH/@@download/ENCFF231WLH.bigWig	nan
+ENCFF316KBU	TF ChIP-seq	GRCh38	fold change over control	fibroblast of dermis	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF316KBU/@@download/ENCFF316KBU.bigWig	nan
+ENCFF317VTJ	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of dermis	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF317VTJ/@@download/ENCFF317VTJ.bigWig	nan
+ENCFF529WWT	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of dermis	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF529WWT/@@download/ENCFF529WWT.bigWig	nan
+ENCFF125WTJ	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of dermis	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF125WTJ/@@download/ENCFF125WTJ.bigWig	nan
+ENCFF254VOR	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of dermis	primary cell	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF254VOR/@@download/ENCFF254VOR.bigWig	nan
+ENCFF411OBU	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of dermis	primary cell	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF411OBU/@@download/ENCFF411OBU.bigWig	nan
+ENCFF500IPG	Histone ChIP-seq	GRCh38	fold change over control	fibroblast of dermis	primary cell	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF500IPG/@@download/ENCFF500IPG.bigWig	nan

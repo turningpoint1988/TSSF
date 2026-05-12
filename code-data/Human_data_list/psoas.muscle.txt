@@ -1,0 +1,22 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF158JJJ	total RNA-seq	GRCh38	gene quantifications	psoas muscle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF158JJJ/@@download/ENCFF158JJJ.tsv	V29
+ENCFF208CPK	total RNA-seq	GRCh38	gene quantifications	psoas muscle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF208CPK/@@download/ENCFF208CPK.tsv	V29
+ENCFF578ZSP	polyA plus RNA-seq	GRCh38	gene quantifications	psoas muscle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF578ZSP/@@download/ENCFF578ZSP.tsv	V29
+ENCFF597QME	total RNA-seq	GRCh38	gene quantifications	psoas muscle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF597QME/@@download/ENCFF597QME.tsv	V29
+ENCFF629LFN	total RNA-seq	GRCh38	gene quantifications	psoas muscle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF629LFN/@@download/ENCFF629LFN.tsv	V29
+ENCFF533HNU	polyA plus RNA-seq	GRCh38	gene quantifications	psoas muscle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF533HNU/@@download/ENCFF533HNU.tsv	V29
+ENCFF682WYB	polyA plus RNA-seq	GRCh38	gene quantifications	psoas muscle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF682WYB/@@download/ENCFF682WYB.tsv	V29
+ENCFF961NBX	DNase-seq	GRCh38	read-depth normalized signal	psoas muscle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF961NBX/@@download/ENCFF961NBX.bigWig	nan
+ENCFF931DHU	DNase-seq	GRCh38	read-depth normalized signal	psoas muscle	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF931DHU/@@download/ENCFF931DHU.bigWig	nan
+ENCFF804POQ	DNase-seq	GRCh38	read-depth normalized signal	psoas muscle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF804POQ/@@download/ENCFF804POQ.bigWig	nan
+ENCFF172AJV	DNase-seq	GRCh38	read-depth normalized signal	psoas muscle	tissue	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF172AJV/@@download/ENCFF172AJV.bigWig	nan
+ENCFF468XFE	DNase-seq	GRCh38	read-depth normalized signal	psoas muscle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF468XFE/@@download/ENCFF468XFE.bigWig	nan
+ENCFF750LPX	DNase-seq	GRCh38	read-depth normalized signal	psoas muscle	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF750LPX/@@download/ENCFF750LPX.bigWig	nan
+ENCFF536UGJ	Histone ChIP-seq	GRCh38	fold change over control	psoas muscle	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF536UGJ/@@download/ENCFF536UGJ.bigWig	nan
+ENCFF816LQH	Histone ChIP-seq	GRCh38	fold change over control	psoas muscle	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF816LQH/@@download/ENCFF816LQH.bigWig	nan
+ENCFF513SZP	TF ChIP-seq	GRCh38	fold change over control	psoas muscle	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF513SZP/@@download/ENCFF513SZP.bigWig	nan
+ENCFF912BEJ	Histone ChIP-seq	GRCh38	fold change over control	psoas muscle	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF912BEJ/@@download/ENCFF912BEJ.bigWig	nan
+ENCFF584CKL	Histone ChIP-seq	GRCh38	fold change over control	psoas muscle	tissue	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF584CKL/@@download/ENCFF584CKL.bigWig	nan
+ENCFF520CVN	Histone ChIP-seq	GRCh38	fold change over control	psoas muscle	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF520CVN/@@download/ENCFF520CVN.bigWig	nan
+ENCFF619HYF	Histone ChIP-seq	GRCh38	fold change over control	psoas muscle	tissue	H3K4me3-human	1	1_2	https://www.encodeproject.org/files/ENCFF619HYF/@@download/ENCFF619HYF.bigWig	nan
+ENCFF375UAV	Histone ChIP-seq	GRCh38	fold change over control	psoas muscle	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF375UAV/@@download/ENCFF375UAV.bigWig	nan

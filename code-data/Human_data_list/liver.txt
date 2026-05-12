@@ -1,0 +1,23 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF339JXE	polyA plus RNA-seq	GRCh38	gene quantifications	liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF339JXE/@@download/ENCFF339JXE.tsv	V29
+ENCFF392DXQ	polyA plus RNA-seq	GRCh38	gene quantifications	liver	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF392DXQ/@@download/ENCFF392DXQ.tsv	V29
+ENCFF846SOK	total RNA-seq	GRCh38	gene quantifications	liver	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF846SOK/@@download/ENCFF846SOK.tsv	V29
+ENCFF780YUS	total RNA-seq	GRCh38	gene quantifications	liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF780YUS/@@download/ENCFF780YUS.tsv	V29
+ENCFF859YFW	total RNA-seq	GRCh38	gene quantifications	liver	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF859YFW/@@download/ENCFF859YFW.tsv	V29
+ENCFF960OCQ	total RNA-seq	GRCh38	gene quantifications	liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF960OCQ/@@download/ENCFF960OCQ.tsv	V29
+ENCFF825RZF	polyA plus RNA-seq	GRCh38	gene quantifications	liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF825RZF/@@download/ENCFF825RZF.tsv	V29
+ENCFF707MOR	polyA plus RNA-seq	GRCh38	gene quantifications	liver	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF707MOR/@@download/ENCFF707MOR.tsv	V29
+ENCFF434ZIT	polyA plus RNA-seq	GRCh38	gene quantifications	liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF434ZIT/@@download/ENCFF434ZIT.tsv	V29
+ENCFF764RBU	DNase-seq	GRCh38	read-depth normalized signal	liver	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF764RBU/@@download/ENCFF764RBU.bigWig	nan
+ENCFF749WFL	DNase-seq	GRCh38	read-depth normalized signal	liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF749WFL/@@download/ENCFF749WFL.bigWig	nan
+ENCFF321UXJ	DNase-seq	GRCh38	read-depth normalized signal	liver	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF321UXJ/@@download/ENCFF321UXJ.bigWig	nan
+ENCFF174BND	TF ChIP-seq	GRCh38	fold change over control	liver	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF174BND/@@download/ENCFF174BND.bigWig	nan
+ENCFF725LBV	TF ChIP-seq	GRCh38	fold change over control	liver	tissue	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF725LBV/@@download/ENCFF725LBV.bigWig	nan
+ENCFF386JBY	TF ChIP-seq	GRCh38	fold change over control	liver	tissue	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF386JBY/@@download/ENCFF386JBY.bigWig	nan
+ENCFF853WPX	Histone ChIP-seq	GRCh38	fold change over control	liver	tissue	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF853WPX/@@download/ENCFF853WPX.bigWig	nan
+ENCFF053IVC	Histone ChIP-seq	GRCh38	fold change over control	liver	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF053IVC/@@download/ENCFF053IVC.bigWig	nan
+ENCFF471TIS	Histone ChIP-seq	GRCh38	fold change over control	liver	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF471TIS/@@download/ENCFF471TIS.bigWig	nan
+ENCFF275OLK	Histone ChIP-seq	GRCh38	fold change over control	liver	tissue	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF275OLK/@@download/ENCFF275OLK.bigWig	nan
+ENCFF962JEC	Histone ChIP-seq	GRCh38	fold change over control	liver	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF962JEC/@@download/ENCFF962JEC.bigWig	nan
+ENCFF280QYJ	Histone ChIP-seq	GRCh38	fold change over control	liver	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF280QYJ/@@download/ENCFF280QYJ.bigWig	nan
+ENCFF218ECO	Histone ChIP-seq	GRCh38	fold change over control	liver	tissue	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF218ECO/@@download/ENCFF218ECO.bigWig	nan

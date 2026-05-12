@@ -1,0 +1,16 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF586CPE	total RNA-seq	GRCh38	gene quantifications	OCI-LY7	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF586CPE/@@download/ENCFF586CPE.tsv	V29
+ENCFF765ULK	total RNA-seq	GRCh38	gene quantifications	OCI-LY7	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF765ULK/@@download/ENCFF765ULK.tsv	V29
+ENCFF917RBA	total RNA-seq	GRCh38	gene quantifications	OCI-LY7	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF917RBA/@@download/ENCFF917RBA.tsv	V29
+ENCFF561ERP	total RNA-seq	GRCh38	gene quantifications	OCI-LY7	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF561ERP/@@download/ENCFF561ERP.tsv	V29
+ENCFF739TLM	DNase-seq	GRCh38	read-depth normalized signal	OCI-LY7	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF739TLM/@@download/ENCFF739TLM.bigWig	nan
+ENCFF136RNO	DNase-seq	GRCh38	read-depth normalized signal	OCI-LY7	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF136RNO/@@download/ENCFF136RNO.bigWig	nan
+ENCFF741DRQ	Histone ChIP-seq	GRCh38	fold change over control	OCI-LY7	cell line	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF741DRQ/@@download/ENCFF741DRQ.bigWig	nan
+ENCFF108EGJ	Histone ChIP-seq	GRCh38	fold change over control	OCI-LY7	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF108EGJ/@@download/ENCFF108EGJ.bigWig	nan
+ENCFF630BQS	Histone ChIP-seq	GRCh38	fold change over control	OCI-LY7	cell line	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF630BQS/@@download/ENCFF630BQS.bigWig	nan
+ENCFF931SDF	Histone ChIP-seq	GRCh38	fold change over control	OCI-LY7	cell line	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF931SDF/@@download/ENCFF931SDF.bigWig	nan
+ENCFF646GON	Histone ChIP-seq	GRCh38	fold change over control	OCI-LY7	cell line	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF646GON/@@download/ENCFF646GON.bigWig	nan
+ENCFF611XLA	Histone ChIP-seq	GRCh38	fold change over control	OCI-LY7	cell line	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF611XLA/@@download/ENCFF611XLA.bigWig	nan
+ENCFF975BGM	TF ChIP-seq	GRCh38	fold change over control	OCI-LY7	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF975BGM/@@download/ENCFF975BGM.bigWig	nan
+ENCFF684IUB	TF ChIP-seq	GRCh38	fold change over control	OCI-LY7	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF684IUB/@@download/ENCFF684IUB.bigWig	nan
+ENCFF161GVV	TF ChIP-seq	GRCh38	fold change over control	OCI-LY7	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF161GVV/@@download/ENCFF161GVV.bigWig	nan

@@ -1,0 +1,23 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF485OGN	total RNA-seq	GRCh38	gene quantifications	prostate gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF485OGN/@@download/ENCFF485OGN.tsv	V29
+ENCFF042VIA	total RNA-seq	GRCh38	gene quantifications	prostate gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF042VIA/@@download/ENCFF042VIA.tsv	V29
+ENCFF069GRI	DNase-seq	GRCh38	read-depth normalized signal	prostate gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF069GRI/@@download/ENCFF069GRI.bigWig	nan
+ENCFF865IXT	DNase-seq	GRCh38	read-depth normalized signal	prostate gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF865IXT/@@download/ENCFF865IXT.bigWig	nan
+ENCFF308OYN	TF ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF308OYN/@@download/ENCFF308OYN.bigWig	nan
+ENCFF310UCW	TF ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF310UCW/@@download/ENCFF310UCW.bigWig	nan
+ENCFF662KNU	TF ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF662KNU/@@download/ENCFF662KNU.bigWig	nan
+ENCFF976WEL	TF ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF976WEL/@@download/ENCFF976WEL.bigWig	nan
+ENCFF040LZA	TF ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF040LZA/@@download/ENCFF040LZA.bigWig	nan
+ENCFF863EJN	Histone ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF863EJN/@@download/ENCFF863EJN.bigWig	nan
+ENCFF649AZP	Histone ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF649AZP/@@download/ENCFF649AZP.bigWig	nan
+ENCFF466ENV	Histone ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF466ENV/@@download/ENCFF466ENV.bigWig	nan
+ENCFF953BNG	Histone ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF953BNG/@@download/ENCFF953BNG.bigWig	nan
+ENCFF346EXA	Histone ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF346EXA/@@download/ENCFF346EXA.bigWig	nan
+ENCFF423GAY	Histone ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF423GAY/@@download/ENCFF423GAY.bigWig	nan
+ENCFF317OSJ	Histone ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	H3K27ac-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF317OSJ/@@download/ENCFF317OSJ.bigWig	nan
+ENCFF057FJQ	Histone ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF057FJQ/@@download/ENCFF057FJQ.bigWig	nan
+ENCFF112GCV	Histone ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	H3K27ac-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF112GCV/@@download/ENCFF112GCV.bigWig	nan
+ENCFF109FHC	Histone ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF109FHC/@@download/ENCFF109FHC.bigWig	nan
+ENCFF761PKU	Histone ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	H3K4me3-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF761PKU/@@download/ENCFF761PKU.bigWig	nan
+ENCFF757BTX	Histone ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF757BTX/@@download/ENCFF757BTX.bigWig	nan
+ENCFF837DCK	TF ChIP-seq	GRCh38	fold change over control	prostate gland	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF837DCK/@@download/ENCFF837DCK.bigWig	nan

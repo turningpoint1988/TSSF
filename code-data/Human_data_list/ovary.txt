@@ -1,0 +1,29 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF350TIB	total RNA-seq	GRCh38	gene quantifications	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF350TIB/@@download/ENCFF350TIB.tsv	V29
+ENCFF209FDP	polyA plus RNA-seq	GRCh38	gene quantifications	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF209FDP/@@download/ENCFF209FDP.tsv	V29
+ENCFF380WQC	total RNA-seq	GRCh38	gene quantifications	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF380WQC/@@download/ENCFF380WQC.tsv	V29
+ENCFF061BJL	total RNA-seq	GRCh38	gene quantifications	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF061BJL/@@download/ENCFF061BJL.tsv	V29
+ENCFF288QKP	total RNA-seq	GRCh38	gene quantifications	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF288QKP/@@download/ENCFF288QKP.tsv	V29
+ENCFF093OCA	total RNA-seq	GRCh38	gene quantifications	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF093OCA/@@download/ENCFF093OCA.tsv	V29
+ENCFF607DVO	total RNA-seq	GRCh38	gene quantifications	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF607DVO/@@download/ENCFF607DVO.tsv	V29
+ENCFF378HMN	total RNA-seq	GRCh38	gene quantifications	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF378HMN/@@download/ENCFF378HMN.tsv	V29
+ENCFF576XCQ	polyA plus RNA-seq	GRCh38	gene quantifications	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF576XCQ/@@download/ENCFF576XCQ.tsv	V29
+ENCFF306DIV	polyA plus RNA-seq	GRCh38	gene quantifications	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF306DIV/@@download/ENCFF306DIV.tsv	V29
+ENCFF764IRG	DNase-seq	GRCh38	read-depth normalized signal	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF764IRG/@@download/ENCFF764IRG.bigWig	nan
+ENCFF971KWT	DNase-seq	GRCh38	read-depth normalized signal	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF971KWT/@@download/ENCFF971KWT.bigWig	nan
+ENCFF779FIH	DNase-seq	GRCh38	read-depth normalized signal	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF779FIH/@@download/ENCFF779FIH.bigWig	nan
+ENCFF802LRO	DNase-seq	GRCh38	read-depth normalized signal	ovary	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF802LRO/@@download/ENCFF802LRO.bigWig	nan
+ENCFF276GVH	DNase-seq	GRCh38	read-depth normalized signal	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF276GVH/@@download/ENCFF276GVH.bigWig	nan
+ENCFF887BVC	DNase-seq	GRCh38	read-depth normalized signal	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF887BVC/@@download/ENCFF887BVC.bigWig	nan
+ENCFF406GUT	DNase-seq	GRCh38	read-depth normalized signal	ovary	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF406GUT/@@download/ENCFF406GUT.bigWig	nan
+ENCFF519ESI	DNase-seq	GRCh38	read-depth normalized signal	ovary	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF519ESI/@@download/ENCFF519ESI.bigWig	nan
+ENCFF792AMR	DNase-seq	GRCh38	read-depth normalized signal	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF792AMR/@@download/ENCFF792AMR.bigWig	nan
+ENCFF635IQN	DNase-seq	GRCh38	read-depth normalized signal	ovary	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF635IQN/@@download/ENCFF635IQN.bigWig	nan
+ENCFF148LUF	Histone ChIP-seq	GRCh38	fold change over control	ovary	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF148LUF/@@download/ENCFF148LUF.bigWig	nan
+ENCFF938WJH	Histone ChIP-seq	GRCh38	fold change over control	ovary	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF938WJH/@@download/ENCFF938WJH.bigWig	nan
+ENCFF971DUO	TF ChIP-seq	GRCh38	fold change over control	ovary	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF971DUO/@@download/ENCFF971DUO.bigWig	nan
+ENCFF666MLU	TF ChIP-seq	GRCh38	fold change over control	ovary	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF666MLU/@@download/ENCFF666MLU.bigWig	nan
+ENCFF920RTP	Histone ChIP-seq	GRCh38	fold change over control	ovary	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF920RTP/@@download/ENCFF920RTP.bigWig	nan
+ENCFF340QZG	TF ChIP-seq	GRCh38	fold change over control	ovary	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF340QZG/@@download/ENCFF340QZG.bigWig	nan
+ENCFF104SEZ	Histone ChIP-seq	GRCh38	fold change over control	ovary	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF104SEZ/@@download/ENCFF104SEZ.bigWig	nan
+ENCFF410REW	Histone ChIP-seq	GRCh38	fold change over control	ovary	tissue	H3K4me3-human	2	2_2	https://www.encodeproject.org/files/ENCFF410REW/@@download/ENCFF410REW.bigWig	nan

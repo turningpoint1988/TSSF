@@ -1,0 +1,29 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF534OYO	polyA plus RNA-seq	GRCh38	gene quantifications	sigmoid colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF534OYO/@@download/ENCFF534OYO.tsv	V29
+ENCFF837KAX	polyA plus RNA-seq	GRCh38	gene quantifications	sigmoid colon	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF837KAX/@@download/ENCFF837KAX.tsv	V29
+ENCFF620DRS	polyA plus RNA-seq	GRCh38	gene quantifications	sigmoid colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF620DRS/@@download/ENCFF620DRS.tsv	V29
+ENCFF367ZVO	polyA plus RNA-seq	GRCh38	gene quantifications	sigmoid colon	tissue	nan	1	1_12	https://www.encodeproject.org/files/ENCFF367ZVO/@@download/ENCFF367ZVO.tsv	V29
+ENCFF700ZXN	polyA plus RNA-seq	GRCh38	gene quantifications	sigmoid colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF700ZXN/@@download/ENCFF700ZXN.tsv	V29
+ENCFF045PTB	total RNA-seq	GRCh38	gene quantifications	sigmoid colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF045PTB/@@download/ENCFF045PTB.tsv	V29
+ENCFF702BES	total RNA-seq	GRCh38	gene quantifications	sigmoid colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF702BES/@@download/ENCFF702BES.tsv	V29
+ENCFF056CEY	total RNA-seq	GRCh38	gene quantifications	sigmoid colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF056CEY/@@download/ENCFF056CEY.tsv	V29
+ENCFF577SLL	total RNA-seq	GRCh38	gene quantifications	sigmoid colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF577SLL/@@download/ENCFF577SLL.tsv	V29
+ENCFF028FLY	DNase-seq	GRCh38	read-depth normalized signal	sigmoid colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF028FLY/@@download/ENCFF028FLY.bigWig	nan
+ENCFF749HRV	DNase-seq	GRCh38	read-depth normalized signal	sigmoid colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF749HRV/@@download/ENCFF749HRV.bigWig	nan
+ENCFF299OOV	DNase-seq	GRCh38	read-depth normalized signal	sigmoid colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF299OOV/@@download/ENCFF299OOV.bigWig	nan
+ENCFF322NLT	Histone ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF322NLT/@@download/ENCFF322NLT.bigWig	nan
+ENCFF124AKT	Histone ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF124AKT/@@download/ENCFF124AKT.bigWig	nan
+ENCFF423YBA	Histone ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	H3K4me3-human	1	1_2	https://www.encodeproject.org/files/ENCFF423YBA/@@download/ENCFF423YBA.bigWig	nan
+ENCFF379NYQ	Histone ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF379NYQ/@@download/ENCFF379NYQ.bigWig	nan
+ENCFF886LUE	Histone ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF886LUE/@@download/ENCFF886LUE.bigWig	nan
+ENCFF985EXZ	TF ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF985EXZ/@@download/ENCFF985EXZ.bigWig	nan
+ENCFF634JUC	TF ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF634JUC/@@download/ENCFF634JUC.bigWig	nan
+ENCFF608MDC	Histone ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF608MDC/@@download/ENCFF608MDC.bigWig	nan
+ENCFF007ZXP	Histone ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF007ZXP/@@download/ENCFF007ZXP.bigWig	nan
+ENCFF154FOF	TF ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF154FOF/@@download/ENCFF154FOF.bigWig	nan
+ENCFF122GSI	Histone ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF122GSI/@@download/ENCFF122GSI.bigWig	nan
+ENCFF237VMY	Histone ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF237VMY/@@download/ENCFF237VMY.bigWig	nan
+ENCFF468UEP	Histone ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF468UEP/@@download/ENCFF468UEP.bigWig	nan
+ENCFF111DLN	Histone ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF111DLN/@@download/ENCFF111DLN.bigWig	nan
+ENCFF460ECX	TF ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF460ECX/@@download/ENCFF460ECX.bigWig	nan
+ENCFF800VAP	Histone ChIP-seq	GRCh38	fold change over control	sigmoid colon	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF800VAP/@@download/ENCFF800VAP.bigWig	nan

@@ -1,0 +1,84 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF373KYJ	polyA plus RNA-seq	GRCh38	gene quantifications	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF373KYJ/@@download/ENCFF373KYJ.tsv	V29
+ENCFF562XSR	polyA plus RNA-seq	GRCh38	gene quantifications	spleen	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF562XSR/@@download/ENCFF562XSR.tsv	V29
+ENCFF977XRF	polyA plus RNA-seq	GRCh38	gene quantifications	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF977XRF/@@download/ENCFF977XRF.tsv	V29
+ENCFF751VBP	polyA plus RNA-seq	GRCh38	gene quantifications	spleen	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF751VBP/@@download/ENCFF751VBP.tsv	V29
+ENCFF278GBV	total RNA-seq	GRCh38	gene quantifications	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF278GBV/@@download/ENCFF278GBV.tsv	V29
+ENCFF143INW	total RNA-seq	GRCh38	gene quantifications	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF143INW/@@download/ENCFF143INW.tsv	V29
+ENCFF596LUX	polyA plus RNA-seq	GRCh38	gene quantifications	spleen	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF596LUX/@@download/ENCFF596LUX.tsv	V29
+ENCFF604YLU	total RNA-seq	GRCh38	gene quantifications	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF604YLU/@@download/ENCFF604YLU.tsv	V29
+ENCFF080JPL	total RNA-seq	GRCh38	gene quantifications	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF080JPL/@@download/ENCFF080JPL.tsv	V29
+ENCFF022DRF	total RNA-seq	GRCh38	gene quantifications	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF022DRF/@@download/ENCFF022DRF.tsv	V29
+ENCFF444EHS	polyA plus RNA-seq	GRCh38	gene quantifications	spleen	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF444EHS/@@download/ENCFF444EHS.tsv	V29
+ENCFF413GTI	polyA plus RNA-seq	GRCh38	gene quantifications	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF413GTI/@@download/ENCFF413GTI.tsv	V29
+ENCFF890XTW	total RNA-seq	GRCh38	gene quantifications	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF890XTW/@@download/ENCFF890XTW.tsv	V29
+ENCFF530KIE	total RNA-seq	GRCh38	gene quantifications	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF530KIE/@@download/ENCFF530KIE.tsv	V29
+ENCFF612UEF	total RNA-seq	GRCh38	gene quantifications	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF612UEF/@@download/ENCFF612UEF.tsv	V29
+ENCFF221CLN	DNase-seq	GRCh38	read-depth normalized signal	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF221CLN/@@download/ENCFF221CLN.bigWig	nan
+ENCFF884LDL	DNase-seq	GRCh38	read-depth normalized signal	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF884LDL/@@download/ENCFF884LDL.bigWig	nan
+ENCFF867EIA	DNase-seq	GRCh38	read-depth normalized signal	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF867EIA/@@download/ENCFF867EIA.bigWig	nan
+ENCFF162OQB	DNase-seq	GRCh38	read-depth normalized signal	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF162OQB/@@download/ENCFF162OQB.bigWig	nan
+ENCFF722LEE	DNase-seq	GRCh38	read-depth normalized signal	spleen	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF722LEE/@@download/ENCFF722LEE.bigWig	nan
+ENCFF647BQW	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF647BQW/@@download/ENCFF647BQW.bigWig	nan
+ENCFF820KEK	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF820KEK/@@download/ENCFF820KEK.bigWig	nan
+ENCFF292KXW	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF292KXW/@@download/ENCFF292KXW.bigWig	nan
+ENCFF366VXJ	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF366VXJ/@@download/ENCFF366VXJ.bigWig	nan
+ENCFF659YSR	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF659YSR/@@download/ENCFF659YSR.bigWig	nan
+ENCFF691UTE	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF691UTE/@@download/ENCFF691UTE.bigWig	nan
+ENCFF610HUS	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF610HUS/@@download/ENCFF610HUS.bigWig	nan
+ENCFF428LZN	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF428LZN/@@download/ENCFF428LZN.bigWig	nan
+ENCFF353GMS	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF353GMS/@@download/ENCFF353GMS.bigWig	nan
+ENCFF438NSZ	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF438NSZ/@@download/ENCFF438NSZ.bigWig	nan
+ENCFF806GMH	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF806GMH/@@download/ENCFF806GMH.bigWig	nan
+ENCFF615RAF	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF615RAF/@@download/ENCFF615RAF.bigWig	nan
+ENCFF271FIA	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF271FIA/@@download/ENCFF271FIA.bigWig	nan
+ENCFF634AAL	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF634AAL/@@download/ENCFF634AAL.bigWig	nan
+ENCFF077FBW	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF077FBW/@@download/ENCFF077FBW.bigWig	nan
+ENCFF709HME	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF709HME/@@download/ENCFF709HME.bigWig	nan
+ENCFF805HXL	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF805HXL/@@download/ENCFF805HXL.bigWig	nan
+ENCFF101RDN	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF101RDN/@@download/ENCFF101RDN.bigWig	nan
+ENCFF215HQE	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF215HQE/@@download/ENCFF215HQE.bigWig	nan
+ENCFF551GZK	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF551GZK/@@download/ENCFF551GZK.bigWig	nan
+ENCFF012IXO	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF012IXO/@@download/ENCFF012IXO.bigWig	nan
+ENCFF731AEQ	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF731AEQ/@@download/ENCFF731AEQ.bigWig	nan
+ENCFF187WMV	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF187WMV/@@download/ENCFF187WMV.bigWig	nan
+ENCFF140ZIP	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF140ZIP/@@download/ENCFF140ZIP.bigWig	nan
+ENCFF620GOU	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF620GOU/@@download/ENCFF620GOU.bigWig	nan
+ENCFF057BYR	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF057BYR/@@download/ENCFF057BYR.bigWig	nan
+ENCFF735OIS	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF735OIS/@@download/ENCFF735OIS.bigWig	nan
+ENCFF897ARW	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF897ARW/@@download/ENCFF897ARW.bigWig	nan
+ENCFF868QXK	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF868QXK/@@download/ENCFF868QXK.bigWig	nan
+ENCFF785HPW	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF785HPW/@@download/ENCFF785HPW.bigWig	nan
+ENCFF948AUZ	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF948AUZ/@@download/ENCFF948AUZ.bigWig	nan
+ENCFF853ZJX	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF853ZJX/@@download/ENCFF853ZJX.bigWig	nan
+ENCFF617INV	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF617INV/@@download/ENCFF617INV.bigWig	nan
+ENCFF837LGD	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF837LGD/@@download/ENCFF837LGD.bigWig	nan
+ENCFF918PWP	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF918PWP/@@download/ENCFF918PWP.bigWig	nan
+ENCFF161AWO	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF161AWO/@@download/ENCFF161AWO.bigWig	nan
+ENCFF705PKJ	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF705PKJ/@@download/ENCFF705PKJ.bigWig	nan
+ENCFF016NGG	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF016NGG/@@download/ENCFF016NGG.bigWig	nan
+ENCFF870EDZ	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF870EDZ/@@download/ENCFF870EDZ.bigWig	nan
+ENCFF387XJD	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF387XJD/@@download/ENCFF387XJD.bigWig	nan
+ENCFF980HXI	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF980HXI/@@download/ENCFF980HXI.bigWig	nan
+ENCFF842QQE	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF842QQE/@@download/ENCFF842QQE.bigWig	nan
+ENCFF428HQD	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF428HQD/@@download/ENCFF428HQD.bigWig	nan
+ENCFF348LZJ	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF348LZJ/@@download/ENCFF348LZJ.bigWig	nan
+ENCFF875NPI	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF875NPI/@@download/ENCFF875NPI.bigWig	nan
+ENCFF722HFK	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF722HFK/@@download/ENCFF722HFK.bigWig	nan
+ENCFF480HXY	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF480HXY/@@download/ENCFF480HXY.bigWig	nan
+ENCFF244LFM	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF244LFM/@@download/ENCFF244LFM.bigWig	nan
+ENCFF688NHG	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF688NHG/@@download/ENCFF688NHG.bigWig	nan
+ENCFF667TUZ	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF667TUZ/@@download/ENCFF667TUZ.bigWig	nan
+ENCFF502ALL	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF502ALL/@@download/ENCFF502ALL.bigWig	nan
+ENCFF143KEO	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF143KEO/@@download/ENCFF143KEO.bigWig	nan
+ENCFF762CST	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF762CST/@@download/ENCFF762CST.bigWig	nan
+ENCFF926FYT	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF926FYT/@@download/ENCFF926FYT.bigWig	nan
+ENCFF780NBB	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF780NBB/@@download/ENCFF780NBB.bigWig	nan
+ENCFF142ZKQ	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF142ZKQ/@@download/ENCFF142ZKQ.bigWig	nan
+ENCFF614TAT	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF614TAT/@@download/ENCFF614TAT.bigWig	nan
+ENCFF735QIA	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF735QIA/@@download/ENCFF735QIA.bigWig	nan
+ENCFF859PGH	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF859PGH/@@download/ENCFF859PGH.bigWig	nan
+ENCFF295PXU	TF ChIP-seq	GRCh38	fold change over control	spleen	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF295PXU/@@download/ENCFF295PXU.bigWig	nan
+ENCFF987FRB	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF987FRB/@@download/ENCFF987FRB.bigWig	nan
+ENCFF133QVU	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF133QVU/@@download/ENCFF133QVU.bigWig	nan
+ENCFF848UGK	Histone ChIP-seq	GRCh38	fold change over control	spleen	tissue	H3K27ac-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF848UGK/@@download/ENCFF848UGK.bigWig	nan

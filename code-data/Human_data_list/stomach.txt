@@ -1,0 +1,61 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF299YCQ	polyA plus RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF299YCQ/@@download/ENCFF299YCQ.tsv	V29
+ENCFF249GSX	polyA plus RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF249GSX/@@download/ENCFF249GSX.tsv	V29
+ENCFF420ZLV	polyA plus RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF420ZLV/@@download/ENCFF420ZLV.tsv	V29
+ENCFF963NVW	total RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF963NVW/@@download/ENCFF963NVW.tsv	V29
+ENCFF607LUW	total RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF607LUW/@@download/ENCFF607LUW.tsv	V29
+ENCFF029IVK	polyA plus RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF029IVK/@@download/ENCFF029IVK.tsv	V29
+ENCFF419AEM	polyA plus RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF419AEM/@@download/ENCFF419AEM.tsv	V29
+ENCFF096LZK	polyA plus RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF096LZK/@@download/ENCFF096LZK.tsv	V29
+ENCFF776BTK	total RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF776BTK/@@download/ENCFF776BTK.tsv	V29
+ENCFF702ALH	polyA plus RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF702ALH/@@download/ENCFF702ALH.tsv	V29
+ENCFF149JGN	polyA plus RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF149JGN/@@download/ENCFF149JGN.tsv	V29
+ENCFF700TIR	polyA plus RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF700TIR/@@download/ENCFF700TIR.tsv	V29
+ENCFF932KDP	polyA plus RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF932KDP/@@download/ENCFF932KDP.tsv	V29
+ENCFF547FBP	polyA plus RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF547FBP/@@download/ENCFF547FBP.tsv	V29
+ENCFF952ZOE	total RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF952ZOE/@@download/ENCFF952ZOE.tsv	V29
+ENCFF611ACI	total RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF611ACI/@@download/ENCFF611ACI.tsv	V29
+ENCFF683JSC	total RNA-seq	GRCh38	gene quantifications	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF683JSC/@@download/ENCFF683JSC.tsv	V29
+ENCFF384IMH	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF384IMH/@@download/ENCFF384IMH.bigWig	nan
+ENCFF427IFI	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF427IFI/@@download/ENCFF427IFI.bigWig	nan
+ENCFF656SOX	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF656SOX/@@download/ENCFF656SOX.bigWig	nan
+ENCFF213WSK	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF213WSK/@@download/ENCFF213WSK.bigWig	nan
+ENCFF555JIC	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF555JIC/@@download/ENCFF555JIC.bigWig	nan
+ENCFF636CRI	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_3	https://www.encodeproject.org/files/ENCFF636CRI/@@download/ENCFF636CRI.bigWig	nan
+ENCFF962GBD	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_3	https://www.encodeproject.org/files/ENCFF962GBD/@@download/ENCFF962GBD.bigWig	nan
+ENCFF557HYB	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF557HYB/@@download/ENCFF557HYB.bigWig	nan
+ENCFF604WCR	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF604WCR/@@download/ENCFF604WCR.bigWig	nan
+ENCFF493HHP	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF493HHP/@@download/ENCFF493HHP.bigWig	nan
+ENCFF361HOE	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_4	https://www.encodeproject.org/files/ENCFF361HOE/@@download/ENCFF361HOE.bigWig	nan
+ENCFF358UVV	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_4	https://www.encodeproject.org/files/ENCFF358UVV/@@download/ENCFF358UVV.bigWig	nan
+ENCFF657FRL	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF657FRL/@@download/ENCFF657FRL.bigWig	nan
+ENCFF799VNT	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF799VNT/@@download/ENCFF799VNT.bigWig	nan
+ENCFF164EEU	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF164EEU/@@download/ENCFF164EEU.bigWig	nan
+ENCFF633SRN	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF633SRN/@@download/ENCFF633SRN.bigWig	nan
+ENCFF219RIL	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_8	https://www.encodeproject.org/files/ENCFF219RIL/@@download/ENCFF219RIL.bigWig	nan
+ENCFF827PXJ	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_6	https://www.encodeproject.org/files/ENCFF827PXJ/@@download/ENCFF827PXJ.bigWig	nan
+ENCFF338HPK	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF338HPK/@@download/ENCFF338HPK.bigWig	nan
+ENCFF310NVD	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF310NVD/@@download/ENCFF310NVD.bigWig	nan
+ENCFF803YVS	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF803YVS/@@download/ENCFF803YVS.bigWig	nan
+ENCFF017QTW	DNase-seq	GRCh38	read-depth normalized signal	stomach	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF017QTW/@@download/ENCFF017QTW.bigWig	nan
+ENCFF916TLI	Histone ChIP-seq	GRCh38	fold change over control	stomach	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF916TLI/@@download/ENCFF916TLI.bigWig	nan
+ENCFF919OEF	TF ChIP-seq	GRCh38	fold change over control	stomach	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF919OEF/@@download/ENCFF919OEF.bigWig	nan
+ENCFF166JQQ	TF ChIP-seq	GRCh38	fold change over control	stomach	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF166JQQ/@@download/ENCFF166JQQ.bigWig	nan
+ENCFF342TIG	TF ChIP-seq	GRCh38	fold change over control	stomach	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF342TIG/@@download/ENCFF342TIG.bigWig	nan
+ENCFF283ZMI	Histone ChIP-seq	GRCh38	fold change over control	stomach	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF283ZMI/@@download/ENCFF283ZMI.bigWig	nan
+ENCFF899XIQ	TF ChIP-seq	GRCh38	fold change over control	stomach	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF899XIQ/@@download/ENCFF899XIQ.bigWig	nan
+ENCFF732NXU	Histone ChIP-seq	GRCh38	fold change over control	stomach	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF732NXU/@@download/ENCFF732NXU.bigWig	nan
+ENCFF133XXT	Histone ChIP-seq	GRCh38	fold change over control	stomach	tissue	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF133XXT/@@download/ENCFF133XXT.bigWig	nan
+ENCFF664UKA	Histone ChIP-seq	GRCh38	fold change over control	stomach	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF664UKA/@@download/ENCFF664UKA.bigWig	nan
+ENCFF493RLF	Histone ChIP-seq	GRCh38	fold change over control	stomach	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF493RLF/@@download/ENCFF493RLF.bigWig	nan
+ENCFF391KDD	Histone ChIP-seq	GRCh38	fold change over control	stomach	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF391KDD/@@download/ENCFF391KDD.bigWig	nan
+ENCFF950NLS	Histone ChIP-seq	GRCh38	fold change over control	stomach	tissue	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF950NLS/@@download/ENCFF950NLS.bigWig	nan
+ENCFF538GPP	Histone ChIP-seq	GRCh38	fold change over control	stomach	tissue	H3K4me3-human	1	1_2	https://www.encodeproject.org/files/ENCFF538GPP/@@download/ENCFF538GPP.bigWig	nan
+ENCFF225PPI	Histone ChIP-seq	GRCh38	fold change over control	stomach	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF225PPI/@@download/ENCFF225PPI.bigWig	nan
+ENCFF807KJZ	TF ChIP-seq	GRCh38	fold change over control	stomach	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF807KJZ/@@download/ENCFF807KJZ.bigWig	nan
+ENCFF324HRF	TF ChIP-seq	GRCh38	fold change over control	stomach	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF324HRF/@@download/ENCFF324HRF.bigWig	nan
+ENCFF975CDE	Histone ChIP-seq	GRCh38	fold change over control	stomach	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF975CDE/@@download/ENCFF975CDE.bigWig	nan
+ENCFF751MDE	Histone ChIP-seq	GRCh38	fold change over control	stomach	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF751MDE/@@download/ENCFF751MDE.bigWig	nan
+ENCFF609WKU	Histone ChIP-seq	GRCh38	fold change over control	stomach	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF609WKU/@@download/ENCFF609WKU.bigWig	nan
+ENCFF034PJC	TF ChIP-seq	GRCh38	fold change over control	stomach	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF034PJC/@@download/ENCFF034PJC.bigWig	nan
+ENCFF641DNV	Histone ChIP-seq	GRCh38	fold change over control	stomach	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF641DNV/@@download/ENCFF641DNV.bigWig	nan

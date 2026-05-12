@@ -1,0 +1,22 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF019KLP	total RNA-seq	GRCh38	gene quantifications	IMR-90	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF019KLP/@@download/ENCFF019KLP.tsv	V29
+ENCFF268IJX	total RNA-seq	GRCh38	gene quantifications	IMR-90	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF268IJX/@@download/ENCFF268IJX.tsv	V29
+ENCFF879QMA	polyA plus RNA-seq	GRCh38	gene quantifications	IMR-90	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF879QMA/@@download/ENCFF879QMA.tsv	V29
+ENCFF942MTU	polyA plus RNA-seq	GRCh38	gene quantifications	IMR-90	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF942MTU/@@download/ENCFF942MTU.tsv	V29
+ENCFF685UUT	polyA plus RNA-seq	GRCh38	gene quantifications	IMR-90	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF685UUT/@@download/ENCFF685UUT.tsv	V29
+ENCFF198QFQ	polyA plus RNA-seq	GRCh38	gene quantifications	IMR-90	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF198QFQ/@@download/ENCFF198QFQ.tsv	V29
+ENCFF958WFW	polyA plus RNA-seq	GRCh38	gene quantifications	IMR-90	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF958WFW/@@download/ENCFF958WFW.tsv	V29
+ENCFF631BAG	polyA plus RNA-seq	GRCh38	gene quantifications	IMR-90	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF631BAG/@@download/ENCFF631BAG.tsv	V29
+ENCFF325KTI	total RNA-seq	GRCh38	gene quantifications	IMR-90	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF325KTI/@@download/ENCFF325KTI.tsv	V29
+ENCFF014JRQ	total RNA-seq	GRCh38	gene quantifications	IMR-90	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF014JRQ/@@download/ENCFF014JRQ.tsv	V29
+ENCFF323RPM	DNase-seq	GRCh38	read-depth normalized signal	IMR-90	cell line	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF323RPM/@@download/ENCFF323RPM.bigWig	nan
+ENCFF971HXR	DNase-seq	GRCh38	read-depth normalized signal	IMR-90	cell line	nan	1	1_1, 1_2, 1_3, 1_4	https://www.encodeproject.org/files/ENCFF971HXR/@@download/ENCFF971HXR.bigWig	nan
+ENCFF566UFN	TF ChIP-seq	GRCh38	fold change over control	IMR-90	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF566UFN/@@download/ENCFF566UFN.bigWig	nan
+ENCFF770DUD	TF ChIP-seq	GRCh38	fold change over control	IMR-90	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF770DUD/@@download/ENCFF770DUD.bigWig	nan
+ENCFF105FHL	TF ChIP-seq	GRCh38	fold change over control	IMR-90	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF105FHL/@@download/ENCFF105FHL.bigWig	nan
+ENCFF847YQV	Histone ChIP-seq	GRCh38	fold change over control	IMR-90	cell line	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF847YQV/@@download/ENCFF847YQV.bigWig	nan
+ENCFF891IME	Histone ChIP-seq	GRCh38	fold change over control	IMR-90	cell line	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF891IME/@@download/ENCFF891IME.bigWig	nan
+ENCFF699OAR	Histone ChIP-seq	GRCh38	fold change over control	IMR-90	cell line	H3K27ac-human	1, 2	1_1, 1_2, 2_1	https://www.encodeproject.org/files/ENCFF699OAR/@@download/ENCFF699OAR.bigWig	nan
+ENCFF787RGJ	Histone ChIP-seq	GRCh38	fold change over control	IMR-90	cell line	H3K4me3-human	1	1_2	https://www.encodeproject.org/files/ENCFF787RGJ/@@download/ENCFF787RGJ.bigWig	nan
+ENCFF127NCC	Histone ChIP-seq	GRCh38	fold change over control	IMR-90	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF127NCC/@@download/ENCFF127NCC.bigWig	nan
+ENCFF376ZIM	Histone ChIP-seq	GRCh38	fold change over control	IMR-90	cell line	H3K4me3-human	1, 2	1_2, 2_1	https://www.encodeproject.org/files/ENCFF376ZIM/@@download/ENCFF376ZIM.bigWig	nan

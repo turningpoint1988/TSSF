@@ -1,0 +1,13 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF712NTC	total RNA-seq	GRCh38	gene quantifications	lower lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF712NTC/@@download/ENCFF712NTC.tsv	V29
+ENCFF852WKI	total RNA-seq	GRCh38	gene quantifications	lower lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF852WKI/@@download/ENCFF852WKI.tsv	V29
+ENCFF228JXX	total RNA-seq	GRCh38	gene quantifications	lower lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF228JXX/@@download/ENCFF228JXX.tsv	V29
+ENCFF162GDL	DNase-seq	GRCh38	read-depth normalized signal	lower lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF162GDL/@@download/ENCFF162GDL.bigWig	nan
+ENCFF421SBY	DNase-seq	GRCh38	read-depth normalized signal	lower lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF421SBY/@@download/ENCFF421SBY.bigWig	nan
+ENCFF615BRP	DNase-seq	GRCh38	read-depth normalized signal	lower lobe of left lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF615BRP/@@download/ENCFF615BRP.bigWig	nan
+ENCFF504NPN	Histone ChIP-seq	GRCh38	fold change over control	lower lobe of left lung	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF504NPN/@@download/ENCFF504NPN.bigWig	nan
+ENCFF032IZZ	Histone ChIP-seq	GRCh38	fold change over control	lower lobe of left lung	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF032IZZ/@@download/ENCFF032IZZ.bigWig	nan
+ENCFF033FEG	TF ChIP-seq	GRCh38	fold change over control	lower lobe of left lung	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF033FEG/@@download/ENCFF033FEG.bigWig	nan
+ENCFF902HIA	Histone ChIP-seq	GRCh38	fold change over control	lower lobe of left lung	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF902HIA/@@download/ENCFF902HIA.bigWig	nan
+ENCFF812ODW	TF ChIP-seq	GRCh38	fold change over control	lower lobe of left lung	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF812ODW/@@download/ENCFF812ODW.bigWig	nan
+ENCFF375YPQ	Histone ChIP-seq	GRCh38	fold change over control	lower lobe of left lung	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF375YPQ/@@download/ENCFF375YPQ.bigWig	nan

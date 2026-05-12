@@ -1,0 +1,32 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF046FZP	polyA plus RNA-seq	GRCh38	gene quantifications	CD14-positive monocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF046FZP/@@download/ENCFF046FZP.tsv	V29
+ENCFF752WBS	polyA plus RNA-seq	GRCh38	gene quantifications	CD14-positive monocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF752WBS/@@download/ENCFF752WBS.tsv	V29
+ENCFF323LPC	polyA plus RNA-seq	GRCh38	gene quantifications	CD14-positive monocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF323LPC/@@download/ENCFF323LPC.tsv	V29
+ENCFF134XBC	polyA plus RNA-seq	GRCh38	gene quantifications	CD14-positive monocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF134XBC/@@download/ENCFF134XBC.tsv	V29
+ENCFF170TKR	polyA plus RNA-seq	GRCh38	gene quantifications	CD14-positive monocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF170TKR/@@download/ENCFF170TKR.tsv	V29
+ENCFF179PSX	polyA plus RNA-seq	GRCh38	gene quantifications	CD14-positive monocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF179PSX/@@download/ENCFF179PSX.tsv	V29
+ENCFF408GAO	polyA plus RNA-seq	GRCh38	gene quantifications	CD14-positive monocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF408GAO/@@download/ENCFF408GAO.tsv	V29
+ENCFF492OTB	polyA plus RNA-seq	GRCh38	gene quantifications	CD14-positive monocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF492OTB/@@download/ENCFF492OTB.tsv	V29
+ENCFF806MNX	polyA plus RNA-seq	GRCh38	gene quantifications	CD14-positive monocyte	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF806MNX/@@download/ENCFF806MNX.tsv	V29
+ENCFF608PTO	DNase-seq	GRCh38	read-depth normalized signal	CD14-positive monocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF608PTO/@@download/ENCFF608PTO.bigWig	nan
+ENCFF310HUD	DNase-seq	GRCh38	read-depth normalized signal	CD14-positive monocyte	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF310HUD/@@download/ENCFF310HUD.bigWig	nan
+ENCFF881YUR	DNase-seq	GRCh38	read-depth normalized signal	CD14-positive monocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF881YUR/@@download/ENCFF881YUR.bigWig	nan
+ENCFF544SIY	DNase-seq	GRCh38	read-depth normalized signal	CD14-positive monocyte	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF544SIY/@@download/ENCFF544SIY.bigWig	nan
+ENCFF334MJA	DNase-seq	GRCh38	read-depth normalized signal	CD14-positive monocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF334MJA/@@download/ENCFF334MJA.bigWig	nan
+ENCFF353UAY	DNase-seq	GRCh38	read-depth normalized signal	CD14-positive monocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF353UAY/@@download/ENCFF353UAY.bigWig	nan
+ENCFF123VGW	DNase-seq	GRCh38	read-depth normalized signal	CD14-positive monocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF123VGW/@@download/ENCFF123VGW.bigWig	nan
+ENCFF459WKU	DNase-seq	GRCh38	read-depth normalized signal	CD14-positive monocyte	primary cell	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF459WKU/@@download/ENCFF459WKU.bigWig	nan
+ENCFF389PZY	DNase-seq	GRCh38	read-depth normalized signal	CD14-positive monocyte	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF389PZY/@@download/ENCFF389PZY.bigWig	nan
+ENCFF985QRU	TF ChIP-seq	GRCh38	fold change over control	CD14-positive monocyte	primary cell	CTCF-human	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF985QRU/@@download/ENCFF985QRU.bigWig	nan
+ENCFF510BSJ	Histone ChIP-seq	GRCh38	fold change over control	CD14-positive monocyte	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF510BSJ/@@download/ENCFF510BSJ.bigWig	nan
+ENCFF078DZN	Histone ChIP-seq	GRCh38	fold change over control	CD14-positive monocyte	primary cell	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF078DZN/@@download/ENCFF078DZN.bigWig	nan
+ENCFF948MET	Histone ChIP-seq	GRCh38	fold change over control	CD14-positive monocyte	primary cell	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF948MET/@@download/ENCFF948MET.bigWig	nan
+ENCFF184NWF	Histone ChIP-seq	GRCh38	fold change over control	CD14-positive monocyte	primary cell	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF184NWF/@@download/ENCFF184NWF.bigWig	nan
+ENCFF302MMA	TF ChIP-seq	GRCh38	fold change over control	CD14-positive monocyte	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF302MMA/@@download/ENCFF302MMA.bigWig	nan
+ENCFF271KMB	TF ChIP-seq	GRCh38	fold change over control	CD14-positive monocyte	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF271KMB/@@download/ENCFF271KMB.bigWig	nan
+ENCFF496PSJ	TF ChIP-seq	GRCh38	fold change over control	CD14-positive monocyte	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF496PSJ/@@download/ENCFF496PSJ.bigWig	nan
+ENCFF116NCG	Histone ChIP-seq	GRCh38	fold change over control	CD14-positive monocyte	primary cell	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF116NCG/@@download/ENCFF116NCG.bigWig	nan
+ENCFF739LQS	Histone ChIP-seq	GRCh38	fold change over control	CD14-positive monocyte	primary cell	H3K4me3-human	1	1_2	https://www.encodeproject.org/files/ENCFF739LQS/@@download/ENCFF739LQS.bigWig	nan
+ENCFF587XGD	Histone ChIP-seq	GRCh38	fold change over control	CD14-positive monocyte	primary cell	H3K4me3-human	1, 2	1_1, 1_2, 2_1	https://www.encodeproject.org/files/ENCFF587XGD/@@download/ENCFF587XGD.bigWig	nan
+ENCFF367ZHA	Histone ChIP-seq	GRCh38	fold change over control	CD14-positive monocyte	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF367ZHA/@@download/ENCFF367ZHA.bigWig	nan
+ENCFF439PJT	Histone ChIP-seq	GRCh38	fold change over control	CD14-positive monocyte	primary cell	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF439PJT/@@download/ENCFF439PJT.bigWig	nan

@@ -1,0 +1,22 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF005FVC	total RNA-seq	GRCh38	gene quantifications	esophagus squamous epithelium	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF005FVC/@@download/ENCFF005FVC.tsv	V29
+ENCFF031CKR	total RNA-seq	GRCh38	gene quantifications	esophagus squamous epithelium	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF031CKR/@@download/ENCFF031CKR.tsv	V29
+ENCFF502KTX	total RNA-seq	GRCh38	gene quantifications	esophagus squamous epithelium	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF502KTX/@@download/ENCFF502KTX.tsv	V29
+ENCFF605ORY	total RNA-seq	GRCh38	gene quantifications	esophagus squamous epithelium	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF605ORY/@@download/ENCFF605ORY.tsv	V29
+ENCFF841VBI	DNase-seq	GRCh38	read-depth normalized signal	esophagus squamous epithelium	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF841VBI/@@download/ENCFF841VBI.bigWig	nan
+ENCFF628RBH	Histone ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF628RBH/@@download/ENCFF628RBH.bigWig	nan
+ENCFF719ORU	Histone ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF719ORU/@@download/ENCFF719ORU.bigWig	nan
+ENCFF037TME	Histone ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF037TME/@@download/ENCFF037TME.bigWig	nan
+ENCFF764HZI	Histone ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF764HZI/@@download/ENCFF764HZI.bigWig	nan
+ENCFF536UKH	Histone ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF536UKH/@@download/ENCFF536UKH.bigWig	nan
+ENCFF091KQD	Histone ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF091KQD/@@download/ENCFF091KQD.bigWig	nan
+ENCFF576GES	Histone ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF576GES/@@download/ENCFF576GES.bigWig	nan
+ENCFF799HMN	TF ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF799HMN/@@download/ENCFF799HMN.bigWig	nan
+ENCFF529SUF	TF ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF529SUF/@@download/ENCFF529SUF.bigWig	nan
+ENCFF058GFX	Histone ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF058GFX/@@download/ENCFF058GFX.bigWig	nan
+ENCFF934YSC	TF ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF934YSC/@@download/ENCFF934YSC.bigWig	nan
+ENCFF536DEU	TF ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF536DEU/@@download/ENCFF536DEU.bigWig	nan
+ENCFF261VFS	Histone ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF261VFS/@@download/ENCFF261VFS.bigWig	nan
+ENCFF044KLK	Histone ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF044KLK/@@download/ENCFF044KLK.bigWig	nan
+ENCFF078VHA	TF ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF078VHA/@@download/ENCFF078VHA.bigWig	nan
+ENCFF890GCO	TF ChIP-seq	GRCh38	fold change over control	esophagus squamous epithelium	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF890GCO/@@download/ENCFF890GCO.bigWig	nan

@@ -1,0 +1,29 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF658MFL	total RNA-seq	GRCh38	gene quantifications	right lobe of liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF658MFL/@@download/ENCFF658MFL.tsv	V29
+ENCFF998IFH	total RNA-seq	GRCh38	gene quantifications	right lobe of liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF998IFH/@@download/ENCFF998IFH.tsv	V29
+ENCFF701OLG	total RNA-seq	GRCh38	gene quantifications	right lobe of liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF701OLG/@@download/ENCFF701OLG.tsv	V29
+ENCFF658KST	total RNA-seq	GRCh38	gene quantifications	right lobe of liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF658KST/@@download/ENCFF658KST.tsv	V29
+ENCFF932VTY	total RNA-seq	GRCh38	gene quantifications	right lobe of liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF932VTY/@@download/ENCFF932VTY.tsv	V29
+ENCFF850OBS	total RNA-seq	GRCh38	gene quantifications	right lobe of liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF850OBS/@@download/ENCFF850OBS.tsv	V29
+ENCFF462ZLK	DNase-seq	GRCh38	read-depth normalized signal	right lobe of liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF462ZLK/@@download/ENCFF462ZLK.bigWig	nan
+ENCFF020EPF	DNase-seq	GRCh38	read-depth normalized signal	right lobe of liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF020EPF/@@download/ENCFF020EPF.bigWig	nan
+ENCFF082KAC	DNase-seq	GRCh38	read-depth normalized signal	right lobe of liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF082KAC/@@download/ENCFF082KAC.bigWig	nan
+ENCFF606YDZ	DNase-seq	GRCh38	read-depth normalized signal	right lobe of liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF606YDZ/@@download/ENCFF606YDZ.bigWig	nan
+ENCFF466DQD	DNase-seq	GRCh38	read-depth normalized signal	right lobe of liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF466DQD/@@download/ENCFF466DQD.bigWig	nan
+ENCFF634BMR	DNase-seq	GRCh38	read-depth normalized signal	right lobe of liver	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF634BMR/@@download/ENCFF634BMR.bigWig	nan
+ENCFF231BNJ	Histone ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF231BNJ/@@download/ENCFF231BNJ.bigWig	nan
+ENCFF517UOX	Histone ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF517UOX/@@download/ENCFF517UOX.bigWig	nan
+ENCFF372NAI	Histone ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF372NAI/@@download/ENCFF372NAI.bigWig	nan
+ENCFF225HLK	Histone ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF225HLK/@@download/ENCFF225HLK.bigWig	nan
+ENCFF352AAW	Histone ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF352AAW/@@download/ENCFF352AAW.bigWig	nan
+ENCFF029CGS	Histone ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF029CGS/@@download/ENCFF029CGS.bigWig	nan
+ENCFF436IXV	TF ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF436IXV/@@download/ENCFF436IXV.bigWig	nan
+ENCFF402MAU	TF ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF402MAU/@@download/ENCFF402MAU.bigWig	nan
+ENCFF550IMO	TF ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF550IMO/@@download/ENCFF550IMO.bigWig	nan
+ENCFF591VUM	Histone ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF591VUM/@@download/ENCFF591VUM.bigWig	nan
+ENCFF950RRW	Histone ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF950RRW/@@download/ENCFF950RRW.bigWig	nan
+ENCFF764VSN	Histone ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF764VSN/@@download/ENCFF764VSN.bigWig	nan
+ENCFF005YBS	TF ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF005YBS/@@download/ENCFF005YBS.bigWig	nan
+ENCFF153YEE	Histone ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF153YEE/@@download/ENCFF153YEE.bigWig	nan
+ENCFF917LFF	Histone ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF917LFF/@@download/ENCFF917LFF.bigWig	nan
+ENCFF256HPN	Histone ChIP-seq	GRCh38	fold change over control	right lobe of liver	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF256HPN/@@download/ENCFF256HPN.bigWig	nan

@@ -1,0 +1,17 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF906OMD	total RNA-seq	GRCh38	gene quantifications	breast epithelium	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF906OMD/@@download/ENCFF906OMD.tsv	V29
+ENCFF193ERL	total RNA-seq	GRCh38	gene quantifications	breast epithelium	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF193ERL/@@download/ENCFF193ERL.tsv	V29
+ENCFF866SAB	total RNA-seq	GRCh38	gene quantifications	breast epithelium	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF866SAB/@@download/ENCFF866SAB.tsv	V29
+ENCFF111NRY	DNase-seq	GRCh38	read-depth normalized signal	breast epithelium	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF111NRY/@@download/ENCFF111NRY.bigWig	nan
+ENCFF322ALX	DNase-seq	GRCh38	read-depth normalized signal	breast epithelium	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF322ALX/@@download/ENCFF322ALX.bigWig	nan
+ENCFF549MXK	DNase-seq	GRCh38	read-depth normalized signal	breast epithelium	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF549MXK/@@download/ENCFF549MXK.bigWig	nan
+ENCFF156LWF	TF ChIP-seq	GRCh38	fold change over control	breast epithelium	tissue	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF156LWF/@@download/ENCFF156LWF.bigWig	nan
+ENCFF720WSA	Histone ChIP-seq	GRCh38	fold change over control	breast epithelium	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF720WSA/@@download/ENCFF720WSA.bigWig	nan
+ENCFF278ZAD	Histone ChIP-seq	GRCh38	fold change over control	breast epithelium	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF278ZAD/@@download/ENCFF278ZAD.bigWig	nan
+ENCFF085IYD	Histone ChIP-seq	GRCh38	fold change over control	breast epithelium	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF085IYD/@@download/ENCFF085IYD.bigWig	nan
+ENCFF271PWB	TF ChIP-seq	GRCh38	fold change over control	breast epithelium	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF271PWB/@@download/ENCFF271PWB.bigWig	nan
+ENCFF249SYO	TF ChIP-seq	GRCh38	fold change over control	breast epithelium	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF249SYO/@@download/ENCFF249SYO.bigWig	nan
+ENCFF800QBA	Histone ChIP-seq	GRCh38	fold change over control	breast epithelium	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF800QBA/@@download/ENCFF800QBA.bigWig	nan
+ENCFF376RDO	Histone ChIP-seq	GRCh38	fold change over control	breast epithelium	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF376RDO/@@download/ENCFF376RDO.bigWig	nan
+ENCFF585QLC	Histone ChIP-seq	GRCh38	fold change over control	breast epithelium	tissue	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF585QLC/@@download/ENCFF585QLC.bigWig	nan
+ENCFF859MTR	Histone ChIP-seq	GRCh38	fold change over control	breast epithelium	tissue	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF859MTR/@@download/ENCFF859MTR.bigWig	nan

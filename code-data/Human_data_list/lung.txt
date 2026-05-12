@@ -1,0 +1,36 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF675DVW	total RNA-seq	GRCh38	gene quantifications	lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF675DVW/@@download/ENCFF675DVW.tsv	V29
+ENCFF678NWU	total RNA-seq	GRCh38	gene quantifications	lung	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF678NWU/@@download/ENCFF678NWU.tsv	V29
+ENCFF259SRL	polyA plus RNA-seq	GRCh38	gene quantifications	lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF259SRL/@@download/ENCFF259SRL.tsv	V29
+ENCFF769NWX	polyA plus RNA-seq	GRCh38	gene quantifications	lung	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF769NWX/@@download/ENCFF769NWX.tsv	V29
+ENCFF769IPE	total RNA-seq	GRCh38	gene quantifications	lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF769IPE/@@download/ENCFF769IPE.tsv	V29
+ENCFF906UNV	polyA plus RNA-seq	GRCh38	gene quantifications	lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF906UNV/@@download/ENCFF906UNV.tsv	V29
+ENCFF970BIN	polyA plus RNA-seq	GRCh38	gene quantifications	lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF970BIN/@@download/ENCFF970BIN.tsv	V29
+ENCFF754JLV	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	1	1_3	https://www.encodeproject.org/files/ENCFF754JLV/@@download/ENCFF754JLV.bigWig	nan
+ENCFF659ZRM	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF659ZRM/@@download/ENCFF659ZRM.bigWig	nan
+ENCFF743VYP	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF743VYP/@@download/ENCFF743VYP.bigWig	nan
+ENCFF411YZS	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF411YZS/@@download/ENCFF411YZS.bigWig	nan
+ENCFF787QGK	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF787QGK/@@download/ENCFF787QGK.bigWig	nan
+ENCFF868ZIM	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF868ZIM/@@download/ENCFF868ZIM.bigWig	nan
+ENCFF625DUL	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF625DUL/@@download/ENCFF625DUL.bigWig	nan
+ENCFF125QXC	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF125QXC/@@download/ENCFF125QXC.bigWig	nan
+ENCFF403IJQ	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF403IJQ/@@download/ENCFF403IJQ.bigWig	nan
+ENCFF631RJC	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF631RJC/@@download/ENCFF631RJC.bigWig	nan
+ENCFF530FHO	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF530FHO/@@download/ENCFF530FHO.bigWig	nan
+ENCFF445GCD	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF445GCD/@@download/ENCFF445GCD.bigWig	nan
+ENCFF804QDI	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF804QDI/@@download/ENCFF804QDI.bigWig	nan
+ENCFF669POI	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF669POI/@@download/ENCFF669POI.bigWig	nan
+ENCFF296IXA	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF296IXA/@@download/ENCFF296IXA.bigWig	nan
+ENCFF171RLN	DNase-seq	GRCh38	read-depth normalized signal	lung	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF171RLN/@@download/ENCFF171RLN.bigWig	nan
+ENCFF310DHG	TF ChIP-seq	GRCh38	fold change over control	lung	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF310DHG/@@download/ENCFF310DHG.bigWig	nan
+ENCFF856ACF	TF ChIP-seq	GRCh38	fold change over control	lung	tissue	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF856ACF/@@download/ENCFF856ACF.bigWig	nan
+ENCFF763NIU	TF ChIP-seq	GRCh38	fold change over control	lung	tissue	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF763NIU/@@download/ENCFF763NIU.bigWig	nan
+ENCFF827WDQ	TF ChIP-seq	GRCh38	fold change over control	lung	tissue	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF827WDQ/@@download/ENCFF827WDQ.bigWig	nan
+ENCFF303YTO	TF ChIP-seq	GRCh38	fold change over control	lung	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF303YTO/@@download/ENCFF303YTO.bigWig	nan
+ENCFF536HND	TF ChIP-seq	GRCh38	fold change over control	lung	tissue	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF536HND/@@download/ENCFF536HND.bigWig	nan
+ENCFF155XCD	Histone ChIP-seq	GRCh38	fold change over control	lung	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF155XCD/@@download/ENCFF155XCD.bigWig	nan
+ENCFF022TOZ	Histone ChIP-seq	GRCh38	fold change over control	lung	tissue	H3K4me3-human	1	1_2	https://www.encodeproject.org/files/ENCFF022TOZ/@@download/ENCFF022TOZ.bigWig	nan
+ENCFF939ELA	Histone ChIP-seq	GRCh38	fold change over control	lung	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF939ELA/@@download/ENCFF939ELA.bigWig	nan
+ENCFF900HNB	Histone ChIP-seq	GRCh38	fold change over control	lung	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF900HNB/@@download/ENCFF900HNB.bigWig	nan
+ENCFF050YYY	Histone ChIP-seq	GRCh38	fold change over control	lung	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF050YYY/@@download/ENCFF050YYY.bigWig	nan
+ENCFF839NZT	Histone ChIP-seq	GRCh38	fold change over control	lung	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF839NZT/@@download/ENCFF839NZT.bigWig	nan

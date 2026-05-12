@@ -1,0 +1,17 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF708WAL	polyA plus RNA-seq	GRCh38	gene quantifications	testis	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF708WAL/@@download/ENCFF708WAL.tsv	V29
+ENCFF862BQP	polyA plus RNA-seq	GRCh38	gene quantifications	testis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF862BQP/@@download/ENCFF862BQP.tsv	V29
+ENCFF259PFY	total RNA-seq	GRCh38	gene quantifications	testis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF259PFY/@@download/ENCFF259PFY.tsv	V29
+ENCFF416QUL	polyA plus RNA-seq	GRCh38	gene quantifications	testis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF416QUL/@@download/ENCFF416QUL.tsv	V29
+ENCFF732HBO	total RNA-seq	GRCh38	gene quantifications	testis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF732HBO/@@download/ENCFF732HBO.tsv	V29
+ENCFF428COP	DNase-seq	GRCh38	read-depth normalized signal	testis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF428COP/@@download/ENCFF428COP.bigWig	nan
+ENCFF047EHA	DNase-seq	GRCh38	read-depth normalized signal	testis	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF047EHA/@@download/ENCFF047EHA.bigWig	nan
+ENCFF366YAV	DNase-seq	GRCh38	read-depth normalized signal	testis	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF366YAV/@@download/ENCFF366YAV.bigWig	nan
+ENCFF589CRI	DNase-seq	GRCh38	read-depth normalized signal	testis	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF589CRI/@@download/ENCFF589CRI.bigWig	nan
+ENCFF246QNM	Histone ChIP-seq	GRCh38	fold change over control	testis	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF246QNM/@@download/ENCFF246QNM.bigWig	nan
+ENCFF883KMQ	TF ChIP-seq	GRCh38	fold change over control	testis	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF883KMQ/@@download/ENCFF883KMQ.bigWig	nan
+ENCFF665CXY	Histone ChIP-seq	GRCh38	fold change over control	testis	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF665CXY/@@download/ENCFF665CXY.bigWig	nan
+ENCFF487SXN	Histone ChIP-seq	GRCh38	fold change over control	testis	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF487SXN/@@download/ENCFF487SXN.bigWig	nan
+ENCFF245HIM	TF ChIP-seq	GRCh38	fold change over control	testis	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF245HIM/@@download/ENCFF245HIM.bigWig	nan
+ENCFF453LVK	TF ChIP-seq	GRCh38	fold change over control	testis	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF453LVK/@@download/ENCFF453LVK.bigWig	nan
+ENCFF229BGF	Histone ChIP-seq	GRCh38	fold change over control	testis	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF229BGF/@@download/ENCFF229BGF.bigWig	nan

@@ -1,0 +1,35 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF197BVC	polyA plus RNA-seq	GRCh38	gene quantifications	endothelial cell of umbilical vein	primary cell	nan	3	3_1	https://www.encodeproject.org/files/ENCFF197BVC/@@download/ENCFF197BVC.tsv	V29
+ENCFF917MOB	polyA plus RNA-seq	GRCh38	gene quantifications	endothelial cell of umbilical vein	primary cell	nan	4	4_1	https://www.encodeproject.org/files/ENCFF917MOB/@@download/ENCFF917MOB.tsv	V29
+ENCFF267JUJ	polyA plus RNA-seq	GRCh38	gene quantifications	endothelial cell of umbilical vein	primary cell	nan	4	4_1	https://www.encodeproject.org/files/ENCFF267JUJ/@@download/ENCFF267JUJ.tsv	V29
+ENCFF506WQF	polyA plus RNA-seq	GRCh38	gene quantifications	endothelial cell of umbilical vein	primary cell	nan	3	3_1	https://www.encodeproject.org/files/ENCFF506WQF/@@download/ENCFF506WQF.tsv	V29
+ENCFF881WXC	polyA plus RNA-seq	GRCh38	gene quantifications	endothelial cell of umbilical vein	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF881WXC/@@download/ENCFF881WXC.tsv	V29
+ENCFF237XJC	polyA plus RNA-seq	GRCh38	gene quantifications	endothelial cell of umbilical vein	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF237XJC/@@download/ENCFF237XJC.tsv	V29
+ENCFF755DAA	polyA plus RNA-seq	GRCh38	gene quantifications	endothelial cell of umbilical vein	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF755DAA/@@download/ENCFF755DAA.tsv	V29
+ENCFF997PHW	polyA plus RNA-seq	GRCh38	gene quantifications	endothelial cell of umbilical vein	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF997PHW/@@download/ENCFF997PHW.tsv	V29
+ENCFF779OCC	polyA plus RNA-seq	GRCh38	gene quantifications	endothelial cell of umbilical vein	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF779OCC/@@download/ENCFF779OCC.tsv	V29
+ENCFF770MAV	polyA plus RNA-seq	GRCh38	gene quantifications	endothelial cell of umbilical vein	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF770MAV/@@download/ENCFF770MAV.tsv	V29
+ENCFF454MTF	total RNA-seq	GRCh38	gene quantifications	endothelial cell of umbilical vein	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF454MTF/@@download/ENCFF454MTF.tsv	V29
+ENCFF134FYP	total RNA-seq	GRCh38	gene quantifications	endothelial cell of umbilical vein	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF134FYP/@@download/ENCFF134FYP.tsv	V29
+ENCFF671RMS	DNase-seq	GRCh38	read-depth normalized signal	endothelial cell of umbilical vein	primary cell	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF671RMS/@@download/ENCFF671RMS.bigWig	nan
+ENCFF242QGB	DNase-seq	GRCh38	read-depth normalized signal	endothelial cell of umbilical vein	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF242QGB/@@download/ENCFF242QGB.bigWig	nan
+ENCFF289OKT	DNase-seq	GRCh38	read-depth normalized signal	endothelial cell of umbilical vein	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF289OKT/@@download/ENCFF289OKT.bigWig	nan
+ENCFF024DGT	Histone ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF024DGT/@@download/ENCFF024DGT.bigWig	nan
+ENCFF519OHX	Histone ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF519OHX/@@download/ENCFF519OHX.bigWig	nan
+ENCFF033TJS	Histone ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF033TJS/@@download/ENCFF033TJS.bigWig	nan
+ENCFF984SVK	TF ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF984SVK/@@download/ENCFF984SVK.bigWig	nan
+ENCFF105ZMP	TF ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF105ZMP/@@download/ENCFF105ZMP.bigWig	nan
+ENCFF376NNK	TF ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF376NNK/@@download/ENCFF376NNK.bigWig	nan
+ENCFF334OZC	TF ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	CTCF-human	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF334OZC/@@download/ENCFF334OZC.bigWig	nan
+ENCFF399KTR	Histone ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF399KTR/@@download/ENCFF399KTR.bigWig	nan
+ENCFF254CFH	Histone ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF254CFH/@@download/ENCFF254CFH.bigWig	nan
+ENCFF421NQV	Histone ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF421NQV/@@download/ENCFF421NQV.bigWig	nan
+ENCFF632CBL	TF ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF632CBL/@@download/ENCFF632CBL.bigWig	nan
+ENCFF047DPU	TF ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF047DPU/@@download/ENCFF047DPU.bigWig	nan
+ENCFF101DWC	TF ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF101DWC/@@download/ENCFF101DWC.bigWig	nan
+ENCFF662FPC	Histone ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF662FPC/@@download/ENCFF662FPC.bigWig	nan
+ENCFF880BXO	Histone ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF880BXO/@@download/ENCFF880BXO.bigWig	nan
+ENCFF161GMO	Histone ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF161GMO/@@download/ENCFF161GMO.bigWig	nan
+ENCFF336PQW	Histone ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF336PQW/@@download/ENCFF336PQW.bigWig	nan
+ENCFF955PAU	Histone ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF955PAU/@@download/ENCFF955PAU.bigWig	nan
+ENCFF249HPH	Histone ChIP-seq	GRCh38	fold change over control	endothelial cell of umbilical vein	primary cell	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF249HPH/@@download/ENCFF249HPH.bigWig	nan

@@ -1,0 +1,19 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF020VGN	total RNA-seq	mm10	gene quantifications	CH12.LX	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF020VGN/@@download/ENCFF020VGN.tsv	M21
+ENCFF937CPG	total RNA-seq	mm10	gene quantifications	CH12.LX	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF937CPG/@@download/ENCFF937CPG.tsv	M21
+ENCFF315JOG	DNase-seq	mm10	read-depth normalized signal	CH12.LX	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF315JOG/@@download/ENCFF315JOG.bigWig	nan
+ENCFF228LWM	DNase-seq	mm10	read-depth normalized signal	CH12.LX	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF228LWM/@@download/ENCFF228LWM.bigWig	nan
+ENCFF682RGY	DNase-seq	mm10	read-depth normalized signal	CH12.LX	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF682RGY/@@download/ENCFF682RGY.bigWig	nan
+ENCFF578APN	DNase-seq	mm10	read-depth normalized signal	CH12.LX	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF578APN/@@download/ENCFF578APN.bigWig	nan
+ENCFF426ODS	Histone ChIP-seq	mm10	fold change over control	CH12.LX	cell line	H3K4me3-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF426ODS/@@download/ENCFF426ODS.bigWig	nan
+ENCFF495OUR	Histone ChIP-seq	mm10	fold change over control	CH12.LX	cell line	H3K4me3-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF495OUR/@@download/ENCFF495OUR.bigWig	nan
+ENCFF288OKN	Histone ChIP-seq	mm10	fold change over control	CH12.LX	cell line	H3K4me3-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF288OKN/@@download/ENCFF288OKN.bigWig	nan
+ENCFF171TNA	Histone ChIP-seq	mm10	fold change over control	CH12.LX	cell line	H3K4me3-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF171TNA/@@download/ENCFF171TNA.bigWig	nan
+ENCFF844EOO	TF ChIP-seq	mm10	fold change over control	CH12.LX	cell line	CTCF-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF844EOO/@@download/ENCFF844EOO.bigWig	nan
+ENCFF137XUJ	TF ChIP-seq	mm10	fold change over control	CH12.LX	cell line	CTCF-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF137XUJ/@@download/ENCFF137XUJ.bigWig	nan
+ENCFF867PYD	Histone ChIP-seq	mm10	fold change over control	CH12.LX	cell line	H3K27ac-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF867PYD/@@download/ENCFF867PYD.bigWig	nan
+ENCFF666CND	Histone ChIP-seq	mm10	fold change over control	CH12.LX	cell line	H3K27ac-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF666CND/@@download/ENCFF666CND.bigWig	nan
+ENCFF500BXF	Histone ChIP-seq	mm10	fold change over control	CH12.LX	cell line	H3K4me3-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF500BXF/@@download/ENCFF500BXF.bigWig	nan
+ENCFF420ORJ	Histone ChIP-seq	mm10	fold change over control	CH12.LX	cell line	H3K4me3-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF420ORJ/@@download/ENCFF420ORJ.bigWig	nan
+ENCFF025UEN	TF ChIP-seq	mm10	fold change over control	CH12.LX	cell line	CTCF-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF025UEN/@@download/ENCFF025UEN.bigWig	nan
+ENCFF499GIZ	TF ChIP-seq	mm10	fold change over control	CH12.LX	cell line	CTCF-mouse	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF499GIZ/@@download/ENCFF499GIZ.bigWig	nan

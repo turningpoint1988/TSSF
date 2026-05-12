@@ -1,0 +1,29 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF798WGM	total RNA-seq	GRCh38	gene quantifications	mammary epithelial cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF798WGM/@@download/ENCFF798WGM.tsv	V29
+ENCFF181MTD	polyA plus RNA-seq	GRCh38	gene quantifications	mammary epithelial cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF181MTD/@@download/ENCFF181MTD.tsv	V29
+ENCFF292FVY	total RNA-seq	GRCh38	gene quantifications	mammary epithelial cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF292FVY/@@download/ENCFF292FVY.tsv	V29
+ENCFF219EZH	total RNA-seq	GRCh38	gene quantifications	mammary epithelial cell	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF219EZH/@@download/ENCFF219EZH.tsv	V29
+ENCFF061OMD	polyA plus RNA-seq	GRCh38	gene quantifications	mammary epithelial cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF061OMD/@@download/ENCFF061OMD.tsv	V29
+ENCFF251BVR	DNase-seq	GRCh38	read-depth normalized signal	mammary epithelial cell	primary cell	nan	2	2_1, 2_2, 2_3	https://www.encodeproject.org/files/ENCFF251BVR/@@download/ENCFF251BVR.bigWig	nan
+ENCFF851JUI	DNase-seq	GRCh38	read-depth normalized signal	mammary epithelial cell	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF851JUI/@@download/ENCFF851JUI.bigWig	nan
+ENCFF889GXK	DNase-seq	GRCh38	read-depth normalized signal	mammary epithelial cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF889GXK/@@download/ENCFF889GXK.bigWig	nan
+ENCFF927YMY	DNase-seq	GRCh38	read-depth normalized signal	mammary epithelial cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF927YMY/@@download/ENCFF927YMY.bigWig	nan
+ENCFF805SYB	Histone ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF805SYB/@@download/ENCFF805SYB.bigWig	nan
+ENCFF227ASZ	Histone ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF227ASZ/@@download/ENCFF227ASZ.bigWig	nan
+ENCFF083ONY	Histone ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF083ONY/@@download/ENCFF083ONY.bigWig	nan
+ENCFF804LBC	TF ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF804LBC/@@download/ENCFF804LBC.bigWig	nan
+ENCFF748EOD	TF ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF748EOD/@@download/ENCFF748EOD.bigWig	nan
+ENCFF340LZM	TF ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF340LZM/@@download/ENCFF340LZM.bigWig	nan
+ENCFF526WUE	Histone ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF526WUE/@@download/ENCFF526WUE.bigWig	nan
+ENCFF073RSZ	Histone ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF073RSZ/@@download/ENCFF073RSZ.bigWig	nan
+ENCFF877UBQ	Histone ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF877UBQ/@@download/ENCFF877UBQ.bigWig	nan
+ENCFF009GAZ	Histone ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF009GAZ/@@download/ENCFF009GAZ.bigWig	nan
+ENCFF888WIY	TF ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF888WIY/@@download/ENCFF888WIY.bigWig	nan
+ENCFF644JFZ	TF ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF644JFZ/@@download/ENCFF644JFZ.bigWig	nan
+ENCFF715XOZ	TF ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF715XOZ/@@download/ENCFF715XOZ.bigWig	nan
+ENCFF990PHT	Histone ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF990PHT/@@download/ENCFF990PHT.bigWig	nan
+ENCFF863MZS	Histone ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF863MZS/@@download/ENCFF863MZS.bigWig	nan
+ENCFF425YUM	Histone ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF425YUM/@@download/ENCFF425YUM.bigWig	nan
+ENCFF046USO	Histone ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF046USO/@@download/ENCFF046USO.bigWig	nan
+ENCFF588OMD	Histone ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF588OMD/@@download/ENCFF588OMD.bigWig	nan
+ENCFF977KZW	Histone ChIP-seq	GRCh38	fold change over control	mammary epithelial cell	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF977KZW/@@download/ENCFF977KZW.bigWig	nan

@@ -1,0 +1,62 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF826QFM	total RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF826QFM/@@download/ENCFF826QFM.tsv	V29
+ENCFF944RFV	total RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF944RFV/@@download/ENCFF944RFV.tsv	V29
+ENCFF281PBM	total RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF281PBM/@@download/ENCFF281PBM.tsv	V29
+ENCFF396FZT	total RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF396FZT/@@download/ENCFF396FZT.tsv	V29
+ENCFF164PTD	total RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF164PTD/@@download/ENCFF164PTD.tsv	V29
+ENCFF529HSE	total RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF529HSE/@@download/ENCFF529HSE.tsv	V29
+ENCFF729LCL	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF729LCL/@@download/ENCFF729LCL.tsv	V29
+ENCFF877KTY	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF877KTY/@@download/ENCFF877KTY.tsv	V29
+ENCFF695GMA	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF695GMA/@@download/ENCFF695GMA.tsv	V29
+ENCFF292KIL	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF292KIL/@@download/ENCFF292KIL.tsv	V29
+ENCFF831QQF	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF831QQF/@@download/ENCFF831QQF.tsv	V29
+ENCFF168QKW	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF168QKW/@@download/ENCFF168QKW.tsv	V29
+ENCFF646AQL	total RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF646AQL/@@download/ENCFF646AQL.tsv	V29
+ENCFF649XOG	total RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF649XOG/@@download/ENCFF649XOG.tsv	V29
+ENCFF818SGG	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF818SGG/@@download/ENCFF818SGG.tsv	V29
+ENCFF048QVN	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF048QVN/@@download/ENCFF048QVN.tsv	V29
+ENCFF644XSV	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF644XSV/@@download/ENCFF644XSV.tsv	V29
+ENCFF138OAS	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF138OAS/@@download/ENCFF138OAS.tsv	V29
+ENCFF210FWG	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF210FWG/@@download/ENCFF210FWG.tsv	V29
+ENCFF349PPC	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF349PPC/@@download/ENCFF349PPC.tsv	V29
+ENCFF781LKS	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF781LKS/@@download/ENCFF781LKS.tsv	V29
+ENCFF786CFB	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF786CFB/@@download/ENCFF786CFB.tsv	V29
+ENCFF119KXQ	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF119KXQ/@@download/ENCFF119KXQ.tsv	V29
+ENCFF308OYV	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF308OYV/@@download/ENCFF308OYV.tsv	V29
+ENCFF336WOX	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF336WOX/@@download/ENCFF336WOX.tsv	V29
+ENCFF006QOZ	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF006QOZ/@@download/ENCFF006QOZ.tsv	V29
+ENCFF279TNV	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF279TNV/@@download/ENCFF279TNV.tsv	V29
+ENCFF418CMQ	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF418CMQ/@@download/ENCFF418CMQ.tsv	V29
+ENCFF863QWG	total RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF863QWG/@@download/ENCFF863QWG.tsv	V29
+ENCFF103FSL	total RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF103FSL/@@download/ENCFF103FSL.tsv	V29
+ENCFF692QVJ	total RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF692QVJ/@@download/ENCFF692QVJ.tsv	V29
+ENCFF355TDA	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF355TDA/@@download/ENCFF355TDA.tsv	V29
+ENCFF073RKC	polyA plus RNA-seq	GRCh38	gene quantifications	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF073RKC/@@download/ENCFF073RKC.tsv	V29
+ENCFF113VII	DNase-seq	GRCh38	read-depth normalized signal	HepG2	cell line	nan	2	2_1	https://www.encodeproject.org/files/ENCFF113VII/@@download/ENCFF113VII.bigWig	nan
+ENCFF546MZK	DNase-seq	GRCh38	read-depth normalized signal	HepG2	cell line	nan	1	1_1	https://www.encodeproject.org/files/ENCFF546MZK/@@download/ENCFF546MZK.bigWig	nan
+ENCFF714ISB	DNase-seq	GRCh38	read-depth normalized signal	HepG2	cell line	nan	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF714ISB/@@download/ENCFF714ISB.bigWig	nan
+ENCFF209UBS	Histone ChIP-seq	GRCh38	fold change over control	HepG2	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF209UBS/@@download/ENCFF209UBS.bigWig	nan
+ENCFF849WPQ	Histone ChIP-seq	GRCh38	fold change over control	HepG2	cell line	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF849WPQ/@@download/ENCFF849WPQ.bigWig	nan
+ENCFF732PJK	Histone ChIP-seq	GRCh38	fold change over control	HepG2	cell line	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF732PJK/@@download/ENCFF732PJK.bigWig	nan
+ENCFF785EQB	Histone ChIP-seq	GRCh38	fold change over control	HepG2	cell line	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF785EQB/@@download/ENCFF785EQB.bigWig	nan
+ENCFF284FVP	Histone ChIP-seq	GRCh38	fold change over control	HepG2	cell line	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF284FVP/@@download/ENCFF284FVP.bigWig	nan
+ENCFF053XDJ	Histone ChIP-seq	GRCh38	fold change over control	HepG2	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF053XDJ/@@download/ENCFF053XDJ.bigWig	nan
+ENCFF939CWL	TF ChIP-seq	GRCh38	fold change over control	HepG2	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF939CWL/@@download/ENCFF939CWL.bigWig	nan
+ENCFF221HFK	TF ChIP-seq	GRCh38	fold change over control	HepG2	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF221HFK/@@download/ENCFF221HFK.bigWig	nan
+ENCFF579BUC	TF ChIP-seq	GRCh38	fold change over control	HepG2	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF579BUC/@@download/ENCFF579BUC.bigWig	nan
+ENCFF839AXT	TF ChIP-seq	GRCh38	fold change over control	HepG2	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF839AXT/@@download/ENCFF839AXT.bigWig	nan
+ENCFF523VNT	TF ChIP-seq	GRCh38	fold change over control	HepG2	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF523VNT/@@download/ENCFF523VNT.bigWig	nan
+ENCFF841SRT	TF ChIP-seq	GRCh38	fold change over control	HepG2	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF841SRT/@@download/ENCFF841SRT.bigWig	nan
+ENCFF992REP	Histone ChIP-seq	GRCh38	fold change over control	HepG2	cell line	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF992REP/@@download/ENCFF992REP.bigWig	nan
+ENCFF981CDI	Histone ChIP-seq	GRCh38	fold change over control	HepG2	cell line	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF981CDI/@@download/ENCFF981CDI.bigWig	nan
+ENCFF500VAH	Histone ChIP-seq	GRCh38	fold change over control	HepG2	cell line	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF500VAH/@@download/ENCFF500VAH.bigWig	nan
+ENCFF759SNY	Histone ChIP-seq	GRCh38	fold change over control	HepG2	cell line	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF759SNY/@@download/ENCFF759SNY.bigWig	nan
+ENCFF515WSE	Histone ChIP-seq	GRCh38	fold change over control	HepG2	cell line	H3K27ac-human	3	3_1, 3_2	https://www.encodeproject.org/files/ENCFF515WSE/@@download/ENCFF515WSE.bigWig	nan
+ENCFF084DIM	Histone ChIP-seq	GRCh38	fold change over control	HepG2	cell line	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF084DIM/@@download/ENCFF084DIM.bigWig	nan
+ENCFF022TZG	Histone ChIP-seq	GRCh38	fold change over control	HepG2	cell line	H3K27ac-human	1, 2, 3	1_1, 2_1, 3_1, 3_2	https://www.encodeproject.org/files/ENCFF022TZG/@@download/ENCFF022TZG.bigWig	nan
+ENCFF853OQL	TF ChIP-seq	GRCh38	fold change over control	HepG2	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF853OQL/@@download/ENCFF853OQL.bigWig	nan
+ENCFF168NFO	TF ChIP-seq	GRCh38	fold change over control	HepG2	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF168NFO/@@download/ENCFF168NFO.bigWig	nan
+ENCFF357NFO	TF ChIP-seq	GRCh38	fold change over control	HepG2	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF357NFO/@@download/ENCFF357NFO.bigWig	nan
+ENCFF160QOX	TF ChIP-seq	GRCh38	fold change over control	HepG2	cell line	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF160QOX/@@download/ENCFF160QOX.bigWig	nan
+ENCFF172JWP	TF ChIP-seq	GRCh38	fold change over control	HepG2	cell line	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF172JWP/@@download/ENCFF172JWP.bigWig	nan
+ENCFF029RTI	TF ChIP-seq	GRCh38	fold change over control	HepG2	cell line	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF029RTI/@@download/ENCFF029RTI.bigWig	nan

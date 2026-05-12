@@ -1,0 +1,371 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF693QKW	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF693QKW/@@download/ENCFF693QKW.tsv	V29
+ENCFF128CDN	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF128CDN/@@download/ENCFF128CDN.tsv	V29
+ENCFF847QGH	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF847QGH/@@download/ENCFF847QGH.tsv	V29
+ENCFF981VSM	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF981VSM/@@download/ENCFF981VSM.tsv	V29
+ENCFF937QJI	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF937QJI/@@download/ENCFF937QJI.tsv	V29
+ENCFF203FBD	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF203FBD/@@download/ENCFF203FBD.tsv	V29
+ENCFF962YZZ	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF962YZZ/@@download/ENCFF962YZZ.tsv	V29
+ENCFF509MZI	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF509MZI/@@download/ENCFF509MZI.tsv	V29
+ENCFF870FXA	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF870FXA/@@download/ENCFF870FXA.tsv	V29
+ENCFF257ZGZ	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF257ZGZ/@@download/ENCFF257ZGZ.tsv	V29
+ENCFF191XON	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF191XON/@@download/ENCFF191XON.tsv	V29
+ENCFF770BLB	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF770BLB/@@download/ENCFF770BLB.tsv	V29
+ENCFF787TLF	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF787TLF/@@download/ENCFF787TLF.tsv	V29
+ENCFF658HZK	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF658HZK/@@download/ENCFF658HZK.tsv	V29
+ENCFF342TEJ	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF342TEJ/@@download/ENCFF342TEJ.tsv	V29
+ENCFF078MHA	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF078MHA/@@download/ENCFF078MHA.tsv	V29
+ENCFF204SPU	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF204SPU/@@download/ENCFF204SPU.tsv	V29
+ENCFF356KVK	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF356KVK/@@download/ENCFF356KVK.tsv	V29
+ENCFF259IAM	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF259IAM/@@download/ENCFF259IAM.tsv	V29
+ENCFF993SOA	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF993SOA/@@download/ENCFF993SOA.tsv	V29
+ENCFF016SIN	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF016SIN/@@download/ENCFF016SIN.tsv	V29
+ENCFF864KUN	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF864KUN/@@download/ENCFF864KUN.tsv	V29
+ENCFF269MUV	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF269MUV/@@download/ENCFF269MUV.tsv	V29
+ENCFF244BBE	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF244BBE/@@download/ENCFF244BBE.tsv	V29
+ENCFF717NTL	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF717NTL/@@download/ENCFF717NTL.tsv	V29
+ENCFF290QSC	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF290QSC/@@download/ENCFF290QSC.tsv	V29
+ENCFF763RPV	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF763RPV/@@download/ENCFF763RPV.tsv	V29
+ENCFF282AKI	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF282AKI/@@download/ENCFF282AKI.tsv	V29
+ENCFF322BPU	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF322BPU/@@download/ENCFF322BPU.tsv	V29
+ENCFF108ZQE	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF108ZQE/@@download/ENCFF108ZQE.tsv	V29
+ENCFF324OWT	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF324OWT/@@download/ENCFF324OWT.tsv	V29
+ENCFF312WUT	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF312WUT/@@download/ENCFF312WUT.tsv	V29
+ENCFF248LJB	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF248LJB/@@download/ENCFF248LJB.tsv	V29
+ENCFF677FGG	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF677FGG/@@download/ENCFF677FGG.tsv	V29
+ENCFF436IXA	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF436IXA/@@download/ENCFF436IXA.tsv	V29
+ENCFF479KNI	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF479KNI/@@download/ENCFF479KNI.tsv	V29
+ENCFF166SFX	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF166SFX/@@download/ENCFF166SFX.tsv	V29
+ENCFF574KNI	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF574KNI/@@download/ENCFF574KNI.tsv	V29
+ENCFF080KYI	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF080KYI/@@download/ENCFF080KYI.tsv	V29
+ENCFF822OZH	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF822OZH/@@download/ENCFF822OZH.tsv	V29
+ENCFF311IDM	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF311IDM/@@download/ENCFF311IDM.tsv	V29
+ENCFF602ENR	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF602ENR/@@download/ENCFF602ENR.tsv	V29
+ENCFF530JCI	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF530JCI/@@download/ENCFF530JCI.tsv	V29
+ENCFF009AKE	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF009AKE/@@download/ENCFF009AKE.tsv	V29
+ENCFF533JMS	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF533JMS/@@download/ENCFF533JMS.tsv	V29
+ENCFF528OCH	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF528OCH/@@download/ENCFF528OCH.tsv	V29
+ENCFF762VOE	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF762VOE/@@download/ENCFF762VOE.tsv	V29
+ENCFF212FYI	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF212FYI/@@download/ENCFF212FYI.tsv	V29
+ENCFF041HBD	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF041HBD/@@download/ENCFF041HBD.tsv	V29
+ENCFF879JZU	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF879JZU/@@download/ENCFF879JZU.tsv	V29
+ENCFF361FBY	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF361FBY/@@download/ENCFF361FBY.tsv	V29
+ENCFF957XRW	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF957XRW/@@download/ENCFF957XRW.tsv	V29
+ENCFF586KEK	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF586KEK/@@download/ENCFF586KEK.tsv	V29
+ENCFF725USM	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF725USM/@@download/ENCFF725USM.tsv	V29
+ENCFF624FHC	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF624FHC/@@download/ENCFF624FHC.tsv	V29
+ENCFF421AEY	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF421AEY/@@download/ENCFF421AEY.tsv	V29
+ENCFF738TVC	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF738TVC/@@download/ENCFF738TVC.tsv	V29
+ENCFF140UDW	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF140UDW/@@download/ENCFF140UDW.tsv	V29
+ENCFF094UQH	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF094UQH/@@download/ENCFF094UQH.tsv	V29
+ENCFF844PRN	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF844PRN/@@download/ENCFF844PRN.tsv	V29
+ENCFF905NDM	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF905NDM/@@download/ENCFF905NDM.tsv	V29
+ENCFF385ZWK	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF385ZWK/@@download/ENCFF385ZWK.tsv	V29
+ENCFF400XMJ	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF400XMJ/@@download/ENCFF400XMJ.tsv	V29
+ENCFF563JCI	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF563JCI/@@download/ENCFF563JCI.tsv	V29
+ENCFF899VMA	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF899VMA/@@download/ENCFF899VMA.tsv	V29
+ENCFF940JVD	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF940JVD/@@download/ENCFF940JVD.tsv	V29
+ENCFF938UHX	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF938UHX/@@download/ENCFF938UHX.tsv	V29
+ENCFF417ERE	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF417ERE/@@download/ENCFF417ERE.tsv	V29
+ENCFF285PGS	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF285PGS/@@download/ENCFF285PGS.tsv	V29
+ENCFF707GIJ	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF707GIJ/@@download/ENCFF707GIJ.tsv	V29
+ENCFF788PUW	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF788PUW/@@download/ENCFF788PUW.tsv	V29
+ENCFF420LNV	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF420LNV/@@download/ENCFF420LNV.tsv	V29
+ENCFF294WML	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF294WML/@@download/ENCFF294WML.tsv	V29
+ENCFF468ZUM	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF468ZUM/@@download/ENCFF468ZUM.tsv	V29
+ENCFF248BUD	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF248BUD/@@download/ENCFF248BUD.tsv	V29
+ENCFF863VLR	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF863VLR/@@download/ENCFF863VLR.tsv	V29
+ENCFF570NEW	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF570NEW/@@download/ENCFF570NEW.tsv	V29
+ENCFF439QZQ	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF439QZQ/@@download/ENCFF439QZQ.tsv	V29
+ENCFF970MGQ	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF970MGQ/@@download/ENCFF970MGQ.tsv	V29
+ENCFF614VLQ	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF614VLQ/@@download/ENCFF614VLQ.tsv	V29
+ENCFF190RSI	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF190RSI/@@download/ENCFF190RSI.tsv	V29
+ENCFF072DPH	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF072DPH/@@download/ENCFF072DPH.tsv	V29
+ENCFF912LYR	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF912LYR/@@download/ENCFF912LYR.tsv	V29
+ENCFF308RJT	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF308RJT/@@download/ENCFF308RJT.tsv	V29
+ENCFF345KPY	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF345KPY/@@download/ENCFF345KPY.tsv	V29
+ENCFF823FJI	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF823FJI/@@download/ENCFF823FJI.tsv	V29
+ENCFF126LTZ	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF126LTZ/@@download/ENCFF126LTZ.tsv	V29
+ENCFF042XFA	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF042XFA/@@download/ENCFF042XFA.tsv	V29
+ENCFF201RLT	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF201RLT/@@download/ENCFF201RLT.tsv	V29
+ENCFF952AHW	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF952AHW/@@download/ENCFF952AHW.tsv	V29
+ENCFF884HHH	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF884HHH/@@download/ENCFF884HHH.tsv	V29
+ENCFF225RKJ	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF225RKJ/@@download/ENCFF225RKJ.tsv	V29
+ENCFF962ADM	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF962ADM/@@download/ENCFF962ADM.tsv	V29
+ENCFF742RKK	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF742RKK/@@download/ENCFF742RKK.tsv	V29
+ENCFF621QOF	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF621QOF/@@download/ENCFF621QOF.tsv	V29
+ENCFF278HPR	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF278HPR/@@download/ENCFF278HPR.tsv	V29
+ENCFF180CEK	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF180CEK/@@download/ENCFF180CEK.tsv	V29
+ENCFF899PWS	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF899PWS/@@download/ENCFF899PWS.tsv	V29
+ENCFF258ANV	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF258ANV/@@download/ENCFF258ANV.tsv	V29
+ENCFF389KXF	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF389KXF/@@download/ENCFF389KXF.tsv	V29
+ENCFF647WIN	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF647WIN/@@download/ENCFF647WIN.tsv	V29
+ENCFF872OGS	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF872OGS/@@download/ENCFF872OGS.tsv	V29
+ENCFF845ONN	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF845ONN/@@download/ENCFF845ONN.tsv	V29
+ENCFF603NKR	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF603NKR/@@download/ENCFF603NKR.tsv	V29
+ENCFF539RBY	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF539RBY/@@download/ENCFF539RBY.tsv	V29
+ENCFF354MPI	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF354MPI/@@download/ENCFF354MPI.tsv	V29
+ENCFF589PEM	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF589PEM/@@download/ENCFF589PEM.tsv	V29
+ENCFF469DDY	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF469DDY/@@download/ENCFF469DDY.tsv	V29
+ENCFF808SYD	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF808SYD/@@download/ENCFF808SYD.tsv	V29
+ENCFF277IHW	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF277IHW/@@download/ENCFF277IHW.tsv	V29
+ENCFF110DTT	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF110DTT/@@download/ENCFF110DTT.tsv	V29
+ENCFF284VFV	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF284VFV/@@download/ENCFF284VFV.tsv	V29
+ENCFF687GJE	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF687GJE/@@download/ENCFF687GJE.tsv	V29
+ENCFF213UOU	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF213UOU/@@download/ENCFF213UOU.tsv	V29
+ENCFF588RXF	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF588RXF/@@download/ENCFF588RXF.tsv	V29
+ENCFF258FWH	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF258FWH/@@download/ENCFF258FWH.tsv	V29
+ENCFF325VHJ	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF325VHJ/@@download/ENCFF325VHJ.tsv	V29
+ENCFF992KRW	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF992KRW/@@download/ENCFF992KRW.tsv	V29
+ENCFF213NBT	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF213NBT/@@download/ENCFF213NBT.tsv	V29
+ENCFF780QZB	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF780QZB/@@download/ENCFF780QZB.tsv	V29
+ENCFF901GOX	total RNA-seq	GRCh38	gene quantifications	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF901GOX/@@download/ENCFF901GOX.tsv	V29
+ENCFF980SJY	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF980SJY/@@download/ENCFF980SJY.bigWig	nan
+ENCFF732ABI	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF732ABI/@@download/ENCFF732ABI.bigWig	nan
+ENCFF013AMD	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF013AMD/@@download/ENCFF013AMD.bigWig	nan
+ENCFF675NNX	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF675NNX/@@download/ENCFF675NNX.bigWig	nan
+ENCFF359QRX	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF359QRX/@@download/ENCFF359QRX.bigWig	nan
+ENCFF987RXP	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF987RXP/@@download/ENCFF987RXP.bigWig	nan
+ENCFF571QPS	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF571QPS/@@download/ENCFF571QPS.bigWig	nan
+ENCFF767BTZ	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF767BTZ/@@download/ENCFF767BTZ.bigWig	nan
+ENCFF463EIN	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF463EIN/@@download/ENCFF463EIN.bigWig	nan
+ENCFF018BZK	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF018BZK/@@download/ENCFF018BZK.bigWig	nan
+ENCFF068GXP	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF068GXP/@@download/ENCFF068GXP.bigWig	nan
+ENCFF793FUR	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF793FUR/@@download/ENCFF793FUR.bigWig	nan
+ENCFF686DIT	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF686DIT/@@download/ENCFF686DIT.bigWig	nan
+ENCFF986YEI	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF986YEI/@@download/ENCFF986YEI.bigWig	nan
+ENCFF456EHL	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF456EHL/@@download/ENCFF456EHL.bigWig	nan
+ENCFF592RWK	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF592RWK/@@download/ENCFF592RWK.bigWig	nan
+ENCFF604AYM	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF604AYM/@@download/ENCFF604AYM.bigWig	nan
+ENCFF541ZVM	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF541ZVM/@@download/ENCFF541ZVM.bigWig	nan
+ENCFF032ITK	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF032ITK/@@download/ENCFF032ITK.bigWig	nan
+ENCFF477CEG	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF477CEG/@@download/ENCFF477CEG.bigWig	nan
+ENCFF318DDE	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF318DDE/@@download/ENCFF318DDE.bigWig	nan
+ENCFF498PAW	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF498PAW/@@download/ENCFF498PAW.bigWig	nan
+ENCFF769AFQ	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF769AFQ/@@download/ENCFF769AFQ.bigWig	nan
+ENCFF632MSC	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF632MSC/@@download/ENCFF632MSC.bigWig	nan
+ENCFF715WQG	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF715WQG/@@download/ENCFF715WQG.bigWig	nan
+ENCFF284PMB	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF284PMB/@@download/ENCFF284PMB.bigWig	nan
+ENCFF874WYJ	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF874WYJ/@@download/ENCFF874WYJ.bigWig	nan
+ENCFF686OEZ	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF686OEZ/@@download/ENCFF686OEZ.bigWig	nan
+ENCFF427FGG	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF427FGG/@@download/ENCFF427FGG.bigWig	nan
+ENCFF278VYR	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF278VYR/@@download/ENCFF278VYR.bigWig	nan
+ENCFF753DPM	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF753DPM/@@download/ENCFF753DPM.bigWig	nan
+ENCFF492WAE	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF492WAE/@@download/ENCFF492WAE.bigWig	nan
+ENCFF878ZQA	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF878ZQA/@@download/ENCFF878ZQA.bigWig	nan
+ENCFF286BFK	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF286BFK/@@download/ENCFF286BFK.bigWig	nan
+ENCFF554VOU	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF554VOU/@@download/ENCFF554VOU.bigWig	nan
+ENCFF258AWM	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF258AWM/@@download/ENCFF258AWM.bigWig	nan
+ENCFF676RAT	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF676RAT/@@download/ENCFF676RAT.bigWig	nan
+ENCFF163NDW	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF163NDW/@@download/ENCFF163NDW.bigWig	nan
+ENCFF084QJF	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF084QJF/@@download/ENCFF084QJF.bigWig	nan
+ENCFF179VUT	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF179VUT/@@download/ENCFF179VUT.bigWig	nan
+ENCFF796XMI	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF796XMI/@@download/ENCFF796XMI.bigWig	nan
+ENCFF397SMJ	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF397SMJ/@@download/ENCFF397SMJ.bigWig	nan
+ENCFF497DIH	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF497DIH/@@download/ENCFF497DIH.bigWig	nan
+ENCFF305XCA	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF305XCA/@@download/ENCFF305XCA.bigWig	nan
+ENCFF052CPA	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF052CPA/@@download/ENCFF052CPA.bigWig	nan
+ENCFF036SMP	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF036SMP/@@download/ENCFF036SMP.bigWig	nan
+ENCFF813QPY	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF813QPY/@@download/ENCFF813QPY.bigWig	nan
+ENCFF521HEY	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF521HEY/@@download/ENCFF521HEY.bigWig	nan
+ENCFF636BNY	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF636BNY/@@download/ENCFF636BNY.bigWig	nan
+ENCFF813UXN	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF813UXN/@@download/ENCFF813UXN.bigWig	nan
+ENCFF737EDS	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF737EDS/@@download/ENCFF737EDS.bigWig	nan
+ENCFF831FJX	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF831FJX/@@download/ENCFF831FJX.bigWig	nan
+ENCFF412TKS	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF412TKS/@@download/ENCFF412TKS.bigWig	nan
+ENCFF799QGM	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF799QGM/@@download/ENCFF799QGM.bigWig	nan
+ENCFF973OZS	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF973OZS/@@download/ENCFF973OZS.bigWig	nan
+ENCFF497CVA	DNase-seq	GRCh38	read-depth normalized signal	dorsolateral prefrontal cortex	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF497CVA/@@download/ENCFF497CVA.bigWig	nan
+ENCFF953XEN	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF953XEN/@@download/ENCFF953XEN.bigWig	nan
+ENCFF697ZLK	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF697ZLK/@@download/ENCFF697ZLK.bigWig	nan
+ENCFF182WZD	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF182WZD/@@download/ENCFF182WZD.bigWig	nan
+ENCFF950IOX	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF950IOX/@@download/ENCFF950IOX.bigWig	nan
+ENCFF084JUK	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_3	https://www.encodeproject.org/files/ENCFF084JUK/@@download/ENCFF084JUK.bigWig	nan
+ENCFF576TRI	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF576TRI/@@download/ENCFF576TRI.bigWig	nan
+ENCFF256VRG	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_3	https://www.encodeproject.org/files/ENCFF256VRG/@@download/ENCFF256VRG.bigWig	nan
+ENCFF263VJQ	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF263VJQ/@@download/ENCFF263VJQ.bigWig	nan
+ENCFF242WZH	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF242WZH/@@download/ENCFF242WZH.bigWig	nan
+ENCFF111MOL	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF111MOL/@@download/ENCFF111MOL.bigWig	nan
+ENCFF752DGV	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF752DGV/@@download/ENCFF752DGV.bigWig	nan
+ENCFF637YWI	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF637YWI/@@download/ENCFF637YWI.bigWig	nan
+ENCFF817ABM	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF817ABM/@@download/ENCFF817ABM.bigWig	nan
+ENCFF089ALU	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF089ALU/@@download/ENCFF089ALU.bigWig	nan
+ENCFF686LXM	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF686LXM/@@download/ENCFF686LXM.bigWig	nan
+ENCFF914PSJ	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF914PSJ/@@download/ENCFF914PSJ.bigWig	nan
+ENCFF280YLT	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF280YLT/@@download/ENCFF280YLT.bigWig	nan
+ENCFF679HCC	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF679HCC/@@download/ENCFF679HCC.bigWig	nan
+ENCFF986LOD	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF986LOD/@@download/ENCFF986LOD.bigWig	nan
+ENCFF100JXF	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF100JXF/@@download/ENCFF100JXF.bigWig	nan
+ENCFF005KPT	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF005KPT/@@download/ENCFF005KPT.bigWig	nan
+ENCFF924IJQ	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF924IJQ/@@download/ENCFF924IJQ.bigWig	nan
+ENCFF889QTE	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF889QTE/@@download/ENCFF889QTE.bigWig	nan
+ENCFF971OSG	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF971OSG/@@download/ENCFF971OSG.bigWig	nan
+ENCFF685BLE	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF685BLE/@@download/ENCFF685BLE.bigWig	nan
+ENCFF461GFM	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF461GFM/@@download/ENCFF461GFM.bigWig	nan
+ENCFF250VKH	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF250VKH/@@download/ENCFF250VKH.bigWig	nan
+ENCFF294PRX	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF294PRX/@@download/ENCFF294PRX.bigWig	nan
+ENCFF942YRH	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF942YRH/@@download/ENCFF942YRH.bigWig	nan
+ENCFF543PRC	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF543PRC/@@download/ENCFF543PRC.bigWig	nan
+ENCFF258OMT	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF258OMT/@@download/ENCFF258OMT.bigWig	nan
+ENCFF910VLV	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF910VLV/@@download/ENCFF910VLV.bigWig	nan
+ENCFF563YFA	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF563YFA/@@download/ENCFF563YFA.bigWig	nan
+ENCFF423POG	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF423POG/@@download/ENCFF423POG.bigWig	nan
+ENCFF360KNR	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF360KNR/@@download/ENCFF360KNR.bigWig	nan
+ENCFF224JSW	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF224JSW/@@download/ENCFF224JSW.bigWig	nan
+ENCFF198NDW	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF198NDW/@@download/ENCFF198NDW.bigWig	nan
+ENCFF713LKP	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF713LKP/@@download/ENCFF713LKP.bigWig	nan
+ENCFF499ALA	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF499ALA/@@download/ENCFF499ALA.bigWig	nan
+ENCFF066MLC	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF066MLC/@@download/ENCFF066MLC.bigWig	nan
+ENCFF006AKV	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF006AKV/@@download/ENCFF006AKV.bigWig	nan
+ENCFF383TGX	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF383TGX/@@download/ENCFF383TGX.bigWig	nan
+ENCFF507KAZ	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF507KAZ/@@download/ENCFF507KAZ.bigWig	nan
+ENCFF352MMI	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF352MMI/@@download/ENCFF352MMI.bigWig	nan
+ENCFF489BZS	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF489BZS/@@download/ENCFF489BZS.bigWig	nan
+ENCFF433RNM	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF433RNM/@@download/ENCFF433RNM.bigWig	nan
+ENCFF693AEK	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF693AEK/@@download/ENCFF693AEK.bigWig	nan
+ENCFF653MQB	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF653MQB/@@download/ENCFF653MQB.bigWig	nan
+ENCFF812RLY	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF812RLY/@@download/ENCFF812RLY.bigWig	nan
+ENCFF961RFY	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF961RFY/@@download/ENCFF961RFY.bigWig	nan
+ENCFF398ITJ	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF398ITJ/@@download/ENCFF398ITJ.bigWig	nan
+ENCFF834IHE	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF834IHE/@@download/ENCFF834IHE.bigWig	nan
+ENCFF982KVV	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF982KVV/@@download/ENCFF982KVV.bigWig	nan
+ENCFF018QTQ	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF018QTQ/@@download/ENCFF018QTQ.bigWig	nan
+ENCFF992YXC	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF992YXC/@@download/ENCFF992YXC.bigWig	nan
+ENCFF365ANP	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF365ANP/@@download/ENCFF365ANP.bigWig	nan
+ENCFF111ACH	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF111ACH/@@download/ENCFF111ACH.bigWig	nan
+ENCFF264VOP	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF264VOP/@@download/ENCFF264VOP.bigWig	nan
+ENCFF119MEO	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF119MEO/@@download/ENCFF119MEO.bigWig	nan
+ENCFF930CAU	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF930CAU/@@download/ENCFF930CAU.bigWig	nan
+ENCFF220GPW	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF220GPW/@@download/ENCFF220GPW.bigWig	nan
+ENCFF741DPN	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF741DPN/@@download/ENCFF741DPN.bigWig	nan
+ENCFF745ELD	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF745ELD/@@download/ENCFF745ELD.bigWig	nan
+ENCFF679AWS	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF679AWS/@@download/ENCFF679AWS.bigWig	nan
+ENCFF871ZNR	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF871ZNR/@@download/ENCFF871ZNR.bigWig	nan
+ENCFF645KXB	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF645KXB/@@download/ENCFF645KXB.bigWig	nan
+ENCFF484WVU	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF484WVU/@@download/ENCFF484WVU.bigWig	nan
+ENCFF949QEL	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF949QEL/@@download/ENCFF949QEL.bigWig	nan
+ENCFF965MWV	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF965MWV/@@download/ENCFF965MWV.bigWig	nan
+ENCFF673MXX	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF673MXX/@@download/ENCFF673MXX.bigWig	nan
+ENCFF868MMO	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF868MMO/@@download/ENCFF868MMO.bigWig	nan
+ENCFF703DMY	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF703DMY/@@download/ENCFF703DMY.bigWig	nan
+ENCFF303MTI	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF303MTI/@@download/ENCFF303MTI.bigWig	nan
+ENCFF280OBE	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF280OBE/@@download/ENCFF280OBE.bigWig	nan
+ENCFF586MLV	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF586MLV/@@download/ENCFF586MLV.bigWig	nan
+ENCFF203LSD	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF203LSD/@@download/ENCFF203LSD.bigWig	nan
+ENCFF646KVN	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF646KVN/@@download/ENCFF646KVN.bigWig	nan
+ENCFF580GFO	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF580GFO/@@download/ENCFF580GFO.bigWig	nan
+ENCFF224LYA	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF224LYA/@@download/ENCFF224LYA.bigWig	nan
+ENCFF081IRZ	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF081IRZ/@@download/ENCFF081IRZ.bigWig	nan
+ENCFF984DOS	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF984DOS/@@download/ENCFF984DOS.bigWig	nan
+ENCFF058LCY	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF058LCY/@@download/ENCFF058LCY.bigWig	nan
+ENCFF120TVE	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF120TVE/@@download/ENCFF120TVE.bigWig	nan
+ENCFF816YAI	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF816YAI/@@download/ENCFF816YAI.bigWig	nan
+ENCFF878BKX	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF878BKX/@@download/ENCFF878BKX.bigWig	nan
+ENCFF969AJT	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF969AJT/@@download/ENCFF969AJT.bigWig	nan
+ENCFF282BRJ	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF282BRJ/@@download/ENCFF282BRJ.bigWig	nan
+ENCFF862YHY	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF862YHY/@@download/ENCFF862YHY.bigWig	nan
+ENCFF220KZL	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF220KZL/@@download/ENCFF220KZL.bigWig	nan
+ENCFF345GCX	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF345GCX/@@download/ENCFF345GCX.bigWig	nan
+ENCFF194KAZ	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF194KAZ/@@download/ENCFF194KAZ.bigWig	nan
+ENCFF401ANO	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF401ANO/@@download/ENCFF401ANO.bigWig	nan
+ENCFF792SZA	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF792SZA/@@download/ENCFF792SZA.bigWig	nan
+ENCFF409LLA	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF409LLA/@@download/ENCFF409LLA.bigWig	nan
+ENCFF888DOQ	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF888DOQ/@@download/ENCFF888DOQ.bigWig	nan
+ENCFF646GXZ	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF646GXZ/@@download/ENCFF646GXZ.bigWig	nan
+ENCFF478CLR	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF478CLR/@@download/ENCFF478CLR.bigWig	nan
+ENCFF519CLG	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF519CLG/@@download/ENCFF519CLG.bigWig	nan
+ENCFF542HTC	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF542HTC/@@download/ENCFF542HTC.bigWig	nan
+ENCFF272DJL	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF272DJL/@@download/ENCFF272DJL.bigWig	nan
+ENCFF238JTO	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF238JTO/@@download/ENCFF238JTO.bigWig	nan
+ENCFF798XFR	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF798XFR/@@download/ENCFF798XFR.bigWig	nan
+ENCFF891CZD	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF891CZD/@@download/ENCFF891CZD.bigWig	nan
+ENCFF685MPU	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF685MPU/@@download/ENCFF685MPU.bigWig	nan
+ENCFF701XQB	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF701XQB/@@download/ENCFF701XQB.bigWig	nan
+ENCFF867WWB	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF867WWB/@@download/ENCFF867WWB.bigWig	nan
+ENCFF711EZK	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF711EZK/@@download/ENCFF711EZK.bigWig	nan
+ENCFF968SXQ	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF968SXQ/@@download/ENCFF968SXQ.bigWig	nan
+ENCFF658QWN	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF658QWN/@@download/ENCFF658QWN.bigWig	nan
+ENCFF820MMW	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF820MMW/@@download/ENCFF820MMW.bigWig	nan
+ENCFF417AGZ	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF417AGZ/@@download/ENCFF417AGZ.bigWig	nan
+ENCFF261GPQ	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF261GPQ/@@download/ENCFF261GPQ.bigWig	nan
+ENCFF732JQY	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF732JQY/@@download/ENCFF732JQY.bigWig	nan
+ENCFF046NYM	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF046NYM/@@download/ENCFF046NYM.bigWig	nan
+ENCFF294XWZ	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF294XWZ/@@download/ENCFF294XWZ.bigWig	nan
+ENCFF800TZW	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF800TZW/@@download/ENCFF800TZW.bigWig	nan
+ENCFF695EYC	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF695EYC/@@download/ENCFF695EYC.bigWig	nan
+ENCFF345SEW	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF345SEW/@@download/ENCFF345SEW.bigWig	nan
+ENCFF794RDI	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF794RDI/@@download/ENCFF794RDI.bigWig	nan
+ENCFF127DBK	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF127DBK/@@download/ENCFF127DBK.bigWig	nan
+ENCFF617PMJ	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF617PMJ/@@download/ENCFF617PMJ.bigWig	nan
+ENCFF351UFG	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF351UFG/@@download/ENCFF351UFG.bigWig	nan
+ENCFF889GHD	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF889GHD/@@download/ENCFF889GHD.bigWig	nan
+ENCFF394BNS	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF394BNS/@@download/ENCFF394BNS.bigWig	nan
+ENCFF374AEG	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF374AEG/@@download/ENCFF374AEG.bigWig	nan
+ENCFF435BRK	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF435BRK/@@download/ENCFF435BRK.bigWig	nan
+ENCFF396NOB	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF396NOB/@@download/ENCFF396NOB.bigWig	nan
+ENCFF045QDC	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF045QDC/@@download/ENCFF045QDC.bigWig	nan
+ENCFF146PYE	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF146PYE/@@download/ENCFF146PYE.bigWig	nan
+ENCFF380WZB	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF380WZB/@@download/ENCFF380WZB.bigWig	nan
+ENCFF353SJI	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF353SJI/@@download/ENCFF353SJI.bigWig	nan
+ENCFF922WUL	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF922WUL/@@download/ENCFF922WUL.bigWig	nan
+ENCFF419XND	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF419XND/@@download/ENCFF419XND.bigWig	nan
+ENCFF193AAN	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF193AAN/@@download/ENCFF193AAN.bigWig	nan
+ENCFF962GLK	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF962GLK/@@download/ENCFF962GLK.bigWig	nan
+ENCFF754BJX	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF754BJX/@@download/ENCFF754BJX.bigWig	nan
+ENCFF554FTX	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF554FTX/@@download/ENCFF554FTX.bigWig	nan
+ENCFF649LLS	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF649LLS/@@download/ENCFF649LLS.bigWig	nan
+ENCFF385OAX	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF385OAX/@@download/ENCFF385OAX.bigWig	nan
+ENCFF909JLH	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF909JLH/@@download/ENCFF909JLH.bigWig	nan
+ENCFF450HJC	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF450HJC/@@download/ENCFF450HJC.bigWig	nan
+ENCFF848OVX	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF848OVX/@@download/ENCFF848OVX.bigWig	nan
+ENCFF341CQE	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF341CQE/@@download/ENCFF341CQE.bigWig	nan
+ENCFF666VNK	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF666VNK/@@download/ENCFF666VNK.bigWig	nan
+ENCFF436OWL	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF436OWL/@@download/ENCFF436OWL.bigWig	nan
+ENCFF729DUW	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF729DUW/@@download/ENCFF729DUW.bigWig	nan
+ENCFF480FCW	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF480FCW/@@download/ENCFF480FCW.bigWig	nan
+ENCFF523VVA	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF523VVA/@@download/ENCFF523VVA.bigWig	nan
+ENCFF884XLS	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF884XLS/@@download/ENCFF884XLS.bigWig	nan
+ENCFF562LUZ	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF562LUZ/@@download/ENCFF562LUZ.bigWig	nan
+ENCFF014NIB	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF014NIB/@@download/ENCFF014NIB.bigWig	nan
+ENCFF156YTC	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF156YTC/@@download/ENCFF156YTC.bigWig	nan
+ENCFF028IBW	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF028IBW/@@download/ENCFF028IBW.bigWig	nan
+ENCFF484YUA	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF484YUA/@@download/ENCFF484YUA.bigWig	nan
+ENCFF298AQY	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF298AQY/@@download/ENCFF298AQY.bigWig	nan
+ENCFF782LSR	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF782LSR/@@download/ENCFF782LSR.bigWig	nan
+ENCFF888YYK	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF888YYK/@@download/ENCFF888YYK.bigWig	nan
+ENCFF557GVR	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF557GVR/@@download/ENCFF557GVR.bigWig	nan
+ENCFF326PAG	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF326PAG/@@download/ENCFF326PAG.bigWig	nan
+ENCFF750UAD	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF750UAD/@@download/ENCFF750UAD.bigWig	nan
+ENCFF371ZKC	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF371ZKC/@@download/ENCFF371ZKC.bigWig	nan
+ENCFF156GJU	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF156GJU/@@download/ENCFF156GJU.bigWig	nan
+ENCFF488PRF	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF488PRF/@@download/ENCFF488PRF.bigWig	nan
+ENCFF062WLH	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF062WLH/@@download/ENCFF062WLH.bigWig	nan
+ENCFF137KZR	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF137KZR/@@download/ENCFF137KZR.bigWig	nan
+ENCFF546VCE	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF546VCE/@@download/ENCFF546VCE.bigWig	nan
+ENCFF302UYV	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF302UYV/@@download/ENCFF302UYV.bigWig	nan
+ENCFF336MIJ	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF336MIJ/@@download/ENCFF336MIJ.bigWig	nan
+ENCFF393NEJ	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF393NEJ/@@download/ENCFF393NEJ.bigWig	nan
+ENCFF884MZR	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF884MZR/@@download/ENCFF884MZR.bigWig	nan
+ENCFF072ETP	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF072ETP/@@download/ENCFF072ETP.bigWig	nan
+ENCFF616FVZ	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF616FVZ/@@download/ENCFF616FVZ.bigWig	nan
+ENCFF796CNP	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF796CNP/@@download/ENCFF796CNP.bigWig	nan
+ENCFF319HQY	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF319HQY/@@download/ENCFF319HQY.bigWig	nan
+ENCFF146LLE	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF146LLE/@@download/ENCFF146LLE.bigWig	nan
+ENCFF457ZFQ	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF457ZFQ/@@download/ENCFF457ZFQ.bigWig	nan
+ENCFF432RWD	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF432RWD/@@download/ENCFF432RWD.bigWig	nan
+ENCFF419XHK	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF419XHK/@@download/ENCFF419XHK.bigWig	nan
+ENCFF973ZFT	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF973ZFT/@@download/ENCFF973ZFT.bigWig	nan
+ENCFF981HHV	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF981HHV/@@download/ENCFF981HHV.bigWig	nan
+ENCFF548SBE	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF548SBE/@@download/ENCFF548SBE.bigWig	nan
+ENCFF937OHJ	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF937OHJ/@@download/ENCFF937OHJ.bigWig	nan
+ENCFF161XMB	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF161XMB/@@download/ENCFF161XMB.bigWig	nan
+ENCFF540LQT	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF540LQT/@@download/ENCFF540LQT.bigWig	nan
+ENCFF552PJH	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF552PJH/@@download/ENCFF552PJH.bigWig	nan
+ENCFF280QCV	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF280QCV/@@download/ENCFF280QCV.bigWig	nan
+ENCFF943HGP	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF943HGP/@@download/ENCFF943HGP.bigWig	nan
+ENCFF472UDH	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF472UDH/@@download/ENCFF472UDH.bigWig	nan
+ENCFF730XOV	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF730XOV/@@download/ENCFF730XOV.bigWig	nan
+ENCFF496PUD	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF496PUD/@@download/ENCFF496PUD.bigWig	nan
+ENCFF393UAO	TF ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	CTCF-human	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF393UAO/@@download/ENCFF393UAO.bigWig	nan
+ENCFF950LIB	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF950LIB/@@download/ENCFF950LIB.bigWig	nan
+ENCFF694XDN	Histone ChIP-seq	GRCh38	fold change over control	dorsolateral prefrontal cortex	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF694XDN/@@download/ENCFF694XDN.bigWig	nan

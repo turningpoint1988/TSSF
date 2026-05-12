@@ -1,0 +1,25 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF512LRK	polyA plus RNA-seq	GRCh38	gene quantifications	foreskin fibroblast	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF512LRK/@@download/ENCFF512LRK.tsv	V29
+ENCFF151WUJ	polyA plus RNA-seq	GRCh38	gene quantifications	foreskin fibroblast	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF151WUJ/@@download/ENCFF151WUJ.tsv	V29
+ENCFF798ARN	DNase-seq	GRCh38	read-depth normalized signal	foreskin fibroblast	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF798ARN/@@download/ENCFF798ARN.bigWig	nan
+ENCFF927PNR	DNase-seq	GRCh38	read-depth normalized signal	foreskin fibroblast	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF927PNR/@@download/ENCFF927PNR.bigWig	nan
+ENCFF022BVH	DNase-seq	GRCh38	read-depth normalized signal	foreskin fibroblast	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF022BVH/@@download/ENCFF022BVH.bigWig	nan
+ENCFF037CZN	DNase-seq	GRCh38	read-depth normalized signal	foreskin fibroblast	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF037CZN/@@download/ENCFF037CZN.bigWig	nan
+ENCFF329FKR	DNase-seq	GRCh38	read-depth normalized signal	foreskin fibroblast	primary cell	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF329FKR/@@download/ENCFF329FKR.bigWig	nan
+ENCFF261OJD	DNase-seq	GRCh38	read-depth normalized signal	foreskin fibroblast	primary cell	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF261OJD/@@download/ENCFF261OJD.bigWig	nan
+ENCFF047ISZ	TF ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF047ISZ/@@download/ENCFF047ISZ.bigWig	nan
+ENCFF944PFM	Histone ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF944PFM/@@download/ENCFF944PFM.bigWig	nan
+ENCFF074HNE	Histone ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF074HNE/@@download/ENCFF074HNE.bigWig	nan
+ENCFF292FFG	Histone ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF292FFG/@@download/ENCFF292FFG.bigWig	nan
+ENCFF509UMN	Histone ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF509UMN/@@download/ENCFF509UMN.bigWig	nan
+ENCFF908RLV	Histone ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF908RLV/@@download/ENCFF908RLV.bigWig	nan
+ENCFF352ESC	Histone ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF352ESC/@@download/ENCFF352ESC.bigWig	nan
+ENCFF388QVC	Histone ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF388QVC/@@download/ENCFF388QVC.bigWig	nan
+ENCFF342SCQ	Histone ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF342SCQ/@@download/ENCFF342SCQ.bigWig	nan
+ENCFF578EWW	Histone ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF578EWW/@@download/ENCFF578EWW.bigWig	nan
+ENCFF752EUQ	Histone ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF752EUQ/@@download/ENCFF752EUQ.bigWig	nan
+ENCFF853UQR	TF ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF853UQR/@@download/ENCFF853UQR.bigWig	nan
+ENCFF440IYC	TF ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF440IYC/@@download/ENCFF440IYC.bigWig	nan
+ENCFF076GOF	TF ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF076GOF/@@download/ENCFF076GOF.bigWig	nan
+ENCFF168UPV	Histone ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF168UPV/@@download/ENCFF168UPV.bigWig	nan
+ENCFF123FVI	Histone ChIP-seq	GRCh38	fold change over control	foreskin fibroblast	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF123FVI/@@download/ENCFF123FVI.bigWig	nan

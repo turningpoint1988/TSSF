@@ -1,0 +1,71 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF518PXY	polyA plus RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF518PXY/@@download/ENCFF518PXY.tsv	V29
+ENCFF605VAB	polyA plus RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF605VAB/@@download/ENCFF605VAB.tsv	V29
+ENCFF743UBV	total RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF743UBV/@@download/ENCFF743UBV.tsv	V29
+ENCFF517LIG	polyA plus RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF517LIG/@@download/ENCFF517LIG.tsv	V29
+ENCFF539KXZ	total RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF539KXZ/@@download/ENCFF539KXZ.tsv	V29
+ENCFF906UKI	polyA plus RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF906UKI/@@download/ENCFF906UKI.tsv	V29
+ENCFF792KTB	total RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF792KTB/@@download/ENCFF792KTB.tsv	V29
+ENCFF358WTK	polyA plus RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF358WTK/@@download/ENCFF358WTK.tsv	V29
+ENCFF149EAW	polyA plus RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF149EAW/@@download/ENCFF149EAW.tsv	V29
+ENCFF773UYG	polyA plus RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF773UYG/@@download/ENCFF773UYG.tsv	V29
+ENCFF295BLS	polyA plus RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF295BLS/@@download/ENCFF295BLS.tsv	V29
+ENCFF151YRN	polyA plus RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF151YRN/@@download/ENCFF151YRN.tsv	V29
+ENCFF008RKC	total RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF008RKC/@@download/ENCFF008RKC.tsv	V29
+ENCFF993FDD	total RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF993FDD/@@download/ENCFF993FDD.tsv	V29
+ENCFF949ZRX	total RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF949ZRX/@@download/ENCFF949ZRX.tsv	V29
+ENCFF736QCV	total RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF736QCV/@@download/ENCFF736QCV.tsv	V29
+ENCFF661RYJ	total RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF661RYJ/@@download/ENCFF661RYJ.tsv	V29
+ENCFF710YES	total RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF710YES/@@download/ENCFF710YES.tsv	V29
+ENCFF491ISO	total RNA-seq	GRCh38	gene quantifications	adrenal gland	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF491ISO/@@download/ENCFF491ISO.tsv	V29
+ENCFF150WZO	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF150WZO/@@download/ENCFF150WZO.bigWig	nan
+ENCFF452CPH	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF452CPH/@@download/ENCFF452CPH.bigWig	nan
+ENCFF110BAY	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF110BAY/@@download/ENCFF110BAY.bigWig	nan
+ENCFF193WRL	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF193WRL/@@download/ENCFF193WRL.bigWig	nan
+ENCFF518SGA	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF518SGA/@@download/ENCFF518SGA.bigWig	nan
+ENCFF316SZE	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF316SZE/@@download/ENCFF316SZE.bigWig	nan
+ENCFF379NJY	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_7	https://www.encodeproject.org/files/ENCFF379NJY/@@download/ENCFF379NJY.bigWig	nan
+ENCFF237KCK	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF237KCK/@@download/ENCFF237KCK.bigWig	nan
+ENCFF242OKC	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF242OKC/@@download/ENCFF242OKC.bigWig	nan
+ENCFF098BSH	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_3	https://www.encodeproject.org/files/ENCFF098BSH/@@download/ENCFF098BSH.bigWig	nan
+ENCFF967PSY	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF967PSY/@@download/ENCFF967PSY.bigWig	nan
+ENCFF801REE	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF801REE/@@download/ENCFF801REE.bigWig	nan
+ENCFF544IBL	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF544IBL/@@download/ENCFF544IBL.bigWig	nan
+ENCFF676EBG	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_4	https://www.encodeproject.org/files/ENCFF676EBG/@@download/ENCFF676EBG.bigWig	nan
+ENCFF004OUB	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF004OUB/@@download/ENCFF004OUB.bigWig	nan
+ENCFF693WYZ	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF693WYZ/@@download/ENCFF693WYZ.bigWig	nan
+ENCFF438OIC	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_3	https://www.encodeproject.org/files/ENCFF438OIC/@@download/ENCFF438OIC.bigWig	nan
+ENCFF231WCT	DNase-seq	GRCh38	read-depth normalized signal	adrenal gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF231WCT/@@download/ENCFF231WCT.bigWig	nan
+ENCFF244XNP	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF244XNP/@@download/ENCFF244XNP.bigWig	nan
+ENCFF846NEP	TF ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF846NEP/@@download/ENCFF846NEP.bigWig	nan
+ENCFF928LBS	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K4me3-human	1	1_2	https://www.encodeproject.org/files/ENCFF928LBS/@@download/ENCFF928LBS.bigWig	nan
+ENCFF419QIY	TF ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF419QIY/@@download/ENCFF419QIY.bigWig	nan
+ENCFF678USC	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K4me3-human	1	1_2	https://www.encodeproject.org/files/ENCFF678USC/@@download/ENCFF678USC.bigWig	nan
+ENCFF736XTD	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K27ac-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF736XTD/@@download/ENCFF736XTD.bigWig	nan
+ENCFF171CSB	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF171CSB/@@download/ENCFF171CSB.bigWig	nan
+ENCFF464QEK	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K27ac-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF464QEK/@@download/ENCFF464QEK.bigWig	nan
+ENCFF729CVK	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K27ac-human	1	1_1, 1_3	https://www.encodeproject.org/files/ENCFF729CVK/@@download/ENCFF729CVK.bigWig	nan
+ENCFF988PAA	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K27ac-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF988PAA/@@download/ENCFF988PAA.bigWig	nan
+ENCFF988QAR	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K27ac-human	1, 2	1_1, 1_3, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF988QAR/@@download/ENCFF988QAR.bigWig	nan
+ENCFF580ABR	TF ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF580ABR/@@download/ENCFF580ABR.bigWig	nan
+ENCFF796PZW	TF ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	CTCF-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF796PZW/@@download/ENCFF796PZW.bigWig	nan
+ENCFF737KPN	TF ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	CTCF-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF737KPN/@@download/ENCFF737KPN.bigWig	nan
+ENCFF053KMZ	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF053KMZ/@@download/ENCFF053KMZ.bigWig	nan
+ENCFF208RKY	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF208RKY/@@download/ENCFF208RKY.bigWig	nan
+ENCFF305BDD	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF305BDD/@@download/ENCFF305BDD.bigWig	nan
+ENCFF144JOJ	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF144JOJ/@@download/ENCFF144JOJ.bigWig	nan
+ENCFF735UKH	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF735UKH/@@download/ENCFF735UKH.bigWig	nan
+ENCFF355RRY	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF355RRY/@@download/ENCFF355RRY.bigWig	nan
+ENCFF827GEQ	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF827GEQ/@@download/ENCFF827GEQ.bigWig	nan
+ENCFF118BJN	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K4me3-human	1	1_3, 1_4	https://www.encodeproject.org/files/ENCFF118BJN/@@download/ENCFF118BJN.bigWig	nan
+ENCFF700TZZ	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K4me3-human	1, 2	1_3, 1_4, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF700TZZ/@@download/ENCFF700TZZ.bigWig	nan
+ENCFF387KZZ	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF387KZZ/@@download/ENCFF387KZZ.bigWig	nan
+ENCFF235TYQ	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF235TYQ/@@download/ENCFF235TYQ.bigWig	nan
+ENCFF860MMV	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF860MMV/@@download/ENCFF860MMV.bigWig	nan
+ENCFF672KET	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF672KET/@@download/ENCFF672KET.bigWig	nan
+ENCFF673UYG	TF ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF673UYG/@@download/ENCFF673UYG.bigWig	nan
+ENCFF659XPV	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K27ac-human	1	1_1, 1_3	https://www.encodeproject.org/files/ENCFF659XPV/@@download/ENCFF659XPV.bigWig	nan
+ENCFF623WKE	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF623WKE/@@download/ENCFF623WKE.bigWig	nan
+ENCFF035TJC	TF ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF035TJC/@@download/ENCFF035TJC.bigWig	nan
+ENCFF263CSV	Histone ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF263CSV/@@download/ENCFF263CSV.bigWig	nan
+ENCFF804PBU	TF ChIP-seq	GRCh38	fold change over control	adrenal gland	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF804PBU/@@download/ENCFF804PBU.bigWig	nan

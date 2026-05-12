@@ -1,0 +1,37 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF736CEQ	total RNA-seq	GRCh38	gene quantifications	thyroid gland	tissue	nan	2	2_1	https://www.encodeproject.org/files/ENCFF736CEQ/@@download/ENCFF736CEQ.tsv	V29
+ENCFF436POR	total RNA-seq	GRCh38	gene quantifications	thyroid gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF436POR/@@download/ENCFF436POR.tsv	V29
+ENCFF632UQN	total RNA-seq	GRCh38	gene quantifications	thyroid gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF632UQN/@@download/ENCFF632UQN.tsv	V29
+ENCFF330FDU	total RNA-seq	GRCh38	gene quantifications	thyroid gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF330FDU/@@download/ENCFF330FDU.tsv	V29
+ENCFF557IQC	total RNA-seq	GRCh38	gene quantifications	thyroid gland	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF557IQC/@@download/ENCFF557IQC.tsv	V29
+ENCFF704TBX	total RNA-seq	GRCh38	gene quantifications	thyroid gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF704TBX/@@download/ENCFF704TBX.tsv	V29
+ENCFF972PNH	total RNA-seq	GRCh38	gene quantifications	thyroid gland	tissue	nan	1	1_2	https://www.encodeproject.org/files/ENCFF972PNH/@@download/ENCFF972PNH.tsv	V29
+ENCFF016HGS	total RNA-seq	GRCh38	gene quantifications	thyroid gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF016HGS/@@download/ENCFF016HGS.tsv	V29
+ENCFF762FMJ	DNase-seq	GRCh38	read-depth normalized signal	thyroid gland	tissue	nan	1	1_3	https://www.encodeproject.org/files/ENCFF762FMJ/@@download/ENCFF762FMJ.bigWig	nan
+ENCFF677VKI	DNase-seq	GRCh38	read-depth normalized signal	thyroid gland	tissue	nan	1	1_2, 1_4	https://www.encodeproject.org/files/ENCFF677VKI/@@download/ENCFF677VKI.bigWig	nan
+ENCFF126DFR	DNase-seq	GRCh38	read-depth normalized signal	thyroid gland	tissue	nan	1	1_2, 1_4	https://www.encodeproject.org/files/ENCFF126DFR/@@download/ENCFF126DFR.bigWig	nan
+ENCFF017LRG	DNase-seq	GRCh38	read-depth normalized signal	thyroid gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF017LRG/@@download/ENCFF017LRG.bigWig	nan
+ENCFF211HIT	DNase-seq	GRCh38	read-depth normalized signal	thyroid gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF211HIT/@@download/ENCFF211HIT.bigWig	nan
+ENCFF047YGB	DNase-seq	GRCh38	read-depth normalized signal	thyroid gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF047YGB/@@download/ENCFF047YGB.bigWig	nan
+ENCFF379EHP	DNase-seq	GRCh38	read-depth normalized signal	thyroid gland	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF379EHP/@@download/ENCFF379EHP.bigWig	nan
+ENCFF510THG	TF ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF510THG/@@download/ENCFF510THG.bigWig	nan
+ENCFF603TNI	TF ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF603TNI/@@download/ENCFF603TNI.bigWig	nan
+ENCFF841RLM	TF ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF841RLM/@@download/ENCFF841RLM.bigWig	nan
+ENCFF648BZW	Histone ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF648BZW/@@download/ENCFF648BZW.bigWig	nan
+ENCFF330RLT	Histone ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	H3K27ac-human	2	2_3, 2_4	https://www.encodeproject.org/files/ENCFF330RLT/@@download/ENCFF330RLT.bigWig	nan
+ENCFF573DJV	Histone ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	H3K27ac-human	1, 2	1_1, 1_2, 2_3, 2_4	https://www.encodeproject.org/files/ENCFF573DJV/@@download/ENCFF573DJV.bigWig	nan
+ENCFF182XOA	Histone ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF182XOA/@@download/ENCFF182XOA.bigWig	nan
+ENCFF603YOU	Histone ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF603YOU/@@download/ENCFF603YOU.bigWig	nan
+ENCFF546UQS	Histone ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF546UQS/@@download/ENCFF546UQS.bigWig	nan
+ENCFF501SGE	Histone ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF501SGE/@@download/ENCFF501SGE.bigWig	nan
+ENCFF050PLB	Histone ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF050PLB/@@download/ENCFF050PLB.bigWig	nan
+ENCFF874CKO	TF ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF874CKO/@@download/ENCFF874CKO.bigWig	nan
+ENCFF321LZL	Histone ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF321LZL/@@download/ENCFF321LZL.bigWig	nan
+ENCFF397CJU	TF ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF397CJU/@@download/ENCFF397CJU.bigWig	nan
+ENCFF615PBA	TF ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF615PBA/@@download/ENCFF615PBA.bigWig	nan
+ENCFF759FVM	Histone ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	H3K4me3-human	2	2_2, 2_3	https://www.encodeproject.org/files/ENCFF759FVM/@@download/ENCFF759FVM.bigWig	nan
+ENCFF229BVH	Histone ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	H3K4me3-human	1, 2	1_1, 2_2, 2_3	https://www.encodeproject.org/files/ENCFF229BVH/@@download/ENCFF229BVH.bigWig	nan
+ENCFF006AHR	Histone ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF006AHR/@@download/ENCFF006AHR.bigWig	nan
+ENCFF452ZPE	TF ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF452ZPE/@@download/ENCFF452ZPE.bigWig	nan
+ENCFF145RER	Histone ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF145RER/@@download/ENCFF145RER.bigWig	nan
+ENCFF774RLX	Histone ChIP-seq	GRCh38	fold change over control	thyroid gland	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF774RLX/@@download/ENCFF774RLX.bigWig	nan

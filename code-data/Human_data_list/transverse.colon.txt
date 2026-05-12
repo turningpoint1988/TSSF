@@ -1,0 +1,50 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF366BBV	total RNA-seq	GRCh38	gene quantifications	transverse colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF366BBV/@@download/ENCFF366BBV.tsv	V29
+ENCFF490WXZ	total RNA-seq	GRCh38	gene quantifications	transverse colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF490WXZ/@@download/ENCFF490WXZ.tsv	V29
+ENCFF801VQX	total RNA-seq	GRCh38	gene quantifications	transverse colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF801VQX/@@download/ENCFF801VQX.tsv	V29
+ENCFF875UFG	total RNA-seq	GRCh38	gene quantifications	transverse colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF875UFG/@@download/ENCFF875UFG.tsv	V29
+ENCFF624FJD	DNase-seq	GRCh38	read-depth normalized signal	transverse colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF624FJD/@@download/ENCFF624FJD.bigWig	nan
+ENCFF138FMV	DNase-seq	GRCh38	read-depth normalized signal	transverse colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF138FMV/@@download/ENCFF138FMV.bigWig	nan
+ENCFF413EKZ	DNase-seq	GRCh38	read-depth normalized signal	transverse colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF413EKZ/@@download/ENCFF413EKZ.bigWig	nan
+ENCFF098CAJ	DNase-seq	GRCh38	read-depth normalized signal	transverse colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF098CAJ/@@download/ENCFF098CAJ.bigWig	nan
+ENCFF291LZE	DNase-seq	GRCh38	read-depth normalized signal	transverse colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF291LZE/@@download/ENCFF291LZE.bigWig	nan
+ENCFF753MXL	DNase-seq	GRCh38	read-depth normalized signal	transverse colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF753MXL/@@download/ENCFF753MXL.bigWig	nan
+ENCFF405NTZ	DNase-seq	GRCh38	read-depth normalized signal	transverse colon	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF405NTZ/@@download/ENCFF405NTZ.bigWig	nan
+ENCFF349LWW	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF349LWW/@@download/ENCFF349LWW.bigWig	nan
+ENCFF170KVV	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF170KVV/@@download/ENCFF170KVV.bigWig	nan
+ENCFF568IBR	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF568IBR/@@download/ENCFF568IBR.bigWig	nan
+ENCFF482PHA	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF482PHA/@@download/ENCFF482PHA.bigWig	nan
+ENCFF186LVC	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K27ac-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF186LVC/@@download/ENCFF186LVC.bigWig	nan
+ENCFF318ECM	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K27ac-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF318ECM/@@download/ENCFF318ECM.bigWig	nan
+ENCFF826GOW	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF826GOW/@@download/ENCFF826GOW.bigWig	nan
+ENCFF953YVT	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K27ac-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF953YVT/@@download/ENCFF953YVT.bigWig	nan
+ENCFF741NZM	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K27ac-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF741NZM/@@download/ENCFF741NZM.bigWig	nan
+ENCFF626YRZ	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF626YRZ/@@download/ENCFF626YRZ.bigWig	nan
+ENCFF585ESF	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF585ESF/@@download/ENCFF585ESF.bigWig	nan
+ENCFF823CPX	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF823CPX/@@download/ENCFF823CPX.bigWig	nan
+ENCFF162LBZ	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF162LBZ/@@download/ENCFF162LBZ.bigWig	nan
+ENCFF435CDF	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	2, 3	2_1, 3_1	https://www.encodeproject.org/files/ENCFF435CDF/@@download/ENCFF435CDF.bigWig	nan
+ENCFF092STX	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	3	3_1	https://www.encodeproject.org/files/ENCFF092STX/@@download/ENCFF092STX.bigWig	nan
+ENCFF781QDU	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF781QDU/@@download/ENCFF781QDU.bigWig	nan
+ENCFF058TIJ	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF058TIJ/@@download/ENCFF058TIJ.bigWig	nan
+ENCFF686TFX	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF686TFX/@@download/ENCFF686TFX.bigWig	nan
+ENCFF726GVA	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF726GVA/@@download/ENCFF726GVA.bigWig	nan
+ENCFF564KXX	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K27ac-human	3	3_1	https://www.encodeproject.org/files/ENCFF564KXX/@@download/ENCFF564KXX.bigWig	nan
+ENCFF427MZX	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K27ac-human	1, 3	1_1, 1_2, 3_1	https://www.encodeproject.org/files/ENCFF427MZX/@@download/ENCFF427MZX.bigWig	nan
+ENCFF534AMN	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K4me3-human	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF534AMN/@@download/ENCFF534AMN.bigWig	nan
+ENCFF427XFO	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF427XFO/@@download/ENCFF427XFO.bigWig	nan
+ENCFF339CRV	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K4me3-human	1, 2	1_1, 1_2, 1_3, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF339CRV/@@download/ENCFF339CRV.bigWig	nan
+ENCFF493XMW	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF493XMW/@@download/ENCFF493XMW.bigWig	nan
+ENCFF517GQE	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF517GQE/@@download/ENCFF517GQE.bigWig	nan
+ENCFF225VVJ	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF225VVJ/@@download/ENCFF225VVJ.bigWig	nan
+ENCFF081EHT	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF081EHT/@@download/ENCFF081EHT.bigWig	nan
+ENCFF646EZE	TF ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	CTCF-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF646EZE/@@download/ENCFF646EZE.bigWig	nan
+ENCFF854YHI	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF854YHI/@@download/ENCFF854YHI.bigWig	nan
+ENCFF252OBP	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K4me3-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF252OBP/@@download/ENCFF252OBP.bigWig	nan
+ENCFF882OND	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF882OND/@@download/ENCFF882OND.bigWig	nan
+ENCFF016WGD	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF016WGD/@@download/ENCFF016WGD.bigWig	nan
+ENCFF585FKJ	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K27ac-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF585FKJ/@@download/ENCFF585FKJ.bigWig	nan
+ENCFF532ZGB	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K27ac-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF532ZGB/@@download/ENCFF532ZGB.bigWig	nan
+ENCFF959OZR	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K4me3-human	2	2_1, 2_2	https://www.encodeproject.org/files/ENCFF959OZR/@@download/ENCFF959OZR.bigWig	nan
+ENCFF451EGE	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF451EGE/@@download/ENCFF451EGE.bigWig	nan
+ENCFF487CTD	Histone ChIP-seq	GRCh38	fold change over control	transverse colon	tissue	H3K4me3-human	1, 2	1_1, 1_2, 2_1, 2_2	https://www.encodeproject.org/files/ENCFF487CTD/@@download/ENCFF487CTD.bigWig	nan

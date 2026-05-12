@@ -1,0 +1,40 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF091QAX	polyA plus RNA-seq	GRCh38	gene quantifications	keratinocyte	primary cell	nan	4	4_1	https://www.encodeproject.org/files/ENCFF091QAX/@@download/ENCFF091QAX.tsv	V29
+ENCFF511FNY	polyA plus RNA-seq	GRCh38	gene quantifications	keratinocyte	primary cell	nan	3	3_1	https://www.encodeproject.org/files/ENCFF511FNY/@@download/ENCFF511FNY.tsv	V29
+ENCFF158FVF	polyA plus RNA-seq	GRCh38	gene quantifications	keratinocyte	primary cell	nan	4	4_1	https://www.encodeproject.org/files/ENCFF158FVF/@@download/ENCFF158FVF.tsv	V29
+ENCFF008POC	polyA plus RNA-seq	GRCh38	gene quantifications	keratinocyte	primary cell	nan	3	3_1	https://www.encodeproject.org/files/ENCFF008POC/@@download/ENCFF008POC.tsv	V29
+ENCFF004JWA	polyA plus RNA-seq	GRCh38	gene quantifications	keratinocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF004JWA/@@download/ENCFF004JWA.tsv	V29
+ENCFF223GBX	polyA plus RNA-seq	GRCh38	gene quantifications	keratinocyte	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF223GBX/@@download/ENCFF223GBX.tsv	V29
+ENCFF198VCX	polyA plus RNA-seq	GRCh38	gene quantifications	keratinocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF198VCX/@@download/ENCFF198VCX.tsv	V29
+ENCFF008KUV	polyA plus RNA-seq	GRCh38	gene quantifications	keratinocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF008KUV/@@download/ENCFF008KUV.tsv	V29
+ENCFF036KGP	polyA plus RNA-seq	GRCh38	gene quantifications	keratinocyte	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF036KGP/@@download/ENCFF036KGP.tsv	V29
+ENCFF104BAF	polyA plus RNA-seq	GRCh38	gene quantifications	keratinocyte	primary cell	nan	5	5_1	https://www.encodeproject.org/files/ENCFF104BAF/@@download/ENCFF104BAF.tsv	V29
+ENCFF839EGC	DNase-seq	GRCh38	read-depth normalized signal	keratinocyte	primary cell	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF839EGC/@@download/ENCFF839EGC.bigWig	nan
+ENCFF404ILZ	DNase-seq	GRCh38	read-depth normalized signal	keratinocyte	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF404ILZ/@@download/ENCFF404ILZ.bigWig	nan
+ENCFF494IGD	DNase-seq	GRCh38	read-depth normalized signal	keratinocyte	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF494IGD/@@download/ENCFF494IGD.bigWig	nan
+ENCFF271QIS	Histone ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF271QIS/@@download/ENCFF271QIS.bigWig	nan
+ENCFF707SGV	Histone ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF707SGV/@@download/ENCFF707SGV.bigWig	nan
+ENCFF719EBT	Histone ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF719EBT/@@download/ENCFF719EBT.bigWig	nan
+ENCFF888BTV	TF ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF888BTV/@@download/ENCFF888BTV.bigWig	nan
+ENCFF002TKW	TF ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	CTCF-human	3	3_1	https://www.encodeproject.org/files/ENCFF002TKW/@@download/ENCFF002TKW.bigWig	nan
+ENCFF638DZB	TF ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	CTCF-human	1, 2, 3	1_1, 2_1, 3_1	https://www.encodeproject.org/files/ENCFF638DZB/@@download/ENCFF638DZB.bigWig	nan
+ENCFF889RYH	TF ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF889RYH/@@download/ENCFF889RYH.bigWig	nan
+ENCFF512LNU	TF ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF512LNU/@@download/ENCFF512LNU.bigWig	nan
+ENCFF039CTD	TF ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF039CTD/@@download/ENCFF039CTD.bigWig	nan
+ENCFF668CCM	TF ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF668CCM/@@download/ENCFF668CCM.bigWig	nan
+ENCFF107CUR	Histone ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF107CUR/@@download/ENCFF107CUR.bigWig	nan
+ENCFF079YXO	Histone ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	H3K4me3-human	1, 2, 3	1_1, 2_1, 3_1	https://www.encodeproject.org/files/ENCFF079YXO/@@download/ENCFF079YXO.bigWig	nan
+ENCFF421HXW	Histone ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	H3K4me3-human	3	3_1	https://www.encodeproject.org/files/ENCFF421HXW/@@download/ENCFF421HXW.bigWig	nan
+ENCFF539ZRC	Histone ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF539ZRC/@@download/ENCFF539ZRC.bigWig	nan
+ENCFF443TJZ	Histone ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF443TJZ/@@download/ENCFF443TJZ.bigWig	nan
+ENCFF575SBG	Histone ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF575SBG/@@download/ENCFF575SBG.bigWig	nan
+ENCFF360XRT	Histone ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF360XRT/@@download/ENCFF360XRT.bigWig	nan
+ENCFF318UHZ	TF ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF318UHZ/@@download/ENCFF318UHZ.bigWig	nan
+ENCFF771DBH	TF ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF771DBH/@@download/ENCFF771DBH.bigWig	nan
+ENCFF261CVM	TF ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF261CVM/@@download/ENCFF261CVM.bigWig	nan
+ENCFF411GZX	TF ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF411GZX/@@download/ENCFF411GZX.bigWig	nan
+ENCFF298JJU	TF ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF298JJU/@@download/ENCFF298JJU.bigWig	nan
+ENCFF013ROK	TF ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF013ROK/@@download/ENCFF013ROK.bigWig	nan
+ENCFF233IOE	Histone ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF233IOE/@@download/ENCFF233IOE.bigWig	nan
+ENCFF632PUY	Histone ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF632PUY/@@download/ENCFF632PUY.bigWig	nan
+ENCFF339PFJ	Histone ChIP-seq	GRCh38	fold change over control	keratinocyte	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF339PFJ/@@download/ENCFF339PFJ.bigWig	nan

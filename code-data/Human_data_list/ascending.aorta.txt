@@ -1,0 +1,11 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF898UXF	total RNA-seq	GRCh38	gene quantifications	ascending aorta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF898UXF/@@download/ENCFF898UXF.tsv	V29
+ENCFF707HLC	DNase-seq	GRCh38	read-depth normalized signal	ascending aorta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF707HLC/@@download/ENCFF707HLC.bigWig	nan
+ENCFF022SDS	DNase-seq	GRCh38	read-depth normalized signal	ascending aorta	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF022SDS/@@download/ENCFF022SDS.bigWig	nan
+ENCFF258ZDQ	TF ChIP-seq	GRCh38	fold change over control	ascending aorta	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF258ZDQ/@@download/ENCFF258ZDQ.bigWig	nan
+ENCFF557HHH	Histone ChIP-seq	GRCh38	fold change over control	ascending aorta	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF557HHH/@@download/ENCFF557HHH.bigWig	nan
+ENCFF880CZK	TF ChIP-seq	GRCh38	fold change over control	ascending aorta	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF880CZK/@@download/ENCFF880CZK.bigWig	nan
+ENCFF935CPK	Histone ChIP-seq	GRCh38	fold change over control	ascending aorta	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF935CPK/@@download/ENCFF935CPK.bigWig	nan
+ENCFF132YWJ	Histone ChIP-seq	GRCh38	fold change over control	ascending aorta	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF132YWJ/@@download/ENCFF132YWJ.bigWig	nan
+ENCFF118EKX	Histone ChIP-seq	GRCh38	fold change over control	ascending aorta	tissue	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF118EKX/@@download/ENCFF118EKX.bigWig	nan
+ENCFF857NIC	TF ChIP-seq	GRCh38	fold change over control	ascending aorta	tissue	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF857NIC/@@download/ENCFF857NIC.bigWig	nan

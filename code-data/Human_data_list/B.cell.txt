@@ -1,0 +1,30 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF192WQE	total RNA-seq	GRCh38	gene quantifications	B cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF192WQE/@@download/ENCFF192WQE.tsv	V29
+ENCFF740YHF	total RNA-seq	GRCh38	gene quantifications	B cell	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF740YHF/@@download/ENCFF740YHF.tsv	V29
+ENCFF947SKG	polyA plus RNA-seq	GRCh38	gene quantifications	B cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF947SKG/@@download/ENCFF947SKG.tsv	V29
+ENCFF474IAB	polyA plus RNA-seq	GRCh38	gene quantifications	B cell	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF474IAB/@@download/ENCFF474IAB.tsv	V29
+ENCFF129QAV	polyA plus RNA-seq	GRCh38	gene quantifications	B cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF129QAV/@@download/ENCFF129QAV.tsv	V29
+ENCFF832BVB	DNase-seq	GRCh38	read-depth normalized signal	B cell	primary cell	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF832BVB/@@download/ENCFF832BVB.bigWig	nan
+ENCFF791QXM	DNase-seq	GRCh38	read-depth normalized signal	B cell	primary cell	nan	1	1_2	https://www.encodeproject.org/files/ENCFF791QXM/@@download/ENCFF791QXM.bigWig	nan
+ENCFF993MFJ	DNase-seq	GRCh38	read-depth normalized signal	B cell	primary cell	nan	1	1_2	https://www.encodeproject.org/files/ENCFF993MFJ/@@download/ENCFF993MFJ.bigWig	nan
+ENCFF134KAD	DNase-seq	GRCh38	read-depth normalized signal	B cell	primary cell	nan	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF134KAD/@@download/ENCFF134KAD.bigWig	nan
+ENCFF112YXL	DNase-seq	GRCh38	read-depth normalized signal	B cell	primary cell	nan	2	2_1	https://www.encodeproject.org/files/ENCFF112YXL/@@download/ENCFF112YXL.bigWig	nan
+ENCFF452URQ	DNase-seq	GRCh38	read-depth normalized signal	B cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF452URQ/@@download/ENCFF452URQ.bigWig	nan
+ENCFF429CVH	DNase-seq	GRCh38	read-depth normalized signal	B cell	primary cell	nan	1	1_1	https://www.encodeproject.org/files/ENCFF429CVH/@@download/ENCFF429CVH.bigWig	nan
+ENCFF309ZUP	TF ChIP-seq	GRCh38	fold change over control	B cell	primary cell	CTCF-human	1	1_1, 1_2, 1_3	https://www.encodeproject.org/files/ENCFF309ZUP/@@download/ENCFF309ZUP.bigWig	nan
+ENCFF350OLM	Histone ChIP-seq	GRCh38	fold change over control	B cell	primary cell	H3K4me3-human	3	3_1	https://www.encodeproject.org/files/ENCFF350OLM/@@download/ENCFF350OLM.bigWig	nan
+ENCFF244JWU	Histone ChIP-seq	GRCh38	fold change over control	B cell	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF244JWU/@@download/ENCFF244JWU.bigWig	nan
+ENCFF948TIV	Histone ChIP-seq	GRCh38	fold change over control	B cell	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF948TIV/@@download/ENCFF948TIV.bigWig	nan
+ENCFF837AKS	Histone ChIP-seq	GRCh38	fold change over control	B cell	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF837AKS/@@download/ENCFF837AKS.bigWig	nan
+ENCFF851PJG	Histone ChIP-seq	GRCh38	fold change over control	B cell	primary cell	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF851PJG/@@download/ENCFF851PJG.bigWig	nan
+ENCFF588PNQ	Histone ChIP-seq	GRCh38	fold change over control	B cell	primary cell	H3K4me3-human	2	2_1	https://www.encodeproject.org/files/ENCFF588PNQ/@@download/ENCFF588PNQ.bigWig	nan
+ENCFF682CXH	Histone ChIP-seq	GRCh38	fold change over control	B cell	primary cell	H3K4me3-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF682CXH/@@download/ENCFF682CXH.bigWig	nan
+ENCFF175WBS	TF ChIP-seq	GRCh38	fold change over control	B cell	primary cell	CTCF-human	1	1_1	https://www.encodeproject.org/files/ENCFF175WBS/@@download/ENCFF175WBS.bigWig	nan
+ENCFF418EBS	TF ChIP-seq	GRCh38	fold change over control	B cell	primary cell	CTCF-human	2	2_1	https://www.encodeproject.org/files/ENCFF418EBS/@@download/ENCFF418EBS.bigWig	nan
+ENCFF035DJL	TF ChIP-seq	GRCh38	fold change over control	B cell	primary cell	CTCF-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF035DJL/@@download/ENCFF035DJL.bigWig	nan
+ENCFF781ZDY	Histone ChIP-seq	GRCh38	fold change over control	B cell	primary cell	H3K27ac-human	1, 2	1_1, 2_1	https://www.encodeproject.org/files/ENCFF781ZDY/@@download/ENCFF781ZDY.bigWig	nan
+ENCFF474MNE	Histone ChIP-seq	GRCh38	fold change over control	B cell	primary cell	H3K27ac-human	1	1_1	https://www.encodeproject.org/files/ENCFF474MNE/@@download/ENCFF474MNE.bigWig	nan
+ENCFF286JPM	Histone ChIP-seq	GRCh38	fold change over control	B cell	primary cell	H3K27ac-human	2	2_1	https://www.encodeproject.org/files/ENCFF286JPM/@@download/ENCFF286JPM.bigWig	nan
+ENCFF917JIG	Histone ChIP-seq	GRCh38	fold change over control	B cell	primary cell	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF917JIG/@@download/ENCFF917JIG.bigWig	nan
+ENCFF089VAB	Histone ChIP-seq	GRCh38	fold change over control	B cell	primary cell	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF089VAB/@@download/ENCFF089VAB.bigWig	nan
+ENCFF807GVN	Histone ChIP-seq	GRCh38	fold change over control	B cell	primary cell	H3K4me3-human	1	1_2	https://www.encodeproject.org/files/ENCFF807GVN/@@download/ENCFF807GVN.bigWig	nan

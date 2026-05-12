@@ -1,0 +1,12 @@
+File accession	Assay	File assembly	Output type	Biosample term name	Biosample type	Experiment target	Biological replicate(s)	Technical replicate(s)	File download URL	Genome annotation
+ENCFF285AKX	total RNA-seq	GRCh38	gene quantifications	colonic mucosa	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF285AKX/@@download/ENCFF285AKX.tsv	V29
+ENCFF169LQZ	total RNA-seq	GRCh38	gene quantifications	colonic mucosa	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF169LQZ/@@download/ENCFF169LQZ.tsv	V29
+ENCFF841ILF	DNase-seq	GRCh38	read-depth normalized signal	colonic mucosa	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF841ILF/@@download/ENCFF841ILF.bigWig	nan
+ENCFF761ZGJ	DNase-seq	GRCh38	read-depth normalized signal	colonic mucosa	tissue	nan	1	1_1	https://www.encodeproject.org/files/ENCFF761ZGJ/@@download/ENCFF761ZGJ.bigWig	nan
+ENCFF349BGH	Histone ChIP-seq	GRCh38	fold change over control	colonic mucosa	tissue	H3K4me3-human	1	1_4	https://www.encodeproject.org/files/ENCFF349BGH/@@download/ENCFF349BGH.bigWig	nan
+ENCFF220ZKF	Histone ChIP-seq	GRCh38	fold change over control	colonic mucosa	tissue	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF220ZKF/@@download/ENCFF220ZKF.bigWig	nan
+ENCFF051JTV	Histone ChIP-seq	GRCh38	fold change over control	colonic mucosa	tissue	H3K4me3-human	1	1_1	https://www.encodeproject.org/files/ENCFF051JTV/@@download/ENCFF051JTV.bigWig	nan
+ENCFF650EZM	Histone ChIP-seq	GRCh38	fold change over control	colonic mucosa	tissue	H3K27ac-human	1	1_2	https://www.encodeproject.org/files/ENCFF650EZM/@@download/ENCFF650EZM.bigWig	nan
+ENCFF173NSX	Histone ChIP-seq	GRCh38	fold change over control	colonic mucosa	tissue	H3K4me3-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF173NSX/@@download/ENCFF173NSX.bigWig	nan
+ENCFF546ZNQ	TF ChIP-seq	GRCh38	fold change over control	colonic mucosa	tissue	CTCF-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF546ZNQ/@@download/ENCFF546ZNQ.bigWig	nan
+ENCFF004SRJ	Histone ChIP-seq	GRCh38	fold change over control	colonic mucosa	tissue	H3K27ac-human	1	1_1, 1_2	https://www.encodeproject.org/files/ENCFF004SRJ/@@download/ENCFF004SRJ.bigWig	nan
