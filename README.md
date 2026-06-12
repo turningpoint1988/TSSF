@@ -1,7 +1,6 @@
-# TSSF
+# Hierarchical refinements of cis-regulatory inputs improve scalable gene expression prediction
 
-**Hierarchical refinements of cis-regulatory inputs improve scalable gene expression prediction** <br/>
-The flowchart of TSSF is displayed as follows:
+**The flowchart of TSSF is displayed as follows:** <br/>
 
 <p align="center"> 
 <img src=https://github.com/turningpoint1988/TSSF/blob/main/figure/flowchart.jpg>
