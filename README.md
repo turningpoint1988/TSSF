@@ -1,6 +1,6 @@
 # TSSF
 
-**A Two-Stage Selective Framework for Improving Gene Expression Prediction** <br/>
+**Hierarchical refinements of cis-regulatory inputs improve scalable gene expression prediction** <br/>
 The flowchart of TSSF is displayed as follows:
 
 <p align="center"> 
